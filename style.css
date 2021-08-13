@@ -89,7 +89,7 @@
         .stickB:checked ~ .stick .stickContent{display:none} 
         .stickB:checked ~ .stick{padding:0;min-height:0} 
        
-        .hidden{display:none}
+        .hidden{display:none;}
         
        .fullWeb{
        position: fixed;
