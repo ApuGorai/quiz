@@ -5,9 +5,9 @@
       <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
       <link href='ask3schools.png' rel='icon' type='image/x-icon'/>
       <link rel="stylesheet" href="style.css"/>
-      <script src="index.js" defer></script>
+      <!--<script src="index.js" defer></script>-->
       <script src="dark.js"></script>
-      <link rel="manifest" href="manifest.webmanifest">
+     <!-- <link rel="manifest" href="manifest.webmanifest">-->
     </head>
  <body>
    <div id="web">
@@ -63,19 +63,13 @@
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
              <button class="">🏠</button>
-             <button class="" onclick="document.querySelector('#wbSchools').classList.add('fullWeb')" > 🌐</button>
+             <button class="" onclick="document.querySelector('#web').style.display='none';document.querySelector('#wbSchools').classList.add('fullWeb')"> 🌐</button>
              <button class="" onclick="darkMode()">🌙</button>
              <button class="">🙎‍♂️</button>
              <button class="addbtn">🔔</button>
           </div>
        </div>
      </footer>
-        <iframe class="hiddenh fullWeb" id="wbSchools" src="https://ask.3schools.in"></iframe>
-     <script>
-     function darkMode() {
-       var elementD = document.body;
-       elementD.classList.toggle("dark-mode");
-         }
-     </script>
+        <iframe class="hidden" id="wbSchools" src="https://ask.3schools.in"></iframe>
    </body>
 </html>
