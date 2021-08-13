@@ -1,8 +1,25 @@
-html,body{margin:0;padding:0;background-color:;}
-       *{
-       text-decoration:none;
-       font-family:serif;
-       } 
+:root {
+    --app-background: radial-gradient(#cdd0ff 1px,transparent 0),radial-gradient(#cdd0ff 1px,#fefefe 0);
+    --app-selection-color: #6cd0ff;
+    --text-base-color: #000;
+    
+    --dark-app-background: radial-gradient(#15155a 1px,#111 0),radial-gradient(#15155a 1px,#111 0);
+    --dark-app-selection-color: #111;
+    --dark-text-base-color: #fff;
+    }
+    *{
+    text-decoration:none;
+    font-family:serif;
+    } 
+    body {
+    background-color: var(--app-background-color);
+    background-image: var(--app-background);
+    background-size: 20px 20px;
+    background-position: 30px 30px;
+    color: var(--text-base-color);
+    margin:0;
+    }
+       
      #quizHeader{
       background:linear-gradient(to right top , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
       box-shadow:0 10px 20px 0 rgba(60,60,60,0.4);
@@ -47,12 +64,8 @@ html,body{margin:0;padding:0;background-color:;}
         border:none;
         }
         .stickContent button:hover{
-        background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
-        color:#fff;
-        transition-duration:1s;
+        background:linear-gradient(to right, #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
         }
-        
-        
         
      .stick{
         position:fixed;
@@ -74,6 +87,18 @@ html,body{margin:0;padding:0;background-color:;}
         position:relative;
         } 
         .stickB:checked ~ .stick .stickContent{display:none} 
-        .stickB:checked ~ .stick{padding:0;min-height:0}  
+        .stickB:checked ~ .stick{padding:0;min-height:0} 
+       
         .hidden{display:none}
         
+        body.dark-mode ,.dark-mode .stick button{
+        background-color: var(--dark-app-background-color);
+        background-image: var(--dark-app-background);
+        background-size: 40px 40px;
+        background-position: 20px 20px;
+        color: var(--dark-text-base-color);
+        }
+        .dark-mode .stick button:hover{
+        background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+        transition-duration:2s;
+        }
