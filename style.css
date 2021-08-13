@@ -91,7 +91,7 @@
        
         .hidden{display:none}
         
-        #wbSchools{
+       .iframe{
        position: fixed;
        background:transparent;
        border:none;
