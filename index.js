@@ -14,16 +14,11 @@ window.addEventListener('beforeinstallprompt', (e) => {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
-        console.log('User Download Quiz Generator');
+        console.log('User Download WB 3schools');
       } else {
-        console.log('User will download Quiz Generator');
+        console.log('User will download WB 3schools');
       }
       deferredPrompt = null;
     });
   });
 }); 
-
-function darkMode() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
