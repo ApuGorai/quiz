@@ -1,0 +1,79 @@
+html,body{margin:0;padding:0;background-color:;}
+       *{
+       text-decoration:none;
+       font-family:serif;
+       } 
+     #quizHeader{
+      background:linear-gradient(to right top , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+      box-shadow:0 10px 20px 0 rgba(60,60,60,0.4);
+      border-radius:0 0 16px 16px;
+      padding:0 0 10px 0;
+       }
+      #quizHeader h1{
+        text-align:center;
+        color:#ff00ff;
+        text-shadow:4px 5px 4px #000f0f;
+        margin:0;
+        padding:10px 5px;
+        }
+        
+       #article {
+        margin:auto;
+        padding:5px;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-between;
+        }
+        
+        #article button{
+        width:45vw;
+        height:16vh;
+        padding:20px 40px;
+        margin:8px 0;
+        background:linear-gradient(to right top , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+        box-shadow:0 1px 5px 0 rgba(60,60,60,0.3);
+        border:;
+        border-radius:5px;
+        }
+       .body{
+       padding:4px 9px;
+        }
+        
+        .stickContent button{
+        padding:8px 14px;
+        margin:0px 8px;
+        font-size:19px;
+        border-radius:5px;
+        border:none;
+        }
+        .stickContent button:hover{
+        background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+        color:#fff;
+        transition-duration:1s;
+        }
+        
+        
+        
+     .stick{
+        position:fixed;
+        bottom:0;left:0;right:0;
+        width:100%;
+        min-height:50px;
+        max-height:80px;
+        padding:5px 5px 0;
+        border-radius:15px 0 0 0;
+        background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+        box-shadow:0 -10px 20px 0 rgba(60,60,60,0.4);
+        transition-duration:0.6s; display:flex;align-items:center;justify-content:center;z-index:40;} 
+        .stickClose{width:40px;height:30px;display:flex;align-items:center;justify-content:center;border-radius:12px 0 0;position:absolute;right:0;top:-30px;background:linear-gradient(to right bottom, #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff); box-shadow:0 1px 20px 0 rgba(60,60,60,0.4);} 
+        .stickContent{
+        flex-grow:1;
+        overflow:hidden;
+        display:flex;
+        justify-content:space-between;
+        position:relative;
+        } 
+        .stickB:checked ~ .stick .stickContent{display:none} 
+        .stickB:checked ~ .stick{padding:0;min-height:0}  
+        .hidden{display:none}
+        
