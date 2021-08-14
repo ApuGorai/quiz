@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+  <html>
+     <head>
+       <title>WB 3schools</title>
+      <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
+      <link href='ask3schools.png' rel='icon' type='image/x-icon'/>
+      <link rel="stylesheet" href="style.css"/>
+     <script src="index.js" defer></script>
+     <link rel="manifest" href="manifest.webmanifest">
+    </head>
+ <body>
+<iframe class="fullWeb" src="https://qyestion.blogspot.com/?m=1"></iframe>
+  <input  class='stickB hidden' id="stickB" type='checkbox'/>
+       <div class='stick'>
+          <label class='stickClose' for='stickB'>❌</label>
+         <div class='stickContent'>
+             <a href="https://3schools.github.io/quiz/index.html"><button class="">🏠</button></a>
+             <button class="" onclick="document.querySelector('#web').style.display='none';document.querySelector('#wbSchools').classList.add('fullWeb')"> 🌐</button>
+             <button class="" onclick="darkMode()">🌙</button>
+             <button class="">🙎‍♂️</button>
+             <button class="addbtn">🔔</button>
+          </div>
+       </div>
+  </body>
+</html>
