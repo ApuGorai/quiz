@@ -2,7 +2,7 @@
   "background_color": "#63e9f2",
   "theme_color": "#778af7",
   "version":"1.2.3",
-  "description": "WB 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।  A blog about generalscience,mocktest,r,English Grammar,wbcs,ssc,class12,class10,study,reasoning,gk,geography,current Affairs,education,history,Bengali,শিক্ষার সেরা ঠিকানা,আস্ক থ্রি স্কুল  ",
+  "description": "Wb 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।  A blog about generalscience,mocktest,r,English Grammar,wbcs,ssc,class12,class10,study,reasoning,gk,geography,current Affairs,education,history,Bengali,শিক্ষার সেরা ঠিকানা,আস্ক থ্রি স্কুল  ",
   "display": "standalone",
   "icons": [
     {
@@ -11,8 +11,8 @@
       "type": "image/png"
     }
   ],
-  "name": "WB 3schools",
+  "name": "Wb 3schools",
   "version":"1.2.3",
-  "short_name": "WB",
+  "short_name": "Wb 3schools",
   "start_url": "index.html"
 } 
