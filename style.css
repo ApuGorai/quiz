@@ -18,8 +18,8 @@
     background-position: 30px 30px;
     color: var(--text-base-color);
     margin:0;
-    }
-       
+    } h1,h2,he,h4,h5{font-size:1.4rem;}
+       input:focus,textarea:focus{outline:none;}
      #quizHeader{
       background:linear-gradient(to right top , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
       box-shadow:0 10px 20px 0 rgba(60,60,60,0.4);
