@@ -113,3 +113,11 @@
         background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
         transition-duration:2s;
         }
+        
+table{min-width:70%;margin:0 auto;border:0px solid rgba(0,0,0,.05);border-bottom:1px solid rgba(0,0,0,.05);border-radius:8px;overflow:hidden;font-size:14px;}
+table th{background-color:#505050;color:#fff;padding:10px;border-right:1px solid rgba(255,255,255,.25)}
+table th:last-child, table tr td:last-child, table tr:nth-child(2n) td:last-child{border-right:0}
+table tr:nth-child(2n+1) td:first-child{border-left:1px solid rgba(0,0,0,.05)}
+ table tr:nth-child(2n+1) td{border-right:1px solid rgba(0,0,0,.05)}
+ table td{padding:10px 15px;border:0;vertical-align:middle;}
+ table tr:nth-child(2n) td{background-color:rgba(0,0,0,.05);border-right:1px solid rgba(0,0,0,.06)}
