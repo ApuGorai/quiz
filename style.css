@@ -25,6 +25,7 @@
       box-shadow:0 10px 20px 0 rgba(60,60,60,0.4);
       border-radius:0 0 16px 16px;
       padding:0 0 10px 0;
+      position:relative;
        }
       #quizHeader h1{
         text-align:center;
@@ -33,7 +34,15 @@
         margin:0;
         padding:10px 5px;
         }
-        
+  #quizHeader button{
+   position:absolute;
+   top:20px;
+   left:-6px;
+   padding:5px 8px;
+   border-radius:10px;
+   border:none;
+   background-color:aqua;
+   }
        #article {
         margin:auto;
         padding:5px;
