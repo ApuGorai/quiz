@@ -8,6 +8,7 @@ self.addEventListener('install', (e) => {
       'fullForms.html',
       'home.html',
       'search.html',
+      'history/',
     ])),
   );
 });
