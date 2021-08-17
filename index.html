@@ -9,14 +9,12 @@
      <link rel="manifest" href="manifest.webmanifest">
     </head>
  <body>
-   <div id="web">
-    <header>
-      <div id="quizHeader">
+    <header id="quizHeader">
          <h1>WB 3schools</h1>
      </header>
    <article id="article">
 
-      <a href="/quiz/fullForms.html"><button>A to Z Full Forms</button></a>
+      <a href="/fullForms.html"><button>A to Z Full Forms</button></a>
       <a href="#"><button>History</button></a>
       <a href="#"><button>Geography</button></a>
       <a href="#"><button>History</button></a>
@@ -26,20 +24,18 @@
       <a href="#"><button>History</button></a>
 
    </article>
-</div>
     <footer>
          <input  class='stickB hidden' id="stickB" type='checkbox'/>
        <div class='stick'>
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
-             <a href="/quiz/index.html"><button>🏠</button></a>
-             <button onclick="document.querySelector('#web').style.display='none';document.querySelector('#wbSchools').classList.add('fullWeb')"> 🌐</button>
+             <a href="/index.html"><button>🏠</button></a>
+             <a href="/home.html"> <button> 🌐</button>
              <button onclick="darkMode()">🌙</button>
-            <a href="/quiz/search.html"> <button>🔎</button></a>
+            <a href="/search.html"> <button>🔎</button></a>
              <button class="addbtn">🔔</button>
           </div>
        </div>
      </footer>
-        <iframe class="hidden" id="wbSchools" src="https://ask.3schools.in"></iframe>
    </body>
 </html>
