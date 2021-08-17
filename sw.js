@@ -5,6 +5,9 @@ self.addEventListener('install', (e) => {
       'ask3schools.png',
       'index.js',
       'style.css',
+      'fullForms.html',
+      'home.html',
+      'search.html',
     ])),
   );
 });
