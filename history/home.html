@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <html>
+  <html onmousedown='return false;' onselectstart='return false;'>
      <head>
        <title>WB 3schools</title>
       <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
@@ -11,23 +11,23 @@
     </head>
  <body>
    <header id="quizHeader">
-         <h1>WB 3schools</h1>
+         <h1>Wb 3schools</h1>
      </header>
   <div id="toc">
-   <a href="#"> <button> A to z Computer Full Form Part 1</button></a>
-   <a href="#"><button>Computer Full Form Part 2</button></a>
-   <a href="#" ><button>Computer Full Form Part 3</button></a>
-   <a href="#" ><button>Computer Full Form Part 4</button></a>
+    <button onclick="window.open('/index.html','_self')"> A to z Computer Full Form Part 1</button>
+    <button onclick="window.open('/index.html','_self')">Computer Full Form Part 2</button>
+    <button onclick="window.open('/index.html','_self')" >Computer Full Form Part 3</button>
+    <button onclick="window.open('/index.html','_self')" >Computer Full Form Part 4</button>
    
   </div>
 <input  class='stickB hidden' id="stickB" type='checkbox'/>
        <div class='stick'>
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
-             <a href="../index.html"><button>🏠</button></a>
-            <a href="../home.html"> <button> 🌐</button></a>
+             <button onclick="window.open('/index.html','_self')">🏠</button>
+             <button onclick="window.open('/home.html','_self')"> 🌐</button>
              <button onclick="darkMode()">🌙</button>
-            <a href="../search.html"> <button>🔎</button></a>
+             <button onclick="window.open('/search.html','_self')">🔎</button>
              <button class="addbtn">🔔</button>
           </div>
        </div>
