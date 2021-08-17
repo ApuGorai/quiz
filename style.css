@@ -56,6 +56,31 @@
        padding:4px 9px;
         }
         
+#toc{margin:0;padding:5px 3px;}
+   #toc button{
+   width:100%;
+   padding:16px 4px;
+   margin-top:6px;
+   position:relative;
+   background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+   border:;
+   }
+   #toc button:before{
+   content:"🔰";
+   position:absolute;
+   left:10px;
+   top:4px;
+   font-size:34px;
+   }
+   #toc button:after{
+   content:"»";
+   position:absolute;
+   right:10px;
+   top:2px;
+   font-size:36px;
+   color:#ff0000;
+   }
+
         .stickContent button{
         padding:8px 14px;
         margin:0px 8px;
