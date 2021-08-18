@@ -78,7 +78,7 @@ input:focus,textarea:focus{outline:none;}
         justify-content:space-between;
         }
         
-        #article a button{
+        #article button{
         width:45vw;
         height:16vh;
         padding:20px 40px;
