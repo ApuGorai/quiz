@@ -10,6 +10,7 @@
     *{
     text-decoration:none;
     font-family:serif;
+    box-sizing:border-box;
     } 
     body {
     background-color: var(--app-background-color);
@@ -18,31 +19,57 @@
     background-position: 30px 30px;
     color: var(--text-base-color);
     margin:0;
-    } h1,h2,he,h4,h5{font-size:1.4rem;}
-       input:focus,textarea:focus{outline:none;}
+    }
+h1,h2,he,h4,h5{font-size:1.4rem;}
+input:focus,textarea:focus{outline:none;}
+     
+       
      #quizHeader{
       background:linear-gradient(to right top , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
       box-shadow:0 10px 20px 0 rgba(60,60,60,0.4);
       border-radius:0 0 16px 16px;
-      padding:0 0 10px 0;
-      position:relative;
+      padding:20px 10px;
+      position:fixed;
+      top:0;
+      left:0;
+      right:0;
+      z-index:10;
+       }
+       #quizHeader button{
+       position:absolute;
+       top:20px;
+       left:-6px;
+       padding:5px 8px;
+       border-radius:10px;
+       border:none;
+       background-color:aqua;
        }
       #quizHeader h1{
         text-align:center;
         color:#ff00ff;
         text-shadow:4px 5px 4px #000f0f;
         margin:0;
-        padding:10px 5px;
+        font-size:25px;
         }
-  #quizHeader button{
-   position:absolute;
-   top:12px;
-   left:-6px;
-   padding:5px 8px;
-   border-radius:10px;
-   border:none;
-   background-color:aqua;
-   }
+        .searchBox input[type=text]:first-of-type{width:80px;}
+        .searchBox input[type=text],.searchBox input[type=submit]{
+        position:absolute;
+        right:3px;
+        top:23px;
+        padding:5px 8px;
+        border-radius:50px;
+        border:none;
+        width:29px;
+        box-shadow:1px 1px 4px #0D7aBE;
+        transition-duration:.3s;
+        }
+        .searchBox input[type=text]:focus{
+        width:200px;
+        outline:none;
+        }
+        
+       article{margin-top:80px;padding:5px;}
+       
        #article {
         margin:auto;
         padding:5px;
@@ -51,7 +78,7 @@
         justify-content:space-between;
         }
         
-        #article button{
+        #article a button{
         width:45vw;
         height:16vh;
         padding:20px 40px;
@@ -65,41 +92,31 @@
        padding:4px 9px;
         }
         
-#toc{margin:0;padding:5px 3px;}
-   #toc button{
-   width:100%;
-   padding:16px 4px;
-   margin-top:6px;
-   position:relative;
-   background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
-   border:;
-   }
-   #toc button:before{
-   content:"🔰";
-   position:absolute;
-   left:10px;
-   top:4px;
-   font-size:34px;
-   }
-   #toc button:after{
-   content:"»";
-   position:absolute;
-   right:10px;
-   top:2px;
-   font-size:36px;
-   color:#ff0000;
-   }
-
-.qbox{
-   padding:8px;
-   margin:10px 3px;
-   background-color:#fcfcfc;
-   border-radius:9px;
-   box-shadow:0px 2px 6px rgba(60,70,70,0.4);
-   }
-  .qbox strong{color:#ff0000;}
- .qbox span{color:green;}
-   
+        #toc{margin:0;padding:5px 3px;}
+        #toc button{
+        width:100%;
+        padding:16px 4px;
+        margin-top:6px;
+        position:relative;
+        background:linear-gradient(to left , #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
+        border:;
+        }
+        #toc button:before{
+        content:"🔰";
+        position:absolute;
+        left:10px;
+        top:4px;
+        font-size:34px;
+        }
+        #toc button:after{
+        content:"»";
+        position:absolute;
+        right:10px;
+        top:2px;
+        font-size:36px;
+        color:#ff0000;
+        }
+        
         .stickContent button{
         padding:8px 14px;
         margin:0px 8px;
@@ -107,7 +124,17 @@
         border-radius:5px;
         border:none;
         }
-        .stickContent button:hover{
+        .qbox{
+        padding:8px;
+        margin:10px 3px;
+        background-color:#fcfcfc;
+        border-radius:9px;
+        box-shadow:0px 2px 6px rgba(60,70,70,0.4);
+        }
+        .qbox strong{color:#ff0000;}
+        .qbox span{color:green;}
+        
+        .stickContent button:hover,.searchBox input[type=submit]{
         background:linear-gradient(to right, #ffccff , #ccffcc , #ffffcc,#ffd6cc,#ccccff);
         }
         
@@ -132,10 +159,10 @@
         } 
         .stickB:checked ~ .stick .stickContent{display:none} 
         .stickB:checked ~ .stick{padding:0;min-height:0} 
-       
-        .hidden{display:none;}
+      
+        .hidden{display:none}
         
-       .fullWeb{
+     .fullWeb{
        position: fixed;
        background:transparent;
        border:none;
