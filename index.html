@@ -13,18 +13,20 @@
          <h1>Ask 3schools</h1>
      </header>
    
-   <div id="article">
-
-      <button onclick="window.open('/gk/home.html','_self')">সাধারণ জ্ঞান</button>
-      <button onclick="window.open('/gk/home.html','_self')">ইতিহাস</button>
-      <button onclick="window.open('/gk/home.html','_self')">ভূগোল</button>
-      <button onclick="window.open('/gk/home.html','_self')">ভারত</button>
-      <button onclick="window.open('/gk/home.html','_self')">History</button>
-      <button onclick="window.open('/gk/home.html','_self')">History</button>
-      <button onclick="window.open('/gk/home.html','_self')">History</button>
-      <button onclick="window.open('/gk/home.html','_self')">History</button>
-     
+   <article>
+     <div class="whome">
+   <h2 id="welcome" class="clock"></h2>
    </div>
+   <div class="whome">
+   <div class="clock">
+     <p><span id="h"></span> : <span id="m"></span> : <span id="s"></span> </p>
+     <span id="dayname"></span> <span id="day"></span> <span id="month"></span>
+   </div>
+   </div>
+   <div class="whome">
+    <button class="clock" onclick="window.open('/gk/home.html','_self')">Start Learning </button>
+   </div>
+   </article>
     <footer>
          <input  class='stickB hidden' id="stickB" type='checkbox'/>
        <div class='stick'>
