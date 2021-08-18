@@ -7,6 +7,7 @@ self.addEventListener('install', (e) => {
       'style.css',
       'home.html',
       'search.html',
+      '404.html',
       'gk/',
     ])),
   );
