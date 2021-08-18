@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <html onmousedown='return false;' onselectstart='return false;'>
+  <html onselectstart='return false;'>
      <head>
        <title>WB 3schools</title>
       <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
@@ -10,10 +10,17 @@
     <link href='/' rel='canonical'/>
     </head>
  <body>
-   <header id="quizHeader">
-         <button onclick="history.back();">🔙 back</button>
-         <h1>Wb 3schools</h1>
+   <header>
+      <div id="quizHeader">
+        <button onclick="history.back();">🔙 back</button>
+        <h1>Ask 3schools </h1>
+        <div class="searchBox"> 
+         <input onchange="search(document.getElementById('search').value)" placeholder="search in page" type="text" id="search">
+         <input type="submit" value="Go" onclick="search(document.getElementById('search').value)">
+        </div>
+      </div>
      </header>
+ <article>
   <div id="toc">
     <button onclick="window.open('/gk/fullForms.html','_self')">A to Z All Important Full Forms</button>
     <button onclick="window.open('/gk/a.html','_self')"> ভারতের বিভিন্ন গবেষণাগার ও তার অবস্থান</button>
@@ -21,7 +28,9 @@
     <button onclick="window.open('/index.html','_self')" >Computer Full Form Part 4</button>
    
   </div>
-<input  class='stickB hidden' id="stickB" type='checkbox'/>
+ </article>
+ <footer>
+   <input  class='stickB hidden' id="stickB" type='checkbox'/>
        <div class='stick'>
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
@@ -32,5 +41,6 @@
              <button class="addbtn">🔔</button>
           </div>
        </div>
+    </footer>
    </body>
 </html>
