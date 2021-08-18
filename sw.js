@@ -8,7 +8,16 @@ self.addEventListener('install', (e) => {
       'home.html',
       'search.html',
       '404.html',
-      '/gk/',
+      '/gk/home.html',
+      '/gk/fullForms.html',
+      '/gk/a.html',
+      '/gk/b.html',
+      '/gk/c.html',
+      '/gk/d.html',
+      '/gk/e.html',
+      '/gk/f.html',
+      '/gk/g.html',
+      '/gk/h.html',
     ])),
   );
 });
