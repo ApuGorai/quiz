@@ -104,14 +104,14 @@ input:focus,textarea:focus{outline:none;}
         #toc button:before{
         content:"🔰";
         position:absolute;
-        left:10px;
+        left:4px;
         top:4px;
         font-size:34px;
         }
         #toc button:after{
         content:"»";
         position:absolute;
-        right:10px;
+        right:5px;
         top:2px;
         font-size:36px;
         color:#ff0000;
