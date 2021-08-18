@@ -8,7 +8,6 @@ self.addEventListener('install', (e) => {
       'home.html',
       'search.html',
       '404.html',
-      'gk/',
     ])),
   );
 });
