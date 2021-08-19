@@ -31,3 +31,41 @@ function darkMode() {
 function search(string){
  window.find(string);
  }
+
+function share() {
+    var text = 'Ask 3schools';
+    if ('share' in navigator) {
+        navigator.share({
+            title: document.title,
+            text: text,
+            url: location.href,
+        })
+    } else {
+        location.href = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(text + ' - ') + location.href
+    }
+}   
+
+function addUser(){
+ var uN = document.getElementById("uN").value;
+ var uImg= document.getElementById("uImg").value;
+ 
+ localStorage.setItem("userName", uN);
+ localStorage.setItem("userPic", uImg);
+ 
+ document.getElementById("uC").style.display="none";
+ userPic();
+ }
+ 
+ function userPic(){
+  var userName = localStorage.getItem("userName");
+  var userImg = localStorage.getItem("userPic");
+  if(userName != null){
+  document.getElementById("userN").innerHTML= userName;
+  document.getElementById("userImg").src= userImg;
+  document.getElementById("uC").style.display="none";
+  }
+
+  
+  }
+  
+ userPic();
