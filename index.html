@@ -10,9 +10,10 @@
     </head>
  <body>
     <header id="quizHeader">
+	 <button onclick="share();">share</button>
          <h1>Ask 3schools</h1>
 	 <div class="searchBox">
-          <input onclick="share()" type="submit" style="font-size:16px;padding:6px;" value="🙎   ‍">
+          <input onclick="window.open('/profile.html','_self')" type="submit" style="font-size:16px;padding:6px;" value="🙎   ‍">
          </div>
      </header>
    
@@ -20,9 +21,8 @@
      <div class="whome">
        <h2 class="clock welcome">
        <div id="uC"> 
-       <input id="userN" placeholder="Please Update Your Name" type="text"> <button onclick="addUn()">ok</button>
-     </div>
-     <span id="welcome"></span>  <span id="uName"></span></h2>
+       </div>
+     <span id="welcome"></span>  <span id="userN"></span></h2>
    </div>
    <div class="whome">
    <div class="clock">
@@ -114,19 +114,6 @@ const dayName = ["রবিবার", "সোমবার","মঙ্গলব�
  document.getElementById('month').innerHTML = monthNames[month];
  document.getElementById('dayname').innerHTML = dayName[day];
 }
-	   
-	function share() {
-    var text = 'Ask 3schools';
-    if ('share' in navigator) {
-        navigator.share({
-            title: document.title,
-            text: text,
-            url: location.href,
-        })
-    } else {
-        location.href = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(text + ' - ') + location.href
-    }
-}   
    </script>
    </body>
 </html>
