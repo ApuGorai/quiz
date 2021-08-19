@@ -20,8 +20,6 @@
    <article>
      <div class="whome">
        <h2 class="clock welcome">
-       <div id="uC"> 
-       </div>
      <span id="welcome"></span>  <span id="userN"></span></h2>
    </div>
    <div class="whome">
@@ -52,7 +50,6 @@ function updatedU(){
 var userName = localStorage.getItem("userName");
  if(userName != null){
      document.getElementById("uName").innerHTML= userName;
-      document.getElementById("uC").style.display="none";
 }
 }
 updatedU(); 
