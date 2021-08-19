@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+  <html onselectstart='return false;'>
+     <head>
+       <title>Ask 3schools</title>
+      <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
+      <link href='/ask3schools.png' rel='icon' type='image/x-icon'/>
+      <link rel="stylesheet" href="/style.css"/>
+     <script src="/index.js" defer></script>
+     <link rel="manifest" href="/manifest.webmanifest">
+    <link href='/' rel='canonical'/>
+     <script src=" https://ask.3schools.in/feeds/posts/default?alt=json&callback=getPosts&max-results=90"></script>
+    </head>
+ <body>
+   <header>
+      <div id="quizHeader">
+        <button onclick="history.back();">🔙 back</button>
+        <h1>Ask 3schools </h1>
+        <div class="searchBox"> 
+         <input onchange="search(document.getElementById('search').value)" placeholder="search in page" type="text" id="search">
+         <input type="submit" value="Go" onclick="search(document.getElementById('search').value)">
+        </div>
+      </div>
+    </header>
+  <article>
+    <div id="posts"></div>
+    </article>
+<input  class='stickB hidden' id="stickB" type='checkbox'/>
+       <div class='stick'>
+          <label class='stickClose' for='stickB'>❌</label>
+         <div class='stickContent'>
+             <button onclick="window.open('/index.html','_self')">🏠</button>
+             <button onclick="window.open('/home.html','_self')"> 🌐</button>
+             <button onclick="darkMode()">🌙</button>
+             <button onclick="window.open('/search.html','_self')">🔎</button>
+             <button onclick="window.open('/daily.html','_self')">🔔</button>
+          </div>
+       </div>
+   <script>
+function getPosts(json) {
+	var list = [];
+	var data = json.feed.entry;
+	for (var i = 0; i < data.length; i++) {
+	 list.push(`<p class="qbox"><strong>প্রশ্ন : `+ data[i].title.$t + `</strong><br><span>উত্তর : `+ data[i].content.$t + `</span></p>`);
+	}
+	document.getElementById('posts').innerHTML = list.join("");
+}
+</script>
+   </body>
+</html>
