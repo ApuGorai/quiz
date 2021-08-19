@@ -5,11 +5,13 @@ if ('serviceWorker' in navigator) {
 }
 
 let deferredPrompt;
+var addBtn = document.querySelector(".addBtn");
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   deferredPrompt = e;
-  
-  var intervalId = window.setInterval(function() {
+  addBtn.addEventListener('click', school);
+  var intervalId = window.setInterval(school, 5000);
+  function school() {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
