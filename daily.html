@@ -39,7 +39,7 @@ function getPosts(json) {
 	var list = [];
 	var data = json.feed.entry;
 	for (var i = 0; i < data.length; i++) {
-	 list.push(`<p class="qbox"><strong>প্রশ্ন : `+ data[i].title.$t + `</strong><br><span>উত্তর : `+ data[i].content.$t + `</span></p>`);
+	 list.push(`<p class="qbox"><strong>প্রশ্ন : `+ data[i].title.$t + `</strong><br><span>`+ data[i].content.$t + `</span></p>`);
 	}
 	document.getElementById('posts').innerHTML = list.join("");
 }
