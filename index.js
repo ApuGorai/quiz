@@ -10,7 +10,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   deferredPrompt = e;
   
-  setTimeout(function() {
+  var intervalId = window.setInterval(function() {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
@@ -20,7 +20,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
       }
       deferredPrompt = null;
     });
-  }, 8000);   
+  }, 5000);   
 }); 
 
 
