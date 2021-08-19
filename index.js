@@ -9,12 +9,6 @@ const addBtn = document.querySelector('.addbtn');
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   deferredPrompt = e;
-
-  setTimeout(function() {
- document.getElementById('install').click();
-alert("hi");
- }, 8000);   
-  
   
   setTimeout(function() {
     deferredPrompt.prompt();
