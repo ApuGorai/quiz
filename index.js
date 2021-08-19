@@ -21,7 +21,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
       }
       deferredPrompt = null;
     });
-  }, 5000);   
+    }
 }); 
 
 
