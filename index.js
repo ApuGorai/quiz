@@ -22,8 +22,10 @@ window.addEventListener('beforeinstallprompt', (e) => {
     });
   });
 }); 
-document.querySelector('.addbtn').click();
-alert("welcome");
+setTimeout(function() {
+ document.querySelector('.addbtn').click();
+ }, 3000);
+
 function darkMode() {
    var elementD = document.body;
    elementD.classList.toggle("dark-mode");
