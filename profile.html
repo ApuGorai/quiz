@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <html onselectstart='return false;'>
+     <head>
+       <title>Ask 3schools</title>
+      <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
+      <link href='ask3schools.png' rel='icon' type='image/x-icon'/>
+      <link rel="stylesheet" href="style.css"/>
+     <script src="index.js" defer></script>
+     <link rel="manifest" href="manifest.webmanifest">
+    <style>
+       .userProfile {
+ background-color:#f091fa;
+ padding:10px 20px;
+ border-radius:3px;
+ margin:10px;
+ }
+      #userN{
+color:#ff0000;
+}
+.userProfile input{
+width:120px;
+}  
+    </style>
+    </head>
+ <body>
+    <header id="quizHeader">
+	 <button onclick="share();">share</button>
+         <h1>Ask 3schools</h1>
+	 <div class="searchBox">
+          <input onclick="window.open('/profile.html','_self')" type="submit" style="font-size:16px;padding:6px;" value="🙎   ‍">
+         </div>
+     </header>
+   <article>
+     <div class="userProfile">
+ <div id="uC"><input id="uN" placeholder="Enter Your Name" >
+ <input id="uImg" type="text" value="noimg.png">
+ <button onclick="addUser()">ok</button></div>
+ <center>
+ <img id="userImg" src="ask3schools.png">
+ <h3 id="userN">User Name</h3></center>
+ </div>
+   </article>
+   <footer>
+         <input  class='stickB hidden' id="stickB" type='checkbox'/>
+       <div class='stick'>
+          <label class='stickClose' for='stickB'>❌</label>
+         <div class='stickContent'>
+             <button onclick="window.open('/index.html','_self')">🏠</button>
+             <button onclick="window.open('/home.html','_self')"> 🌐</button>
+             <button onclick="darkMode()">🌙</button>
+             <button onclick="window.open('/search.html','_self')">🔎</button>
+             <button class="addbtn">🔔</button>
+          </div>
+       </div>
+     </footer>
+   </body>
+  </html>
