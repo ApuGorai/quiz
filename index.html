@@ -11,6 +11,9 @@
  <body>
     <header id="quizHeader">
          <h1>Ask 3schools</h1>
+	 <div class="searchBox">
+          <input onclick="share()" type="submit" style="font-size:16px;padding:6px;" value="🙎   ‍">
+         </div>
      </header>
    
    <article>
@@ -111,6 +114,19 @@ const dayName = ["রবিবার", "সোমবার","মঙ্গলব�
  document.getElementById('month').innerHTML = monthNames[month];
  document.getElementById('dayname').innerHTML = dayName[day];
 }
+	   
+	function share() {
+    var text = 'Ask 3schools';
+    if ('share' in navigator) {
+        navigator.share({
+            title: document.title,
+            text: text,
+            url: location.href,
+        })
+    } else {
+        location.href = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(text + ' - ') + location.href
+    }
+}   
    </script>
    </body>
 </html>
