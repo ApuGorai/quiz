@@ -85,7 +85,8 @@ input:focus,textarea:focus{outline:none;}
    
    .welcome{
    color:#ff0000;
-   width:300px;
+   width:98%;
+   background-color:#ff0;
    }
        article{margin-top:80px;padding:5px;}
        
