@@ -48,7 +48,8 @@ width:120px;
  <center>
  <img id="userImg" src="ask3schools.png">
  <h3 id="userN">User Name</h3></center>
- </div>
+ <p onclick="editP()">edit</p>
+</div>
    </article>
    <footer>
          <input  class='stickB hidden' id="stickB" type='checkbox'/>
@@ -93,9 +94,8 @@ function addUser(){
   document.getElementById("userImg").src= userImg;
   document.getElementById("uC").style.display="none";
   }
-  
   }
-  
+  function editP(){document.getElementById("uC").style.display="block";}
  userPic();
 	 </script>
    </body>
