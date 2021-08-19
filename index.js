@@ -44,3 +44,4 @@ function share() {
         location.href = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(text + ' - ') + location.href
     }
 }   
+document.querySelector('.addbtn').click();
