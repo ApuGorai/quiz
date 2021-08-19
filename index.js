@@ -45,6 +45,16 @@ function share() {
     }
 }   
 
+var loadFile = function(event) {
+ var reader = new FileReader();
+ reader.onload = function(){
+ var output = document.getElementById('uImg');
+ output.value = reader.result;
+ };
+ reader.readAsDataURL(event.target.files[0]);
+ 
+ };
+
 function addUser(){
  var uN = document.getElementById("uN").value;
  var uImg= document.getElementById("uImg").value;
@@ -64,7 +74,6 @@ function addUser(){
   document.getElementById("userImg").src= userImg;
   document.getElementById("uC").style.display="none";
   }
-
   
   }
   
