@@ -41,16 +41,11 @@
              <button onclick="window.open('/home.html','_self')"> 🌐</button>
              <button onclick="darkMode()">🌙</button>
              <button onclick="window.open('/search.html','_self')">🔎</button>
-             <button id="install" class="addbtn">🔔</button>
+             <button class="addbtn">🔔</button>
           </div>
        </div>
      </footer>
-   <script>
-	setTimeout(function() {
- document.getElementById('install').click();
-alert("hi");
- }, 8000);   
-	   
+   <script>	   
 function updatedU(){
 var userName = localStorage.getItem("userName");
  if(userName != null){
