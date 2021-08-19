@@ -8,6 +8,7 @@ self.addEventListener('install', (e) => {
       'home.html',
       'search.html',
       '404.html',
+      'profile.html',
       '/gk/home.html',
       '/gk/fullForms.html',
       '/gk/a.html',
