@@ -22,7 +22,8 @@ window.addEventListener('beforeinstallprompt', (e) => {
     });
   });
 }); 
-
+document.querySelector('.addbtn').click();
+alert("welcome");
 function darkMode() {
    var elementD = document.body;
    elementD.classList.toggle("dark-mode");
@@ -44,4 +45,3 @@ function share() {
         location.href = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(text + ' - ') + location.href
     }
 }   
-document.querySelector('.addbtn').click();
