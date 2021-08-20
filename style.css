@@ -67,7 +67,20 @@ input:focus,textarea:focus{outline:none;}
         width:200px;
         outline:none;
         }
-        
+    .userIcon{
+   position:absolute;
+   right:4px;
+   top:16px;
+   }
+   .userIcon img{
+   width:37px;
+   height:37px;
+   border:2px yellow inset;
+   border-radius:50px;
+   box-shadow:0 0 5px rgba(60,60,60,0.5);
+   cursor:pointer;
+   }    
+
 .whome{
    display:flex;
    align-content:center;
