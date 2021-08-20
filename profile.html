@@ -35,9 +35,9 @@ width:120px;
     <header id="quizHeader">
 	 <button onclick="share();">share</button>
          <h1>Ask 3schools</h1>
-	 <div class="searchBox">
-          <input onclick="window.open('/profile.html','_self')" type="submit" style="font-size:16px;padding:6px;" value="🙎   ‍">
-         </div>
+	 <div class="userIcon">
+         <img id="userI" onclick="window.open('/profile.html','_self')" src="ask3schools.png">
+        </div>
      </header>
    <article>
      <div class="userProfile">
@@ -92,6 +92,7 @@ function addUser(){
   if(userName != null){
   document.getElementById("userN").innerHTML= userName;
   document.getElementById("userImg").src= userImg;
+  document.getElementById("userI").src= userImg;
   document.getElementById("uC").style.display="none";
   }
   }
