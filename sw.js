@@ -20,6 +20,7 @@ self.addEventListener('install', (e) => {
       '/gk/f.html',
       '/gk/g.html',
       '/gk/h.html',
+      '/gk/i.html',
     ])),
   );
 });
