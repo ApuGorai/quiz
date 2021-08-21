@@ -48,8 +48,14 @@
     </footer>
    </footer>
 <script>	   
-  var userImg = localStorage.getItem("userPic")
-  document.getElementById("userImg").src= userImg;
+  function updatedU(){
+var userName = localStorage.getItem("userName");
+var userImg = localStorage.getItem("userPic")
+ if(userName != null){
+     document.getElementById("userImg").src= userImg;
+}
+}
+updatedU(); 
 </script>
    </body>
 </html>
