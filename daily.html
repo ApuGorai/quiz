@@ -34,8 +34,12 @@
           </div>
        </div>
    <script>
+function updatedU(){
   var userImg = localStorage.getItem("userPic");
+  if(userImg != null){
   document.getElementById("userImg").src= userImg;
+ }}
+updateU();
 function getPosts(json) {
 	var list = [];
 	var data = json.feed.entry;
