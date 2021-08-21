@@ -14,9 +14,8 @@
       <div id="quizHeader">
         <button onclick="history.back();">🔙 back</button>
         <h1>Ask 3schools </h1>
-        <div class="searchBox"> 
-         <input onchange="search(document.getElementById('search').value)" placeholder="search in page" type="text" id="search">
-         <input type="submit" value="Go" onclick="search(document.getElementById('search').value)">
+        <div class="userIcon">
+         <img id="userImg" onclick="window.open('/profile.html','_self')" src="ask3schools.png">
         </div>
       </div>
     </header>
@@ -35,6 +34,8 @@
           </div>
        </div>
    <script>
+  var userImg = localStorage.getItem("userPic");
+  document.getElementById("userImg").src= userImg;
 function getPosts(json) {
 	var list = [];
 	var data = json.feed.entry;
