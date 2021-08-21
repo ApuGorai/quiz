@@ -34,14 +34,8 @@
           </div>
        </div>
    <script>
- function userPic(){
-  var userName = localStorage.getItem("userName");
-  var userImg = localStorage.getItem("userPic");
-  if(userName != null){
-  document.getElementById("userImg").src= userImg;
-  }
-  }
-  userPic();
+ var userImg = localStorage.getItem("userPic")
+ document.getElementById("userImg").src= userImg;
 	   
 function getPosts(json) {
 	var list = [];
