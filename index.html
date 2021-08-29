@@ -6,6 +6,9 @@
       <link href='ask3schools.png' rel='icon' type='image/x-icon'/>
       <link rel="stylesheet" href="style.css"/>
      <script src="index.js" defer></script>
+     <script src="scripts/main.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-messaging.js"></script>
      <link rel="manifest" href="manifest.webmanifest">
     </head>
  <body>
@@ -37,11 +40,11 @@
        <div class='stick'>
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
-             <button onclick="window.open('/index.html','_self')">🏠</button>
+             <button id="enableNotifications">🔔</button>
              <button onclick="window.open('/home.html','_self')"> 🌐</button>
              <button onclick="window.open('/daily.html','_self')">🎁</button>
              <button onclick="window.open('/search.html','_self')">🔎</button>
-             <button class="addbtn">🔔</button>
+             <button class="addbtn">📲</button>
           </div>
        </div>
      </footer>
