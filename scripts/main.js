@@ -1,4 +1,4 @@
- "use strict";
+  "use strict";
 
 const notificationButton = document.getElementById("enableNotifications");
 let swRegistration = null;
@@ -97,7 +97,7 @@ function displayNotification() {
 function notification() {
   const options = {
     body: "You are eligible to get the notification.",
-    icon: "/ask3schools.png"
+    icon: "./ask3schools.png"
   };
   swRegistration.showNotification("Ask 3schools", options);
 }
