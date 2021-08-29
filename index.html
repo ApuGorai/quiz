@@ -7,16 +7,7 @@
       <link rel="stylesheet" href="style.css"/>
      <script src="index.js" defer></script>
       <link rel="manifest" href="manifest.webmanifest"/>
-      <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "7df9a1c2-05d1-4f83-9941-37b545921fe6",
-    });
-  });
-</script>
-    </head>
+      </head>
  <body>
     <header id="quizHeader">
 	 <button onclick="share();">share</button>
@@ -31,10 +22,7 @@
        <h2 class="clock welcome">
      <span id="welcome"></span>  <span id="userN"></span></h2>
    </div>
-	   <div class="whome">
-	   <button class='onesignal-customlink-container'>🔔</button>
-  </div>
-   <div class="whome">
+  <div class="whome">
    <div class="clock">
      <p><span id="h"></span> : <span id="m"></span> : <span id="s"></span> </p>
      <span id="dayname"></span> <span id="day"></span> <span id="month"></span>
@@ -50,7 +38,7 @@
        <div class='stick'>
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
-             <button onclick="window.open('/index.html','_self')">🏠</button>
+             <button onclick="window.open('/follow.html','_self')">🏠</button>
 	<button onclick="window.open('/home.html','_self')"> 🌐</button>
              <button onclick="window.open('/daily.html','_self')">🎁</button>
              <button onclick="window.open('/search.html','_self')">🔎</button>
