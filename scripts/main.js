@@ -1,4 +1,4 @@
-  "use strict";
+   "use strict";
 
 const notificationButton = document.getElementById("enableNotifications");
 let swRegistration = null;
@@ -14,6 +14,7 @@ const config = {
     storageBucket: "ask-schools.appspot.com",
     messagingSenderId: "760204072900",
     appId: "1:760204072900:web:2872651c677c29144f3691"
+ 
 };
 firebase.initializeApp(config);
 const messaging = firebase.messaging();
@@ -27,7 +28,7 @@ function initializeApp() {
 
     //Register the service worker
     navigator.serviceWorker
-      .register("/scripts/sw.js")
+      .register("/p/sw.js")
       .then(swReg => {
         console.log("Service Worker is registered", swReg);
         swRegistration = swReg;
@@ -63,10 +64,10 @@ function initializeFCM() {
       return messaging.getToken();
     })
     .then(token => {
-     // TokenElem.innerHTML = "token is : " + token;
+      TokenElem.innerHTML = "token is : " + token;
     })
     .catch(err => {
-     // ErrElem.innerHTML = ErrElem.innerHTML + "; " + err;
+      ErrElem.innerHTML = ErrElem.innerHTML + "; " + err;
       console.log("Unable to get permission to notify.", err);
     });
 }
@@ -96,8 +97,8 @@ function displayNotification() {
 
 function notification() {
   const options = {
-    body: "You are eligible to get the notification.",
+    body: "Testing Our Notification",
     icon: "./ask3schools.png"
   };
-  swRegistration.showNotification("Ask 3schools", options);
+  swRegistration.showNotification("PWA Notification!", options);
 }
