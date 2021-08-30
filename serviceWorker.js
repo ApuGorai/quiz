@@ -3,7 +3,7 @@ var cacheName = 'cache-v3';
 var files = [
     './',
     './index.html',
-    './css/styles.css',
+    './styles.css',
     '/js/notify.js',
     '/js/app.js',
     '/js/sync.js',
@@ -14,7 +14,25 @@ var files = [
     './images/icon_32.png',
     './images/icon_192.png',
     './images/icon_256.png',
-    './images/icon_512.png'
+    './images/icon_512.png',
+    '/ask3schools.png',
+      '/index.js',
+      '/home.html',
+      '/search.html',
+      '/404.html',
+      '/profile.html',
+      '/daily.html',
+      '/gk/home.html',
+      '/gk/fullForms.html',
+      '/gk/a.html',
+      '/gk/b.html',
+      '/gk/c.html',
+      '/gk/d.html',
+      '/gk/e.html',
+      '/gk/f.html',
+      '/gk/g.html',
+      '/gk/h.html',
+      '/gk/i.html',
     ];
 
 
