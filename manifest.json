@@ -1,0 +1,28 @@
+{
+	"name": "Ask 3schools ",
+	"short_name": "3schools",
+	"description": "Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল। ",
+	"start_url": "./index.html?ref=home",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#63e9f2",
+	"theme_color": "#778af7",
+	"icons": [	
+        {
+			"src": "./images/icon_192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./images/icon_512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}	
+	],
+	"author": {
+		"name": "Apu",
+		"website": "https://ask.3schools.in"		
+    },
+    "gcm_sender_id": "103953800507",
+    "gcm_user_visible_only": true
+}
