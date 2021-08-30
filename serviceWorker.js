@@ -4,11 +4,6 @@ var files = [
     './',
     './index.html',
     './styles.css',
-    '/js/notify.js',
-    '/js/app.js',
-    '/js/sync.js',
-    '/js/push.js',
-    '/js/networkChange.js',
     './manifest.json',
     './images/icon_16.png',
     './images/icon_32.png',
@@ -32,7 +27,7 @@ var files = [
       '/gk/f.html',
       '/gk/g.html',
       '/gk/h.html',
-      '/gk/i.html',
+      '/gk/i.html'
     ];
 
 
