@@ -18,10 +18,7 @@
     <link rel="stylesheet" href="style.css"/>
     <script src="index.js" defer></script>
     <link rel="manifest" href="manifest.webmanifest"/>
-    <link rel="stylesheet" href="https://codemirror.net/lib/codemirror.css">
-<script src="https://codemirror.net/lib/codemirror.js"></script>
-<script src="https://codemirror.net/mode/xml/xml.js"></script>
-
+    
 </head>
 
 <body>  
@@ -127,9 +124,9 @@ input[type="range"]::-webkit-slider-thumb {
 </textarea></pre>
 	  
 	  <button id="backCode" onclick="userCode()">♻️ </button>
-	  <button class="copyBtn" onclick="copyCodes()">Copy</button>
+	  <button class="copyBtn" onclick="copyCode()">Copy</button>
       <button class="downloadBtn" onclick="saveTextFile()">Download</button>
-	  <button class="runBtn" onclick="runCodes()">R️un  ▶️  </button>
+	  <button class="runBtn" onclick="runCode()">R️un  ▶️  </button>
 	
     </section>
 
@@ -141,19 +138,7 @@ input[type="range"]::-webkit-slider-thumb {
 				
 				<div id="outCss"></div>
 				</div>
-	<script>
-	function runCodes(){
-	document.getElementById("editorContainer").style.display="none";
-	document.getElementById("iContainer").style.display="block";
-	var code = document.querySelector("#editorInput").innerHTML;
-        document.querySelector("#out").srcdoc = code
-}
-	function copyCodes() {
-  var copyCodes = document.getElementById("editorInput");
-  copyCodes.select();
-  document.execCommand("copy");
-}
-	</script>
+	
     <script>
       var editor = CodeMirror.fromTextArea(document.getElementById("editorInput"), {
         mode: "text/html",
