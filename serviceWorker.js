@@ -5,7 +5,7 @@ var files = [
     './index.html',
     './styles.css',
     './manifest.json',
-    '/quiz', 
+    '/quiz/*', 
     '/logo.png', 
     '/img/quiz.png', 
     './images/icon_16.png',
