@@ -1,6 +1,6 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('user3schools').then((cache) => cache.addAll([
+    caches.open('quiz-s').then((cache) => cache.addAll([
       './',
     './index.html',
     './css/styles.css',
@@ -13,6 +13,8 @@ self.addEventListener('install', (e) => {
       'home.html',
       '404.html',
       'profile.html',
+      '/quiz/index.html', 
+      'logo.png',
     './images/icon_16.png',
     './images/icon_32.png',
     './images/icon_192.png',
