@@ -2,6 +2,9 @@ self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('ask3schools').then((cache) => cache.addAll([
       'index.html',
+      '/quiz', 
+      '/logo.png', 
+      '/img',
       'ask3schools.png',
       'index.js',
       'style.css',
