@@ -11,8 +11,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Ask 3schools",
+  "name": "WB 3schools",
   "version":"1.2.3",
-  "short_name": "3schools",
+  "short_name": "WB",
   "start_url": "index.html"
 } 
