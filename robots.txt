@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /js/
+Sitemap:https://wb.3schools.in/sitemap.txt
