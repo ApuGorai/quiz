@@ -1,7 +1,6 @@
 {
   "background_color": "#63e9f2",
   "theme_color": "#778af7",
-  "version":"1.2.3",
   "description": "Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।",
   "display": "standalone",
   "icons": [
