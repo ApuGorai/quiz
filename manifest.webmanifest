@@ -4,6 +4,7 @@
   "version":"1.2.3",
   "description": "Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।  A blog about generalscience,mocktest,r,English Grammar,wbcs,ssc,class12,class10,study,reasoning,gk,geography,current Affairs,education,history,Bengali,শিক্ষার সেরা ঠিকানা,আস্ক থ্রি স্কুল  ",
   "display": "standalone",
+  prefer_related_applications: true,
   "icons": [
     {
       "src": "ask3schools.png",
@@ -11,8 +12,83 @@
       "type": "image/png"
     }
   ],
-  "name": "WB 3schools",
+  shortcuts: [
+      {
+      name: "Voice search",
+      short_name: "Voice search",
+      description: "মুখে বলে আপনার প্রশ্ন ও উত্তর সন্ধান করুন।",
+      url: "/voice.html",
+      icons: [
+          {
+          src: "https://app.3schools.in/img/voice.png",
+          sizes: "500x500"
+          }
+        ]
+      },
+      {
+      name: "Quiz",
+      short_name: "কুইজ খেলুন",
+      description: "বাংলায় কুইজ খেলুন",
+      url: "/quiz",
+      icons: [
+          {
+          src: "https://app.3schools.in/img/quiz.png",
+          sizes: "225x225"
+          }
+        ]
+      },
+      {
+      name: "ওয়েবসাইট",
+      short_name: "প্রশ্ন ও উত্তর",
+      description: "ইতিহাস,ভূগোল,ভারত,বাংলাদেশ,পশ্চিমবঙ্গের প্রশ্ন ও উত্তর",
+      url: "/home",
+      icons: [
+          {
+          src: "https://app.3schools.in/img/science.png",
+          sizes: "225x225"
+          }
+        ]
+      }
+    ],
+    screenshots: [
+      {
+      src: "https://app.3schools.in/img/img1.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img2.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img3.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img4.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img5.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img6.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      },
+      {
+      src: "https://app.3schools.in/img/img7.png",
+      type: "image\/png",
+      sizes: "633x1280"
+      }
+    ],
+  "name": "Ask 3schools",
   "version":"1.2.3",
-  "short_name": "WB",
+  "short_name": "Ask 3schools",
   "start_url": "index.html"
-} 
+}
