@@ -4,7 +4,6 @@
   "version":"1.2.3",
   "description": "Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।",
   "display": "standalone",
-  "prefer_related_applications": true,
   "icons": [
     {
       "src": "ask3schools.png",
@@ -38,7 +37,7 @@
         ]
       },
       {
-      "name": "ওয়েবসাইট",
+      "name": "প্রশ্ন ও উত্তর",
       "short_name": "প্রশ্ন ও উত্তর",
       "description": "ইতিহাস,ভূগোল,ভারত,বাংলাদেশ,পশ্চিমবঙ্গের প্রশ্ন ও উত্তর",
       "url": "/home",
