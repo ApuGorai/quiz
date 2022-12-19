@@ -12,79 +12,79 @@
       "type": "image/png"
     }
   ],
-  shortcuts: [
+  "shortcuts": [
       {
-      name: "Voice search",
-      short_name: "Voice search",
-      description: "মুখে বলে আপনার প্রশ্ন ও উত্তর সন্ধান করুন।",
-      url: "/voice.html",
-      icons: [
+      "name": "Voice search",
+      "short_name": "Voice search",
+      "description": "মুখে বলে আপনার প্রশ্ন ও উত্তর সন্ধান করুন।",
+      "url": "/voice.html",
+      "icons": [
           {
-          src: "https://app.3schools.in/img/voice.png",
-          sizes: "500x500"
+          "src": "https://app.3schools.in/img/voice.png",
+          "sizes": "500x500"
           }
         ]
       },
       {
-      name: "Quiz",
-      short_name: "কুইজ খেলুন",
-      description: "বাংলায় কুইজ খেলুন",
-      url: "/quiz",
-      icons: [
+      "name": "Quiz",
+      "short_name": "কুইজ খেলুন",
+      "description": "বাংলায় কুইজ খেলুন",
+      "url": "/quiz",
+      "icons": [
           {
-          src: "https://app.3schools.in/img/quiz.png",
-          sizes: "225x225"
+          "src": "https://app.3schools.in/img/quiz.png",
+          "sizes": "225x225"
           }
         ]
       },
       {
-      name: "ওয়েবসাইট",
-      short_name: "প্রশ্ন ও উত্তর",
-      description: "ইতিহাস,ভূগোল,ভারত,বাংলাদেশ,পশ্চিমবঙ্গের প্রশ্ন ও উত্তর",
-      url: "/home",
-      icons: [
+      "name": "ওয়েবসাইট",
+      "short_name": "প্রশ্ন ও উত্তর",
+      "description": "ইতিহাস,ভূগোল,ভারত,বাংলাদেশ,পশ্চিমবঙ্গের প্রশ্ন ও উত্তর",
+      "url": "/home",
+      "icons": [
           {
-          src: "https://app.3schools.in/img/science.png",
-          sizes: "225x225"
+          "src": "https://app.3schools.in/img/science.png",
+          "sizes": "225x225"
           }
         ]
       }
     ],
-    screenshots: [
+    "screenshots": [
       {
-      src: "https://app.3schools.in/img/img1.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img1.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img2.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img2.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img3.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img3.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img4.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img4.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img5.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img5.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img6.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img6.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       },
       {
-      src: "https://app.3schools.in/img/img7.png",
-      type: "image\/png",
-      sizes: "633x1280"
+      "src": "https://app.3schools.in/img/img7.png",
+      "type": "image\/png",
+      "sizes": "633x1280"
       }
     ],
   "name": "Ask 3schools",
