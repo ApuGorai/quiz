@@ -4,7 +4,7 @@
   "version":"1.2.3",
   "description": "Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন স্কুল।  A blog about generalscience,mocktest,r,English Grammar,wbcs,ssc,class12,class10,study,reasoning,gk,geography,current Affairs,education,history,Bengali,শিক্ষার সেরা ঠিকানা,আস্ক থ্রি স্কুল  ",
   "display": "standalone",
-  prefer_related_applications: true,
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "ask3schools.png",
