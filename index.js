@@ -10,7 +10,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   deferredPrompt = e;
   addBtn.addEventListener('click', school);
-  var intervalId = window.setInterval(school, 5000);
+  var intervalId = window.setInterval(school, 15000);
   function school() {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
