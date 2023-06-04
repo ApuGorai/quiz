@@ -52,6 +52,8 @@
 #taskList {
     list-style: none;
     padding: 0;
+    display: flex;
+    flex-direction: column-reverse;
 }
 /* massage container*/
   .ms-con {
@@ -124,7 +126,16 @@ if(localStorage.getItem('uSearch')){
     }
   });
 
-  
+  var tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+  tasks.forEach(function(task) {
+    var listItem = document.createElement("li");
+    var anchor = document.createElement("a");
+    anchor.href = task;
+    anchor.innerText = "Show Answers";
+    listItem.innerText = task + " ";
+    listItem.appendChild(anchor);
+    taskList.appendChild(listItem);
+  });
 });
 
 
