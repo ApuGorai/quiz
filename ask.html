@@ -84,35 +84,7 @@
 	form.gsc-search-box {
     display: none!important;
 }
-.ask-btn {
-    position: fixed;
-    bottom: 100px;
-    left: 50%;
-    transform: translateX(-50%);
-}
-.ask-btni {
-    position: relative;
-}
-.ask-btni:after {
-    content: ' প্রশ্ন জিজ্ঞাসা করুন';
-    position: absolute;
-    top: 50%;
-    transform: translate(0, -50%);
-    width: 200px;
-    font-size: 14px;
-    padding: 5px 8px;
-    font-weight: bold;
-}
-.ask-btn svg {
-    width: 3em;
-    height: 3em;
-    color: #fff;
-    background-color: #000;
-    padding: 4px;
-    border-radius: 50%;
-    border: 1px solid darkcyan;
-    box-shadow: 0 0 7px rgba(0,0,0,0.14);
-}     
+
 </style>
 <script async='async' src='https://cse.google.com/cse.js?cx=adab11cf3d2c5df34'></script>
 <div style='margin:7px auto;'><div class='gcse-search' data-mobileLayout='disabled'/></div>
@@ -129,20 +101,9 @@
 <div class="ms-con flexM">
   <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="currentColor" d="M22 4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14l4 4V4Z"/></svg>&nbsp;&nbsp;<span class="ms-text flexM">Link Copied</span>
 </div>
-	<div class="ask-btn" onclick="record()"><div class="ask-btni"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4z"></path></svg></div></div>
-
+	
 <script>
-	if ("SpeechRecognition" in window ||"webkitSpeechRecognition" in window ||"mozSpeechRecognition" in window ||"msSpeechRecognition" in window) {var recognition = new (window.SpeechRecognition ||window.webkitSpeechRecognition ||window.mozSpeechRecognition ||window.msSpeechRecognition)();} else { console.error("Sorry, Speech Recognition is not supported in your browser.");}recognition.continuous = true;recognition.lang = "bn_IN";
-
-function record(){
-recognition.start();
-recognition.onresult = event => {
-  const speechToText = event.results[event.results.length - 1][0];
-  let text = speechToText.transcript;
-  localStorage.setItem('uSearch',text);
-  location.href='https://wb.3schools.in/ask.html?q='+text;
-}
-}
+	
 document.addEventListener("DOMContentLoaded", function() {
 if(localStorage.getItem('uSearch')){
  document.getElementById('taskInput').value = localStorage.getItem('uSearch');
