@@ -93,7 +93,7 @@
 </style>
   <h2>আপনার প্রশ্নটি জিজ্ঞাসা করুন। </h2>
 <form class="ask3" method="post" name="google-sheet" data-email="ask3schools@gmail.com">
-  <input name="name" id="taskInput" type="text" placeholder="আপনার প্রশ্নটি লিখুন..">
+  <input name="name" required id="taskInput" type="text" placeholder="আপনার প্রশ্নটি লিখুন..">
   <input type="hidden" name="message">
   <button id="addButton" type="submit" name="submit">প্রকাশ করুন</button>
   <ul id="taskList"></ul>
@@ -123,9 +123,6 @@ if(localStorage.getItem('uSearch')){
       listItem.innerText = task + " ";
       listItem.appendChild(anchor);
       taskList.appendChild(listItem);
-      taskInput.value = "";
-
-      // Save task to localStorage
       var tasks = JSON.parse(localStorage.getItem("tasks")) || [];
       tasks.push(task);
       localStorage.setItem("tasks", JSON.stringify(tasks));
