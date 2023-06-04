@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Ask 3schools</title>
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0' name='viewport'/>
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Ask 3schools হল জ্ঞান ভাগ করে নেওয়ার জন্য ও বিশ্বকে আরও ভালোভাবে জানার জন্য একটি অনলাইন প্রশ্নোত্তর সাইট/স্কুল। ">
+    <meta name="keywords" content="A blog about generalscience,mocktest,r,English Grammar,wbcs,ssc,class12,class10,study,reasoning,gk,geography,current Affairs,education,history,Bengali,শিক্ষার সেরা ঠিকানা,আস্ক থ্রি স্কুল, বাংলা প্রশ্নোত্তর সাইট, সব প্রশ্নের উত্তর, বাংলা পরীক্ষার প্রশ্ন উত্তর,বাংলা প্রশ্নোত্তর সাইট , ইসলামিক প্রশ্ন উত্তর ওয়েবসাইট, দ্বাদশ শ্রেণির বাংলা প্রশ্ন উত্তর,">
+    <meta name="author" content="Apu">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Ask 3schools">
+    <meta name="application-name" content="Ask 3schools">
+    <link rel="icon" type="image/png" href="./images/icon_32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="./images/icon_16.png" sizes="16x16">
+    <link href='ask3schools.png' rel='icon' type='image/x-icon'/>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="index.js" defer></script>
+    <link rel="manifest" href="manifest.webmanifest"/>
+    
+</head>
+
+<body>
+    <header id="quizHeader">
+	 <button onclick="share();">share</button>
+         <h1>Ask 3schools</h1>
+	 <div class="userIcon">
+         <img id="userImg" onclick="window.open('/profile.html','_self')" src="/images/icon_256.png">
+        </div>
+     </header>
+   
+   <article>
+     <style>
+#taskInput, #addButton, #taskList li {
+    padding: 10px 14px;
+    width: 90%;
+    max-width: 600px;
+    border: none;
+    outline: none;
+    box-shadow: 0 2px 7px rgba(0,0,0,0.15);
+    border-radius: 8px;
+    margin: 10px auto;
+    display: block;
+}
+#addButton {
+    background-color: aquamarine;
+    font-size: 15px;
+    width: 120px;
+    font-weight: bold;
+    color: darksalmon;
+}
+#taskList {
+    list-style: none;
+    padding: 0;
+}
+/* massage container*/
+  .ms-con {
+    position: fixed;
+    top: -100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 26px;
+    white-space: nowrap;
+    background-color: #ff0;
+    color: rgb(236,12,111);
+    font-weight: 500;
+    max-width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(17,96,248,0.96);
+    z-index: 18;
+    transition: all 900ms ease;
+  }
+  .flexM{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+  }
+ .ms-con.active {
+    top: 30%
+  }
+</style>
+<script async='async' src='https://cse.google.com/cse.js?cx=adab11cf3d2c5df34'></script>
+<div style='margin:7px auto;'><div class='gcse-search' data-mobileLayout='disabled'/></div>
+
+<style> .gsc-cursor-page{padding:5px 9px}.gsc-webResult.gsc-result{margin-top:9px;box-shadow: 0 0 15px -5px rgba(0, 1, 0, 0.1);border-radius:2px;padding:8px 10px;}.gsc-webResult.gsc-result:hover{background-color:#eeff008f;border-color:#eeff008f}.gsc-control-cse{background-color:transparent;border:none;margin:-2px;padding:0}.gsc-input-box input,.gsc-input-box-hover,.gsc-input-box-focus{background-color:transparent;font-size:17px; padding:8px 10px!important;}.gsc-input-box{background: #f0f3ff;display: flex;align-items: center;border-radius:5px;box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1)}table.gsc-search-box td.gsc-input{padding-right:0;}.gsc-above-wrapper-area{display:none}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus,.gcsc-find-more-on-google,.gsc-thumbnail{display:none;}.dark-mode .gsc-webResult.gsc-result,.dark-mode .gs-snippet,.dark-mode .gs-webResult.gs-result a,.dark-mode .gsc-input-box{ background-color:#2d2d30;color:#fff!important;border:none;box-shadow:none;}.dark-mode .gs-snippet b{color:#db1cceeb}/*.gsc-expansionArea{display:grid;grid-template-columns: 1fr 1fr;grid-gap: 5px;}*/ form.gsc-search-box table *{background: none;border: none;box-shadow: none}
+</style>
+  <h2>আপনার প্রশ্নটি জিজ্ঞাসা করুন। </h2>
+<form class="ask3" method="post" name="google-sheet" data-email="ask3schools@gmail.com">
+  <input name="name" id="taskInput" type="text" placeholder="আপনার প্রশ্নটি লিখুন..">
+  <input type="hidden" name="message">
+  <button id="addButton" type="submit" name="submit">প্রকাশ করুন</button>
+  <ul id="taskList"></ul>
+</form>
+<div class="ms-con flexM">
+  <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24"><path fill="currentColor" d="M22 4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14l4 4V4Z"/></svg>&nbsp;&nbsp;<span class="ms-text flexM">Link Copied</span>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+if(localStorage.getItem('uSearch')){
+ document.getElementById('taskInput').value = localStorage.getItem('uSearch');
+}
+  var addButton = document.getElementById("addButton");
+  var taskInput = document.getElementById("taskInput");
+  var taskList = document.getElementById("taskList");
+
+  addButton.addEventListener("click", function() {
+    var task = taskInput.value;
+    if (task.trim() !== "") {
+      var listItem = document.createElement("li");
+      var anchor = document.createElement("a");
+      anchor.href = 'https://ask.3schools.in/search?q='+task;
+      anchor.innerText = "Show Answers";
+      anchor.setAttribute('target','_blank');
+      listItem.innerText = task + " ";
+      listItem.appendChild(anchor);
+      taskList.appendChild(listItem);
+      taskInput.value = "";
+
+      // Save task to localStorage
+      var tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+      tasks.push(task);
+      localStorage.setItem("tasks", JSON.stringify(tasks));
+    }
+  });
+
+  
+});
+
+
+
+function alertM(m, t) {
+    let msCon = document.querySelector('.ms-con');
+    document.querySelector('.ms-con').classList.add('active');
+    msCon.querySelector('.ms-text').innerHTML = m;
+    setTimeout(()=> {
+      document.querySelector('.ms-con').classList.remove('active');
+    }, t);
+  }
+ const scriptURL = ' https://script.google.com/macros/s/AKfycbwTyorQNq96mZghQ5ovTQ4hK6E-NOaYTzU2wZkxLYuNWWZoiFPYFtycT-wHdYVooKQtzg/exec';
+            const form = document.forms['google-sheet'];
+            form.addEventListener('submit', e => {
+              e.preventDefault();
+              alertM('প্রকাশ করা হচ্ছে! <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2Zm0 18a8 8 0 1 1 8-8A8 8 0 0 1 12 20Z" opacity=".5"/><path fill="currentColor" d="M20 12h2A10 10 0 0 0 12 2V4A8 8 0 0 1 20 12Z"><animateTransform attributeName="transform" dur="1s" from="0 12 12" repeatCount="indefinite" to="360 12 12" type="rotate"/></path></svg>',12000)
+              
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alertM('আপনার প্রশ্নটি জিজ্ঞাসা করা হয়েছে!',3000))
+                .catch(error => alertM('Please try again.',5000))
+            })
+</script>
+
+  </article>
+  <footer>
+         <input  class='stickB hidden' id="stickB" type='checkbox'/>
+       <div class='stick'>
+          <label class='stickClose' for='stickB'>❌</label>
+         <div class='stickContent'>
+             <button onclick="window.open('/follow.html','_self')">🔔</button>
+	<button onclick="window.open('/home.html','_self')"> 🌐</button>
+             <button onclick="window.open('/daily.html','_self')">🎁</button>
+             <button onclick="window.open('/search.html','_self')">🔎</button>
+             <button class="addbtn">📲</button>
+          </div>
+       </div>
+     </footer>
+   <script>
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+           .register('/sw.js')
+           .then(function() { console.log("Service Worker Registered"); });
+}   
+function updatedU(){
+var userName = localStorage.getItem("userName");
+var userImg = localStorage.getItem("userPic")
+ if(userName != null){
+     
+     document.getElementById("userImg").src= userImg;
+}
+}
+updatedU(); 
+
+ 
+
+
+   </script>
+</body>
+
+</html>
