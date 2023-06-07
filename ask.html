@@ -116,8 +116,9 @@ if(localStorage.getItem('uSearch')){
     var task = taskInput.value;
     if (task.trim() !== "") {
       var listItem = document.createElement("li");
-      var anchor = document.createElement("a");
-      anchor.href = 'https://ask.3schools.in/search?q='+task;
+      var anchor = document.createElement("button");
+      anchor.setAttribute('onclick', `window.open('https://ask.3schools.in/search?q=${task}', '_self')`);
+      anchor.setAttribute('type','button');
       anchor.innerText = "Show Answers";
       anchor.setAttribute('target','_blank');
       listItem.innerText = task + " ";
@@ -132,8 +133,9 @@ if(localStorage.getItem('uSearch')){
   var tasks = JSON.parse(localStorage.getItem("tasks")) || [];
   tasks.forEach(function(task) {
     var listItem = document.createElement("li");
-    var anchor = document.createElement("a");
-    anchor.href = task;
+    var anchor = document.createElement("button");
+    anchor.setAttribute('onclick', `window.open('https://ask.3schools.in/search?q=${task}', '_self')`);
+    anchor.setAttribute('type','button');
     anchor.innerText = "Show Answers";
     listItem.innerText = task + " ";
     listItem.appendChild(anchor);
