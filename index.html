@@ -23,7 +23,7 @@
     position: fixed;
     bottom: 100px;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(calc(-50% + -50px));
 }
 .ask-btni {
     position: relative;
@@ -42,11 +42,11 @@
     width: 3em;
     height: 3em;
     color: #fff;
-    background-color: #000;
+    background-color: #9c27b0;
     padding: 4px;
     border-radius: 50%;
-    border: 1px solid darkcyan;
-    box-shadow: 0 0 7px rgba(0,0,0,0.14);
+    border: 1px solid #9c27b0;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 22%);
 }
 	</style>
 </head>
@@ -88,7 +88,7 @@
           <label class='stickClose' for='stickB'>❌</label>
          <div class='stickContent'>
              <button onclick="window.open('/follow.html','_self')">🔔</button>
-	<button onclick="window.open('/home.html','_self')"> 🌐</button>
+	<button onclick="window.open('https://ask.3schools.in','_self')"> 🌐</button>
              <button onclick="window.open('/daily.html','_self')">🎁</button>
              <button onclick="window.open('/search.html','_self')">🔎</button>
              <button class="addbtn">📲</button>
@@ -175,13 +175,19 @@ const dayName = ["রবিবার", "সোমবার","মঙ্গলব�
  document.getElementById('dayname').innerHTML = dayName[day];
 }
    </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-193488541-3"></script>
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DFH93ZT7LS"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
+
   function gtag(){dataLayer.push(arguments);}
+
   gtag('js', new Date());
 
-  gtag('config', 'UA-193488541-3');
+  gtag('config', 'G-DFH93ZT7LS');
+
 </script>
 </body>
 
