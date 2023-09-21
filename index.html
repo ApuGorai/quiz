@@ -98,6 +98,20 @@
           </div>
        </div>
      </footer>
+	
+    <script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.4/app.js" async></script>
+    <script>
+    var truepush = window.truepush || [];
+            
+    truepush.push(function(){
+        truepush.Init({
+            id: "650bebdc80fc27988ce59ff0",
+	    serviceWorkerFileName: 'swc.js'
+        },function(error){
+          if(error) console.error(error);
+        })
+    })
+    </script>
    <script>
 	   if ("SpeechRecognition" in window ||"webkitSpeechRecognition" in window ||"mozSpeechRecognition" in window ||"msSpeechRecognition" in window) {var recognition = new (window.SpeechRecognition ||window.webkitSpeechRecognition ||window.mozSpeechRecognition ||window.msSpeechRecognition)();} else { console.error("Sorry, Speech Recognition is not supported in your browser.");}recognition.continuous = true;recognition.lang = "bn_IN";
 
