@@ -79,11 +79,11 @@ details.ac[open] summary {
 }
 
 details.ac[open] summary::before {
-  content: '\\2212';
+  content: '\2212';
 }
 
 details.ac summary::before {
-  content: '\\002B';
+  content: '\002B';
   padding: 0 2px;
   flex: 0 0 25px;
   display: flex;
@@ -112,7 +112,7 @@ blockquote {
 }
 
 blockquote::before {
-  content: '\\201D';
+  content: '\201D';
   position: absolute;
   top: 0;
   left: 0;
@@ -227,7 +227,7 @@ figcaption.fig-cap {
 }
 
 .alert::after {
-  content: '\\002A';
+  content: '\002A';
   position: absolute;
   left: 18px;
   top: 16px;
