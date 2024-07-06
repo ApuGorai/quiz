@@ -414,3 +414,55 @@ figcaption.fig-cap {
   font-weight: bold;
   color: #6001d2;
 }
+.layout-mode {
+    margin: 12px 5px;
+    font-size: 1.6rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 2rem;
+    font-weight: 500;
+}
+.layout-mode::after {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 30px;
+    margin: 0 10px;
+    border-bottom: 1px solid #989b9f;
+    opacity: .5;
+}
+.trending-now ul {
+    flex-wrap: wrap;
+    list-style-type: none;
+    counter-reset: li;
+    flex-direction: column;
+    height: 155px;
+    margin: 0;
+    padding: 10px;
+    overflow-x: auto;
+}
+ 
+.trending-now ul li {
+    box-shadow: 0 0 1px rgba(0,0,0,.08),0 4px 8px rgba(0,0,0,.1);
+    border-radius: 22px;
+    max-width: 180px;
+    padding: 5px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 14px;
+}
+.trending-now ul li:before {
+    counter-increment: li;
+    content: counter(li) ". ";
+    font-weight: 600;
+    color: #6001d2;
+}
+.trending-now ul li a, ul li .category {
+    color: #232a31;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
