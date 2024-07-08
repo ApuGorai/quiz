@@ -466,3 +466,40 @@ figcaption.fig-cap {
     overflow: hidden;
     white-space: nowrap;
 }
+.chpN.flex3s {
+    margin: 4em 0 1em;
+    justify-content: space-between;
+    overflow: hidden;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.chpN >* {
+    color: inherit;
+    cursor: default;
+}
+.chpN >*::before {
+    content: attr(data-content);
+}
+.chpN >*:not(:first-child)::before {
+    content: attr(data-content);
+}
+.chpN >*::after {
+    content: attr(data-text);
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    opacity: .6;
+    font-size: 12px;
+    line-height: 1.5em;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.chpN >*:hover::after {
+    text-decoration: underline;
+}
+.chpN >*:not(:first-child) {
+    text-align: right;
+}
