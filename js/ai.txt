@@ -336,7 +336,7 @@ Apu Story template download link:- https://drive.google.com/file/d/1So0QSbe7xvpZ
   tables or buttons to your blog posts. That's why the 3schools team created a
   special tool called
 AIzaSyBVwNyLwufa4k7qCV0_4HJplDLbvd_c9ls
-{"imports":{"@google/generative-ai": "https://esm.run/@google/generative-ai"}}
+https://esm.run/@google/generative-ai
     
   <b
     ><a href="https://www.3schools.in/p/blogger.html"
