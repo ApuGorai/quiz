@@ -1,0 +1,1046 @@
+Make Stories for Blogger
+The 3schools Make Story 2.0 tool allows you to create Google web stories, blog post, news article for Blogger for free and quickly. Your feedback is valuable! Share your suggestions to help us improve the tool.
+Note :- You Are a 3schools chatbot and created by Apu & 3schools team. Please give answer only from this topic. otherwise answer "I don'thaveanswerfor that"
+Our Roadmap
+Filters
+3schools Make Story 2.0 : publisher image not showing
+FEATURE REQUESTS › COMPLETE
+Sign in problem : Google hasn't verified this app
+BUGS › COMPLETE
+Template error : Subscribe to : Posts (Atom)
+BUGS › COMPLETE
+How to add Google Analytics (GA4) in Blogger
+FEATURE REQUESTS › COMPLETE
+Upload Premium News Template in Blogger
+FEATURE REQUESTS › COMPLETE
+Reply option not showing in post comments
+FEATURE REQUESTS › COMPLETE
+Display AdSense ads in web story
+FEATURE REQUESTS › COMPLETE
+Invalid amp show & error in google search console
+BUGS › COMPLETE
+Add Google FAQ schema in blog post
+FEATURE REQUESTS › PLANNED
+Video upload problem in 3schools Make Story 2.0
+BUGS › PLANNED
+Load More
+Write Your Answer
+DEFENCE POINT
+DEFENCE POINT
+Sunday, March 06, 2022
+Kaafi Samay se iss chiz ke liye wait tha or Finally aapke isko pura kiya thankxx First of All ....
+
+
+Humne abhi aapka Story Section Cheak kiya its just Amazing
+Apu
+Apu
+Sunday, March 13, 2022
+Thank you so much bro.
+Reply
+Delete
+Share
+Apu
+Apu
+Saturday, February 03, 2024
+We have recently launched "3schools Make Story 2.0" - we are more easy, more friendly, more professional.
+Reply
+Delete
+Share
+Mahesh Majhi
+Tuesday, May 21, 2024
+Hello sir
+I try your blogger web stories tool this is really amazing i appreciate your hardwork but when I follow your documentation and create stories and copy code to paste in my blogger website and check my web stories is not showing please fix this problem 🙏🙏🙏
+Apu
+Tuesday, May 21, 2024
+Please use our amp blogger template!
+Mahesh Majhi
+Tuesday, May 21, 2024
+Thanks, I'll check them out.
+Mahesh Majhi
+Tuesday, May 21, 2024
+Where did you host this website? On blogger or wordpress. Please tell me. Thank you very much sir.🙏🙏🙏
+Apu
+Tuesday, May 21, 2024
+On Blogger
+Mahesh Majhi
+Tuesday, May 21, 2024
+Hello sir
+Thank you for your mail and i really happy your tool is working but when I add your code to blogger and visit website blog name is not clickable please fix this problem 🙏🙏
+
+👉I think this tool is changed my blogging journey 🎉✌️✌️
+Mahesh Majhi
+Tuesday, May 21, 2024
+Blog name is not clickable
+Url:https://ga.....
+Please fix this problem 🙏🙏🙏
+Apu
+Tuesday, May 21, 2024
+This is not a problem!
+Mahesh Majhi
+Tuesday, May 21, 2024
+Sir where is the download link of : PREMIUM NEWS TEMPLATE .
+
+Please provide me I am waiting for your reply 🙏🙏🙏
+Reply
+Delete
+Share
+Biki Debnath
+Tuesday, May 21, 2024
+In your, "3schools Make Story 2.0" tool, publisher image not showing/fetch in poster/every slide. Please fix it. And brother you are doing great job. your web story generator working fine except publisher-image. Please let me inform, whenever you fix this issue. Thank You, Love from Assam.
+Apu
+Apu
+Tuesday, May 21, 2024
+Dear Biki Debnath,
+
+Thank you for reaching out to us.
+
+In order to better assist you and investigate the error you've encountered, could you please provide us with the URL of the web story you are referring to? This will allow us to gather more information and address the issue promptly.
+
+We appreciate your cooperation and look forward to resolving this matter for you.
+Biki Debnath
+Tuesday, May 21, 2024
+To display the logo on every slide, add the following code within the <amp-story> element:
+<amp-story-grid-layer template="fill">
+<div class="amp-logo">
+<amp-img src="https://my_logo.png" width="95" height="95" layout="fixed"></amp-img>
+</div>
+</amp-story-grid-layer>
+
+
+This code will ensure that your logo is consistently shown across all slides of the web story. To add this code to your tool that automatically fetches and adds a logo to every slide in a web story.
+3schools
+Apu
+Apu
+Tuesday, May 21, 2024
+But that's not an error! It's a way to style the pages of your web stories by displaying your website logo to the visitors.
+
+Is your Web Story valid?
+Please check using the AMP checker tool. https://search.google.com/test/amp
+Biki Debnath
+Tuesday, May 21, 2024
+I have a doubt. Will creating a web story using your 3school tool generate clicks and impressions? I have a blog website with multiple-choice questions (MCQs), so would uploading MCQs in web stories be beneficial? Can I upload all slides with images, including quiz questions, or not? Please guide me.
+
+Additionally, all stories generated from your tool are valid and pass the AMP test.
+Apu
+Apu
+Tuesday, May 21, 2024
+We have created only 8 - 9 web stories for demo purpose using our tool and we got 90k total impressions, 15k total clicks from Google discover. Source:- 3schools
+
+Yes, you can upload all slides with images, including quiz questions, using our 3schools Make Story.
+
+Additionally, it's important to note that web stories can help you attract traffic from Google Discover as well as Google Search. However, the success of your web stories in driving traffic depends on the quality and relevance of your content to your target audience.
+Apu
+Apu
+Wednesday, May 22, 2024
+By the way, we provide more than 20 stylish web story templates. You can use them in your web story with a single click. Take a look at our web story templates.
+Reply
+Delete
+Share
+Majhi Prasad
+Tuesday, May 21, 2024
+This is my problem please fix this
+
+1: subscribe to post atom and ask by soom post comment with image
+3schools
+Apu
+Apu
+Tuesday, May 21, 2024
+Hello Majhi Prasad,
+Can you please share the url of this page?
+Majhi Prasad
+Tuesday, May 21, 2024
+I solve this problem recently thnx for your webstories 2.0
+Anonymous
+Friday, May 24, 2024
+I found a reason why this problem happens!
+If you upload the downloaded template by clicking the restore button, you will see that error.
+
+I am using mobile phone and how I solved this:-
+
+1. https://www.3schools.in/p/code-editor.html  visit this page and upload the downloaded xml file.
+
+2. Now select the file and copy all code.
+
+3. Next go to Blogger's theme section and click on Edit HTML button and remove all code and paste the copied code and save it.
+Anonymous
+Thursday, May 30, 2024
+Hey, I am using a mobile device too. But I cannot select the blogger theme code. How can I remove the code? Please help
+Anonymous
+Thursday, May 30, 2024
+For mobile devices, first switch the browser to desktop mode and then you can remove the code.
+Reply
+Delete
+Share
+ARNEWSHINDI
+Tuesday, May 21, 2024
+We are not able to upload images and videos while creating Web Stories. When we ask you to sign up to upload a video, please sign up. Google blocks it please fix this problem
+Apu
+Apu
+Tuesday, May 21, 2024
+Hello,
+Can you please share images or video of the errors you got?
+Apu
+Apu
+Tuesday, May 21, 2024
+You are using the old version of our Web Stories Maker (we don't update it).
+
+Please use our latest version "3schools Make Stories 2.0".
+
+Documentation:- https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html
+
+Tool :- https://www.3schools.in/blogger
+Reply
+Delete
+Share
+Apu
+Apu
+Wednesday, May 22, 2024
+How to add Google Analytics (GA4) in Blogger.
+
+[1] If you create web story using our tool then you may see an input box in our web story editor to add Google Analytics code.
+
+[2] If you are using our "PREMIUM NEWS TEMPLATE" (Free) , you can add GA4 code using the Blogger layout section. Remember - this way you can track only all posts, home page, search etc. But to track web story, you must use the above approach [1]. Read More
+Reply
+Delete
+Share
+Apu
+Apu
+Wednesday, May 22, 2024
+How to upload Premium News Template in Blogger?
+
+If you are thinking to upload the PREMIUM NEWS TEMPLATE by clicking the restore button, I shall not recommend it. Because, you may get some amp errors.
+
+1. First open the downloaded XML file in a code editor like vs code, notepad++ or any other code editor.
+
+2. After coping all code, go to Blogger › Theme › Edit HTML › now remove all code & paste the copied code › click the save button.
+Reply
+Delete
+Share
+SOHANLAL KUSHWAHA
+Wednesday, May 22, 2024
+Reply option not showing in post comments?
+
+I am using the "Premium News Template" But in my post, there is not available the Reply button.
+Apu
+Apu
+Wednesday, May 22, 2024
+Hey SOHANLAL KUSHWAHA,
+Just wanted to let you know that we're working on updating the Reply option in the next version. Please use the "Apu Story" blogger template .  The Reply button is available in this theme. link:- https://www.3schools.in/2024/07/apu-story-premium-blogger-template-free.html
+
+
+Display AdSense ads in web story?
+
+If your site is already approved by Google AdSense only then you can display AdSense ads in your web story.3schoolsSee the 4 no option of the above image. To display ads, you need pub id & Ads slot.
+So, go to AdSense => Ads => overview => and create a Display Ad . You will get a code like the following one.
+<ins class="adsbygoogle"
+style="display:block;"
+    data-ad-client="ca-pub-1234567890123456"
+    data-ad-slot="5678"
+    data-ad-format="auto"
+    data-full-width-responsive="true">
+</ins>
+
+AdSense pub id is ca-pub-1234567890123456 and Ads slot id is 5678.
+Reply
+Delete
+Share
+Apu
+Apu
+Wednesday, May 22, 2024
+Invalid amp show & error in google search console?
+Please follow the following steps to solve the amp error:
+
+1. Go to Blogger › Earnings ›  click on the Remove AdSense button (Only if you can see).
+
+2. Visit this link and upload an image from the Profile Photo section (don't forget to select your original email).
+
+3. Go to Blogger › Settings › Enable search description.
+3schools
+4. Use our "PREMIUM NEWS TEMPLATE" & 3schools Make Story 2.0 to create a web story.
+Is your AMP page or Web Story valid?
+Visit this link to check.
+Reply
+Delete
+Share
+Apu
+Apu
+Thursday, May 23, 2024
+How to Add Google FAQ schema in blog post?
+--------
+Google has announced that to be eligible for FAQ rich results, your site must be a well-known, authoritative government or health website, and follow their other guidelines.
+------  GOOGLE ------
+
+So, using our post editor, you can't add FAQ schema but you can add a faq (question & answer) section. For that go to our post editor › choose Warning › add question & answer.
+Reply
+Delete
+Share
+Apu
+Apu
+Thursday, May 23, 2024
+Video upload problem in 3schools Make Story 2.0
+
+As you know, all the assets (images, music, videos) that you upload in our Web Story Editor are hosted in your Google Drive.
+
+Videos and music are not displayed from direct Google Drive URLs. That's why you can't upload videos and audios directly. However, if you upload videos or audios to another hosting platform, you can add those file links in our Web Story editor.
+
+You can also use Pixels & Tenor images or videos - those you don't need to upload.
+Reply
+Delete
+Share
+Apu
+Apu
+Thursday, May 23, 2024
+How to Add table in 3schools Post Editor or Blogger?
+
+To add a table in the 3schools Post Editor, simply click on the Table button. This will allow you to create a new table with customizable columns and rows. You can then input your desired content into the table cells.
+Reply
+Delete
+Share
+Apu
+Apu
+Friday, May 24, 2024
+All web story pages not showing in 3schools Make Story 2.0 editor?
+
+Web Story Templates : here you can find all customized pages. For each page, there are two icons (download, plus). By clicking the download icon, you can save that page in your browser (localStorage).
+
+Now whenever you visit our 3schools Make Story 2.0 editor and try to add a new page, you may see a new section YOUR SAVED PAGES. From there you can add your saved pages.
+
+NOTE :For the batter users experience, we created a seperate page for the web story templates.
+
+© 2019 - 2024 ‧ 3schools All Rights Reserved.
+
+Hello, I'm Apu Gorai, Blogger, YouTuber, Freelancer and Front-end Developer Based in Asansol.
+https://apu.3schools.in
+Gmail:- 3schools.in@gmail.com
+https://t.me/apugorai
+https://www.instagram.com/3schools/
+https://www.facebook.com/apugoraiofficial
+https://twitter.com/gorai_apu
+https://in.pinterest.com/apu_gorai
+
+
+<p>
+  <b>Apu Story</b> is a special blogger template that was made by the 3schools
+  team. This template lets you create different types of content for your blog,
+  like regular blog posts, news articles, and the new Google Web Stories.
+</p>
+<p>
+  In this blog post, I'm going to show you all the features that come with this
+  <b>Apu Story</b> template. I'll explain how you can use each of these features
+  for your blog or website.
+</p>
+Apu Story template demo link :- https://usa.3schools.in
+Apu Story template download link:- https://drive.google.com/file/d/1So0QSbe7xvpZ8Z0CObNdAXPeKzfijEkU/view?usp=drive_link
+<p>
+  We all know that the regular Blogger editor doesn't let you add things like
+  tables or buttons to your blog posts. That's why the 3schools team created a
+  special tool called
+AIzaSyBVwNyLwufa4k7qCV0_4HJplDLbvd_c9ls
+  <b
+    ><a href="https://www.3schools.in/p/blogger.html"
+      >3schools Make Story 2.0</a
+    ></b
+  >. With this tool, you can create blog posts that have tables, buttons,
+  marquees, and even Google Web Stories.
+</p>
+
+<div class="showH">
+  <details class="ac">
+    <summary>Getting Started - 
+<i> Setup and installation guide.</i></summary>
+    <div class="aC">
+      <p>
+        First, you'll need to create a blog on the Blogger platform. You can use either a custom domain name or a custom subdomain. Once you have your blog set up, you'll need to download the <b>Apu Story</b> blogger template.</p>
+
+<p>Now it's time to upload and install the <b>Apu Story</b> template on your Blogger blog. You might be thinking the easiest way is to just upload the <kbd>.xml</kbd> file directly. But the recommended way to install a custom theme is to actually replace the entire HTML code of your previous theme with the new <b>Apu Story</b> HTML code. 
+      </p>
+     <div class="note">It is highly recommended to back up the previous theme before using this method.</div>
+      <i class="notranslate"></i><ol class="ol">
+ <li>In Blogger dashboard, click on <b class="notranslate">Theme</b>.</li>
+ <li>Click <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24"><path fill="currentColor" d="m8.71 11.71l2.59 2.59c.39.39 1.02.39 1.41 0l2.59-2.59c.63-.63.18-1.71-.71-1.71H9.41c-.89 0-1.33 1.08-.7 1.71"/></svg> icon next to the <b class="notranslate">Customize</b> button.</li>
+<li>Click <b class="notranslate">Edit HTML</b>, you will be redirected to the editing page.</li>
+<li>Now open the download <kbd>.xml</kbd> file in any text or code editor (you can also use <a href="https://www.3schools.in/p/code-editor.html">our tool</a>) and copy all code.</li>
+<li>Replace all code in your previous theme and paste the copied code. Now save the theme by clicking the <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M20 7.423v10.962q0 .69-.462 1.153T18.384 20H5.616q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h10.961zm-8.004 9.115q.831 0 1.417-.582T14 14.543t-.582-1.418t-1.413-.586t-1.419.581T10 14.535t.582 1.418t1.414.587M6.769 9.77h7.423v-3H6.77z"/></svg> icon.</li>
+</ol>
+    </div>
+  </details>
+  <details class="ac">
+    <summary>Create a blog post or news article.</summary>
+    <div class="aC">
+      <p>
+        The 3schools post editor makes it easy to write both blog posts and news articles. It has lots of different options you can use, like paragraphs, headings (from H1 to H6), lists, checklists, quotes, alerts, FAQs, custom HTML, tables, and images.
+      </p>
+      <ol class="ol">
+<li>First go to our <a href="https://www.3schools.in/p/blogger.html">dashboard</a> and complete the sign in process with you gmail account.</li>
+<li>After completing the sign in process, you will see the options as shown in the below image.<br><div class="seperate"><img alt="Login dashboard" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-SYfhXDV5XlE8z0zyxytxjTnms89e0inni_a97OvKoZWZX0XgQnaJO91whRMvtRHZJfiGKkGGyPrHNrlyQtebdJRNam1kuWNub6oBfYFJVB9bb6uHxVWdX1AN8w2W9hUJ_T_WueIiKdBuEZBI2dJSW8rC5oN46ZNoIux2BuJhVHcWQARVasvNpT1CQkw/s520/login.webp"/></div>
+        
+        </li>
+<li>If you have multiple blogs then select a blog and click on the <kbd class="notranslate"><svg xmlns="http://www.w3.org/2000/svg" width="0.8em" height="0.8em" viewBox="0 0 32 32"><path fill="currentColor" d="M16 3C8.832 3 3 8.832 3 16s5.832 13 13 13s13-5.832 13-13S23.168 3 16 3m0 2c6.087 0 11 4.913 11 11s-4.913 11-11 11S5 22.087 5 16S9.913 5 16 5m-1 5v5h-5v2h5v5h2v-5h5v-2h-5v-5z"/></svg> Create</kbd> button. Now click on the <b class="notranslate">Write Post</b> button. You will be redirected to the post editor.</li>
+</ol>
+    <p>Our 3schools post editor works a lot like the regular Blogger post editor. You can enter a title, write your post content, add labels, and select the publish date - just like with the Blogger editor.</p>
+
+<p>But I'm going to focus on discussing the new features that our 3schools editor has, beyond what the regular Blogger editor can do.</p>
+     <ol class="ol">
+<li><b>Blog post / news article :-</b> By default, any post you create in the 3schools editor will be a regular blog post. But if your post is actually a news article, you can add an extra label called <span class="notranslate">"NEWS"</span> to identify it as such.</li>
+<li><b>Table Of Contents :-</b> The 3schools editor will automatically add a table of contents at the top of your article. But if you don't want the table of contents to be displayed, you can add an extra label called <span class="notranslate">"NOTOC"</span> to your article.</li>
+       <li><b>Voice Typing :-</b> The 3schools editor has a voice typing feature. To use it, first select your language from the right sidebar. Then you can speak, and the editor will automatically convert your voice into written text.</li>
+       <li><b>Save / Delete :-</b> While editing a post, you may want to save your work to come back to it later. To do this, click the save icon <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M20 7.423v10.962q0 .69-.462 1.153T18.384 20H5.616q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h10.961zm-8.004 9.115q.831 0 1.417-.582T14 14.543t-.582-1.418t-1.413-.586t-1.419.581T10 14.535t.582 1.418t1.414.587M6.769 9.77h7.423v-3H6.77z"/></svg> next to the voice typing icon. This will store your post content in your browser's local storage, so you can pick up where you left off. Delete saved data by clicking the <svg xmlns="http://www.w3.org/2000/svg" width="0.8em" height="0.8em" viewBox="0 0 32 32"><path fill="currentColor" d="M13.5 6.5V7h5v-.5a2.5 2.5 0 0 0-5 0m-2 .5v-.5a4.5 4.5 0 1 1 9 0V7H28a1 1 0 1 1 0 2h-1.508L24.6 25.568A5 5 0 0 1 19.63 30h-7.26a5 5 0 0 1-4.97-4.432L5.508 9H4a1 1 0 0 1 0-2zm2.5 6.5a1 1 0 1 0-2 0v10a1 1 0 1 0 2 0zm5-1a1 1 0 0 0-1 1v10a1 1 0 1 0 2 0v-10a1 1 0 0 0-1-1"/></svg> icon.</li>
+       <li><b>Raw HTML :-</b> If you click on the <kbd class="notranslate">"+"</kbd> icon in the editor, you'll see an option for <b class="notranslate">"Raw HTML"</b>. This allows you to add your own custom HTML, CSS, and JavaScript code directly into your blog post or article.</li>
+       <li><b> Extensions :-</b> The 3schools editor has multiple extensions that you can use. To access them, first add a <b class="notranslate">"Raw HTML"</b> block. Then click on the extension button <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8.954 20H5q-.421 0-.71-.29Q4 19.422 4 19v-3.954q.854-.25 1.427-.945T6 12.5t-.573-1.601T4 9.954V6q0-.421.29-.71Q4.579 5 5 5h4q.27-.858.946-1.371q.677-.514 1.554-.514t1.554.514T14 5h4q.421 0 .71.29q.29.289.29.71v4q.858.27 1.371.946q.514.677.514 1.554t-.514 1.554T19 15v4q0 .421-.29.71q-.289.29-.71.29h-3.954q-.269-.904-.97-1.452T11.5 18t-1.576.548T8.954 20"/></svg> next to the voice typing button. This will show you all the different extensions available. You can choose any of them, and when you're done, click the save icon in the top right corner.
+       <div class="separator" style="clear: both;"><img alt="3schools extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2bqkNu9IruwJiG8ltBY80hk5fhHJVPkDDaBs8A9tzln9HX9x2U9oNVxvex_MLAyUPRG8i7-SMqweQTrrLOXiq0AUkIaBCuQ2IsOCqg_DIamSwDF4F11jWSiQovQGXXOLoctAFqQ4j1TqC-Zx8NMAjCyt5Fhp3s1xNiLmx00mx92bjA0oNxQstz048KRk/s320/extensions.webp"/></div>
+       </li>
+       <li><b>Preview :-</b> When you're ready to see what your article will look like, you can click the preview button in the top right corner of the editor.</li>
+</ol>
+    </div>
+  </details>
+  <details class="ac">
+    <summary>Create Google Web Story</summary>
+    <div class="aC">
+      <p>
+        You can create Google Web Stories for your Blogger blog using the fast and easy-to-use <b>"3schools Make Story 2.0"</b> online tool. To learn more, you can read the <a href="https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html">documentation</a>.
+      </p>
+    </div>
+  </details>
+  
+  
+
+</div>
+
+
+
+<p>
+  Now, we are more easy, more friendly, more professional. Let me introduce
+  "3schools Make Story 2.0".
+</p>
+
+<h2 style="text-align: left;">3schools Make Story 2.0 Provides</h2>
+<ol class="ol">
+<li style="text-align: left;">
+  <b>1.</b> One premium news template with Google Web Story page.
+  <a href="https://usa.3schools.in" rel="nofollow" target="_blank">View Demo</a>
+</li>
+<li style="text-align: left;">
+  <b>2.</b> Don't need to go to Blogger. Login, create, customize &amp; publish
+  Web Story from our dashboard.
+</li>
+<li style="text-align: left;">
+  <b>3.</b> Our new version provides default customized pages. Choose from there
+  &amp; ready to go.
+  <a
+    href="https://www.3schools.in/p/webstory-templates.html"
+    rel="nofollow"
+    target="_blank"
+    >View Demo Pages</a
+  >
+</li>
+<li style="text-align: left;">
+  <b>4.</b> Need users' attention? Instantly add GIF and Pexels images with a single click,
+  no upload required!
+</li>
+<li style="text-align: left;">
+  <b>5.</b> Using this version, you can also create web stories with quizzes.
+</li>
+  <li style="text-align: left;">
+  <b>6.</b> World's first comment support in a web story? 3schools make it possible with Facebook comment!
+ <a href="https://usa.3schools.in/p/top-10-wild-animals-of-india-with-names.html" target="_blank" rel="nofollow">View Demo</a></li>
+  <li style="text-align: left;">
+
+  <b>7.</b> Meet <b>3schools MakeStory AI</b>! Just write the topic &amp; select pages.</li>
+  <li style="text-align: left;">
+
+  <b>8.</b> Meet <b>3schools Post Editor</b>! write blog post, news article etc. (Add table, faq, images, buttons, post and Web Story etc.)</li>
+</ol>
+<div style="margin:10px auto; text-align: center;">
+  .... 
+</div>
+<div class="separator"><img style="margin:0" loading="lazy" alt="How to create Google Web Story using our 3schools Make Story 2.0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz5rzUudaoAMsElmMXdh36RvwQcj6ymdDMF0avZIlQgCUyJrlZYSHChHJCzN8_bKwGQFGnmgVtsdYBGxSNj-dNQixaIe7eEdQ0ywyQFflkrWO1Nz3jT5F_LXTdx_Ux0fqfx-Qv8FYs4m4vpmdPgaaEiCnvIS-Ve173mZL37ywOfktJxPGfMwtYyBwG/s720/make-stories-for-blogger.png"/></div><br>
+<h2 style="text-align: left;">How To Create Web Story Using This Tool?</h2>
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+  STEP 1
+</div>
+<p style="text-align: left;">
+  <b>Step 1:- </b>Go to Blogger =&gt; Create New Blog =&gt; Add Custom
+  Sub-domain =&gt; Upload Our New Template. <a href="https://www.3schools.in/2024/07/apu-story-premium-blogger-template-free.html">Download the template</a>.
+</p>
+
+<!--<details open="">
+  <summary>Important Links 🔗</summary>
+ <div style="border:1px solid #452;padding:10px">
+  <div><b>1. </b> <a href="https://drive.google.com/file/d/11dBIfkUTzzyj0U9eB6Oguvk6fF8Mr7kC/view?usp=drive_link" target="_blank" rel="nofollow">Download our amp premium news template.</a></div>
+  <div>
+    <b>2. </b>
+    <a
+      href="https://www.3schools.in/2022/10/amp-premium-blogger-template-for-blogger.html#how-to-upload-this-amp-template-in-blogger"
+      target="_blank"
+      rel="nofollow"
+      >How to upload this template in your Blogger blog.</a
+    >
+  </div>
+  <div>
+    <b>3. </b> After uploading this template, you must change some setting.
+    <a
+      href="https://www.3schools.in/2022/10/amp-premium-blogger-template-for-blogger.html#you-may-get"
+      target="_blank"
+      rel="nofollow"
+      >Read How to change</a
+    >
+  </div>
+ </div>
+</details>-->
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+  STEP 2
+</div>
+<p>
+  <b>Step 2. </b> In this template, you can create blog post / news article / about us page in the <b>post</b> section of Blogger dashboard. Only the page section will be used to create Web Story.
+</p>
+<p>To display your all Web Stories together, you must create a post with the following details.</p>
+
+<pre>
+ post title   : Web Stories 
+ Labels       : NOTOC
+ published on : 2 January 2024
+ post body    : copy &amp; paste the below code
+</pre>
+<textarea readonly="" style="background:transparent;padding:5px;outline:none;width:100%;height:100px;">
+&lt;div class="webstories-3schools"&gt;&lt;/div&gt;
+
+&lt;button
+  id="next-button"
+  class="button flex3s"
+  style="margin: 10px auto;border: none;padding:8px 15px;border-radius:5px"
+&gt;
+  &lt;span&gt;Next Page&lt;/span&gt;
+
+  &lt;svg class="line" height="1.5em" width="1.5em" viewBox="0 0 512 512"&gt;
+    &lt;path
+      d="M295.6 163.7c-5.1 5-5.1 13.3-.1 18.4l60.8 60.9H124.9c-7.1 0-12.9 5.8-12.9 13s5.8 13 12.9 13h231.3l-60.8 60.9c-5 5.1-4.9 13.3.1 18.4 5.1 5 13.2 5 18.3-.1l82.4-83c1.1-1.2 2-2.5 2.7-4.1.7-1.6 1-3.3 1-5 0-3.4-1.3-6.6-3.7-9.1l-82.4-83c-4.9-5.2-13.1-5.3-18.2-.3z"
+    &gt;&lt;/path&gt;
+  &lt;/svg&gt;
+&lt;/button&gt;
+
+&lt;script&gt;
+  let wsSetting = {
+    date:1, 
+    author:1, 
+    load : 0,
+  }
+  window.addEventListener('load', function() {
+
+    document.querySelectorAll('.layout-mode.author-box, #tocAuto, .pAd, .trending-posts, .flex3s.layout-mode, .flex3s.post-share').forEach((e) =&gt; {
+
+      e.outerHTML = "";
+
+    });
+  });
+&lt;/script&gt;
+</textarea>
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+  STEP 3
+</div>
+<p>
+  <b>Step 3. </b> Go to our <a href="https://www.3schools.in/p/blogger.html" target="_blank">Web Story Generator Tool</a> => Click the "Sign In With Google" button => Complete the sign in process.
+
+ </p>
+<p>After completing the sign in process, you will see your profile pic with name, your blog list etc.</p>
+<div class="separator" style="clear: both;"><img style="box-shadow:none" alt="Web Story Generator for Blogger" border="0" data-original-height="677" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazjSwEfuwXnMXAckaGTnY46RGDQGVgSgXEWG387LeKFR26T9xm8ubCcErsA_-NNfwWjoVxlKCKqEptjhoU0L-M0zRbk76GPVpq5DD7eh7rNSTid_f0RiU8xI_-76r76n4sVVEDYlgh8h7WPOyr5EnTyuHHg0_g9kIdHLyiCixVgPheSHXeQyXmWUUNy8/s1600/web-story.jpg"/></div>
+
+
+<p>Now select your blog from the drop-down and click the <b>open template</b> button. Now select the pages (as many as you want) by clicking the plus (+) icon from this page . Then click the <b>process</b> button to open selected pages in our editor.</p>
+
+<div class="separator" style="clear: both;"><img style="box-shadow:none" alt="Add pages from our template" border="0" data-original-height="427" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1NUao3W7O1JwRBTGPX1rUQs89ACB81MPc2ZCftf7FP53dsr01pt9TTiMGZjoCdcE4MhOXLxyLoMBgmXcS6OhlpI_JAMTkBLRP4VZf8ghgct9Ig62qmNXllJDtpjSL16GocU4Pkh4u-x61AiPDLa7CXKDKJhpJBRP0qpvgICMCFW0x2UQplhz0ZNhfRq0/s1600/add-page.jpg"/></div>
+
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+  STEP 4
+</div>
+<p>
+<b>Step 4. </b>All the pages will be opened in our web story editor. Now visit this <a href="https://www.3schools.in/2022/10/how-to-use-3schools-make-stories-for-blogger.html#how-to-use-simple-web-story-make-tool-for-blogger" target="_blank">article</a> and follow 1, 2 and 3 steps. (We wrote that article. So, we don't want to write it again) </p>
+
+<p>After styling and changing pages, preview the web story and publish it by clicking the <b>Publish Story</b> button. After publishing web story, you will be redirected to main dashboard where all the created web stories will visible with some action buttons (profile photo, amp test, view, delete).
+</p>
+
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+
+  STEP 5
+</div>
+
+<p>
+<b>Step 5. </b> We have included more features to our new <b>Web Story Maker</b> tool.
+  
+</p>
+<ol class="ol">
+ <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="Page Settings" border="0" data-original-height="240" data-original-width="911" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTv8MKFydL0Pc1z_6zeu9VBjedLcQymCCWwYjGNpu_t0kZmWrZoFHPFsYe9elAspt-t4529CuoUSlqDFgVzIT8PQLOdWARTmp8mwFlARikj_8EVJdGR1mDYk22iytwFMRB7wIjudFVukV2Y5jI5xjuHE7LcQYwjVy-jY7HQQn-GHdV38gNPKJXjHbNp38/s1600/setting.jpg"/></div>
+   <p><b>1.</b> By clicking this button you can add page from our template.</p>
+   <p><b>2.</b> By clicking this button you can make a copy of the current page.</p>
+ </li>
+ <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="add animation images - gif " border="0" data-original-height="240" data-original-width="1079" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWDw2VfwvGFLbQLg3J6ihJuiveY9dx8CbVskPvKw3fPCtvlJdq-AmFT2rEYr7B5L-mXlHeKPJBnC8tACS9GU-D4p48_IrLDtTM-ZtpBWKm4pHoJlzWS25AGEvvN2dAx4dSuJt275wvsLenJliXN48T33Ph1Ydol7qv-52NyxG-MjsYmo6LBViacV7l-3A/s1600/add-gif-image.jpg"/></div>
+   <p>After checking the <b>✅ Tenor gif</b>, search for animation images (gif) and add those images by clicking the <b>plus (+)</b> icon.</p>
+ </li>
+  <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="Backup web story and then restore" border="0" data-original-height="240" data-original-width="1079" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWxNhaTEB1W44iEvWpdttm1IjrfiVzMtiucN7t6tkQGkmapOrFhfWQkTQFxGZ1O9cEFetC4hzgfP3gKrTUuEIhw42Pbc1C1io13TnGo0TARyeMaeSuatrqHv5IzkIi-_92kdLKGngWQaygDsYv8WO0xgihi5kzRP5M5m0Y7tQQGt4CyHN0fedIX-krao/s1600/backup-restore.jpg"/></div>
+   <p><b>1. </b> By clicking the <b>backup</b> button, you can download the current web story (with title, all settings, pages etc. ).</p>
+   <p><b>2. </b>After clicking this <b>restore</b> button, select the downloaded file to upload the downloaded web story.</p>
+ </li> 
+  <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="Add 🖼 Images" border="0" data-original-height="240" data-original-width="1079" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU3iZ8cHyh7zsk1ZAU6b4YZnHTjUlIWWiIe0pJl6wJcvlcGItKVznMwoVrMUYxYbrfC2Hc3i8oYyUzBMe6kvxICsTBQdLR7zGE8qZAt-Cwy3FaLlCCC89TMk9CwgZfA24RUldwHL4MoL2w-sr123Fw_xoJ8kMqiCG1WxkyXs0ctMF1e85uh3fpWgG-sSI/s1600/upload-images.jpg"/></div>
+   <p>In our Story Editor , whenever you will see an icon like this <b class="add_image"></b>, it means there you can add image. First click on that icon and then click on the current page setting. Now you may see a new option as shown in the above image.</p>
+ </li> 
+  <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="Customize 3schools News Blogger Template" border="0" data-original-height="240" data-original-width="1079" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgddH2V4JEiq146-EEs4BKS9vKXD2SrGXmX0_5npYelemib383z53COoE6442Tf-7dTRwGEU9LGg5EW5-hYGmjWAGqGKr1HCRw0_-0SId9nSSSJQNyMy2HbLNpYA8P0m7gvfzliN6OHj_uATkrKMOJ_yB6i5yrasOPK5MwGN9RRg9_KrdhhOYX8gg3cKbY/s1600/3schools-web-stories-template.png"/></div>
+   <p>Now you can also customize our blogger template by visiting the <b>Layout</b> section and <b>customize</b> section.</p>
+ </li> 
+  <li>
+  <div class="separator" style="clear: both;"><img style="box-shadow:none;margin:0;" alt="3schools MakeStory AI" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh8VIa_BBShB6QbMQiwBLLKPhcJ9CVb1gkpu9AHFMKmdl0Y1dgv_rIU25_k7Dbr0Eeqr3V-LOIGVKOXXFXqIUIlem7oD_LJzFt7iSYh7YyVf-hJUhST3AUkp4uEpQykikwVhcyXZ6mVUpJQ1ep_PlJ3F_nWD9fQ0B9rYkk0fEteNThROR-qFlFjPdQhbE/s1600/3schools-makestory-ai.webp"/></div>
+   <p>We provide <b>3schools MakeStory AI</b>. Just write the topic, choose a number (How many pages you want) and click the <svg xmlns="http://www.w3.org/2000/svg" width="1.8em" height="1.8em" viewBox="0 0 24 24"><path fill="royalblue" d="m18.043 13.237l-8.907 5.935a1.47 1.47 0 0 1-.823.25a1.449 1.449 0 0 1-.696-.173a1.48 1.48 0 0 1-.784-1.308V12a1.482 1.482 0 1 1 2.957 0v3.163L14.537 12L7.478 7.304A1.49 1.49 0 1 1 9.13 4.823l8.913 5.94a1.492 1.492 0 0 1 0 2.474M12 0a12 12 0 1 0 12 12A12.012 12.012 0 0 0 12 0"></path></svg> icon. 3schools MakeStory AI will create a web story for you.</p>
+ </li>  
+</ol>
+<div>If you notice any errors or have suggestions to make, please visit this <a href="/2021/02/web-stories-for-blogger.html">page</a>.</div>
+<div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
+
+  Documentation End
+
+</div>
+
+   
+
+<p>
+  As you know, I have recently launched my own Web Story Maker tool for Blogger.
+  In this article, I will try to explain how to use this tool to create your
+  first web story in Blogger.
+</p>
+<div class="note">
+  If you are new to this topic, I would suggest you to read it from the first
+  step
+  <a href="/2022/10/how-to-create-google-web-stories-in-blogger.html"
+    ><b>How to create web stories in Blogger</b></a
+  >
+  otherwise, you can ignore this message.
+</div>
+<p>
+  I have created <b>two different</b> types of web stories maker. One is used to
+  <b><a href="/p/make-stories.html">create simple web stories</a></b> and the
+  other is used to
+  <b><a href="/p/quiz.html">create web stories with quizzes</a></b
+  >.
+</p>
+<code class="notranslate">
+  <strong
+    >Demo : simple web story VS web story with quizzes
+    <a
+      id="demo-simple-web-story-vs-web-story-with-quizzes"
+      href="#demo-simple-web-story-vs-web-story-with-quizzes"
+      >#</a
+    ></strong
+  ><br />
+  <a
+    href="https://stories.3schools.in/en/kgf-chapter-2-trailer-release-date-cast-budget-verlaine-ngirzzg.html"
+    rel="nofollow"
+    >Simple web story»</a
+  ><a
+    href="https://stories.3schools.in/bn/-rabindranath-tagore-online-mock-test-in-bengali-egvpzukl.html"
+    rel="nofollow"
+    >Web story with quizzes»</a
+  >
+</code>
+<div class="note">
+  If you want to <b>create web story with quizzes</b>, you can follow the
+  article, how to create web story with quizzes. (The article is unavailable)
+</div>
+<h2>
+  How to use simple web story maker tool for Blogger.
+  <a
+    id="how-to-use-simple-web-story-make-tool-for-blogger"
+    href="#how-to-use-simple-web-story-make-tool-for-blogger"
+    >#</a
+  >
+</h2>
+<p>To create a web story in Blogger, you have to follow four steps.</p>
+<ol class="ol">
+  <li><a href="#basic-setting-for-one-time">Basic Setting : for one time</a></li>
+  <li><a href="#enter-the-web-story-title">Enter the web story title.</a></li>
+  <li><a href="#add-more-pages-and-style-them">Add more pages and style them.</a></li>
+  <li><a href="#publish-on-blogger">Publish this in Blogger.</a></li>
+</ol>
+<h2>
+<b style="color:red">[1]</b>  Basic Setting : for one time
+  <a id="basic-setting-for-one-time" href="#basic-setting-for-one-time">#</a>
+</h2>
+<p>
+  Here you need to fill some basic and important information like your blog
+  name, logo, AdSense code etc. for one time. <b>Follow the below steps...</b>
+</p>
+<div class="separator" style="clear: both;">
+  <img
+    alt="Make Story's basic settings"
+    width="320"
+    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC65X3Mkzddzkb7OinxRe1ZkzTIXiXZt8Vsu3-kW5cUwrtHhy9RXvUSjELZpqhPaqef5d7KSmg_duoQ2eIhNd6RKvNNi5nO8se1Ae3Yi4_06ZAr4Kq79gRMVtMNUpYzTbtkUyiM-BjLs7Hcx--fAojflQTRbIB45KTOsYnfAax5Jjwd1rmdPiBJsfG/s720/make-stories-basic-setting.png"
+  />
+</div>
+<p>
+  In the above image, I have shown the steps. Please follow the below steps.
+</p>
+<ol class="ol">
+  <li>
+    Click on the <kbd>setting</kbd> icon to open the left sidebar. Click again
+    to close the sidebar.
+  </li>
+  <li>
+    <b>Publisher name :</b> enter your blog or website name (e.g. 3schools).
+  </li>
+  <li>
+    <b>Publisher logo :</b> here you have to enter your website's logo link. You
+    can also upload your website's logo from your device by clicking the upload
+    button. <b>Read</b> <a href="/2022/10/how-to-upload-images-and-get-links.html">How to upload images</a>.
+  </li>
+  <li>
+    <b>Google AdSense :</b> if your site is approved by Google AdSense, you can
+    use this setting, otherwise, leave it blank as is. To use this feature, go
+    to AdSense => Ads => overview => and create a Display Ad (if you don't have
+    already). You will get a code like following (It will be different in your
+    case.).<br />
+    <pre
+      class="notranslate"
+    ><i class='t-3'>&lt;<i class='n-3'>script async </i><i class='a-3'>src</i>=<i class='s-3'>"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"</i>&gt;</i><i class='t-3'>&lt;<i class='n-3'>/script</i>&gt;</i>
+<i class='c-3'>&lt;!-- make stories --&gt;</i>
+<i class='t-3'>&lt;<i class='n-3'>ins </i><i class='a-3'>class</i>=<i class='s-3'>"adsbygoogle"
+    </i><i class='a-3'>style</i>=<i class='s-3'>"<i class="cp-3">display</i>:<i class="cpv-3">block</i>;"
+    <i class="ci-3">data-ad-client</i>=<i class="cp-3">"ca-pub-1234567890123456"</i>
+    <i class="ci-3">data-ad-slot</i>=<i class="cp-3">"5678"</i>
+    <i class="ci-3">data-ad-format</i>=<i class="cp-3">"auto"</i>
+    <i class="ci-3">data-full-width-responsive</i>=<i class="cp-3">"true"</i></i>&gt;</i>
+<i class='t-3'>&lt;<i class='n-3'>/ins</i>&gt;</i>
+<i class='t-3'>&lt;<i class='n-3'>script</i>&gt;</i>
+(adsbygoogle = window.adsbygoogle || []).push({});
+<i class='t-3'>&lt;<i class='n-3'>/script</i>&gt;</i></pre>
+    <br />
+    Here the AdSense pub id is <kbd>ca-pub-1234567890123456</kbd> and Ads slot
+    id is <kbd>5678</kbd>.
+    <div class="note">
+      These were the basic settings, you have to write for a time. There are
+      three other options.
+    </div>
+  </li>
+  <li>
+    <b>Poster image :</b> is shown on the Google Discover section. You need to
+    create a separate poster image for each web story (this is not for one
+    time). It must be of high quality and have a ratio of 3:4 . <b>Read</b> <a href="/2022/10/how-to-upload-images-and-get-links.html">how
+    to upload image</a>.
+  </li>
+  <li>
+    <b>Background music :</b> You can add a music to a web story. If the
+    audience plays music, it will play from the beginning to the end of the web
+    story.
+    <a
+      href="https://stories.3schools.in/bn/-rabindranath-tagore-online-mock-test-in-bengali-egvpzukl.html"
+      target="_blank"
+      rel="nofollow"
+      >Click to see demo</a
+    >.
+  </li>
+  <li>
+    <b>Save for next time : </b> Finally, click the
+    <b>Save for Next Time</b> button. If you want to save all above details. The
+    next time you come to create more web stories, you don't have to rewrite all
+    the above details.
+  </li>
+</ol>
+<h2><b style="color:red">[2]</b> Enter the web story title. <a id="enter-the-web-story-title" href="#enter-the-web-story-title">#</a></h2>
+<p>In the <b>Enter the title</b> section, you must write the title of the web story. (E.g. How to create web story on Blogger.)</p>
+<h2>
+ <b style="color:red">[3]</b> Add more pages and style them.
+  <a id="add-more-pages-and-style-them" href="#add-more-pages-and-style-them"
+    >#</a
+  >
+</h2>
+<p>In this section, we will add more pages and try to style them.</p>
+<div class="separator" style="clear: both;">
+  <img
+    alt="Add, delete & setting"
+    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoA4WxDa4EZwc7njN7zvLgjaIHvEiRKrBkKaVZBGAqFWWJdWjxxeMaEG_o18yCr80EowICCUY0MDzlixTTDVRFZCZmPoAmJTY03FhUXWegc56jQpmttzFN-dsW17oW3MqDHvKWXdusnxAgxAhhMC6nz6tbv3PZfYQ1icGmgDKwba2AjqhO0UO7lpq9/s720/add-delete-setting-page.jpg"
+  />
+</div>
+<div class="note">
+  If you face any problem, click the drop-down button and click the Restart
+  button.
+</div>
+<div class="separator" style="clear: both;">
+  <img
+    alt="Restart Web Story Maker Tool"
+    width="320"
+    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwxWD60ndVci7C2CZ-Suxt-jXlak0KaDk8A-5ajnXCUgsXHo-Zy_oBAYr0yme7zCyrAxd9rOGZP5EC_RMa58zY3Eq6cDOQGUnlfxICOJgLXZ8cYr-YkNFRBJ_dw0Vrv1_w4Lq3GesbWGcvp0pX9NTeWX5pcvp5Ts4jod-LQ-Zm0nsMjztBuwxCyZ7E/s320/restart-tool.jpg"
+  />
+</div>
+<p>
+  Click on the <kbd>plus ➕</kbd> icon to add a new page. To delete a specific
+  page, click the delete icon of that page. Finally, click on the setting icon
+  to style the particular page. (add image/video, change background color,
+  include link etc. )
+</p>
+<div class="separator" style="clear: both;">
+  <img
+    alt="Web story advance settings"
+    width="320"
+    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinwphGKYlmdxEcD6kIYN96quD0rfwcGwk0Wv-estFKsuuuGCURbHL_YkLerTUVukmku7F6KFPj6Wmx0WCKBF6VJ3GNx-gzsyWOX4EnNL4vrQy79-138BefiecI-HHRlYcLLMOJ6EeMgQQ3qcpjLfQFjhpbRRw478jxw6VsicOz0OZrAap4H5x9Ho2F/s720/web-story-advance-setting.png"
+  />
+</div>
+<ol class="ol">
+  <li>Click on the cross button to close the left sidebar.</li>
+  <li>Drag the slider to change the opacity of the background.</li>
+  <li>
+    After making any changes from this area, you must save everything by
+    clicking the Save button.
+  </li>
+  <li>
+    <b>Next page after :</b> Auto-advance to the next story page after a
+    specified amount of time. The time must be positive. (default 20 seconds.)
+  </li>
+  <li>
+    <b>Page link :</b> you can include link to the pages. <br />
+    <pre class="notranslate">
+Enter text            Enter link
+Read More             https://www.3schools.in
+Download              https://google.com
+Visit our site        https://example.com</pre
+    >
+  </li>
+  <li><b>Background color :</b> There are three different background color. You can change them from this section (try it yourself).</li>
+  <li> <b>Background <sup>image/video</sup> :</b> This is one of the most important sections. From here you can include background images or videos on a page.<br>
+  <div class="separator" style="clear: both;"><img alt="Upload image or videos" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJNooXb1dS7dFaSpbZz5kgmfTddX23E9zHTIj9f66wG5m2uwoh-QPzjNAeVkHns6TX7efgUJKmiaUD1akZPECJPZciXnPw34weIF-MU82L_o43K6LTKFslIslUsiqvT2wXumvukIAz0Pfr3qSYwD21-2EIs6_NJBoZOcwxDZpsj_ejl_I47ygqVE9c/s1600/upload-image-video.jpg"/></div>
+     <p> <b>[1] :</b> Select image, if you want to upload image. Select video, if you want to upload video.</p>
+     <p><b>[2] :</b> Enter image or video link . You can also upload from your device. <b>Read</b> <a href="/2022/10/how-to-upload-images-and-get-links.html">how to upload image or video</a>.</p>
+    <p><b>[3] :</b> Write image or video's alt text. (Describe the image or video under 10 words.)</p>
+    <p><b>[4] :</b> Select an animation for the image or video.</p>
+  </li>
+  <li><b>Text box : </b> On each page, there is a text area where you can enter your content and change the text style from the editor section.<br>
+  <div class="separator" style="clear: both;"><img alt="Web Story editor section" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5B80bmeGc4_31z-stFQC6Thv3nB7-xAqlpPRl_r1C0srkndmCrwjZbEiK5Q6T629OKjnO-lxpdk7tSUolSFZQ_cE8bp62K3ZF16m17wud3kkWQ0hpkApWCIHy2-LswJaBTuoq5vNuY1potrZwrYhtMGFHM-Y0nvRDoBT_GLWaYYFMhU2RcRRiobkg/s1600/text-area-editor-section.jpg"/></div>
+    <p>To style the text area, use this section. You can try it yourself.</p>
+  </li> 
+</ol> 
+<h2 id="publish-on-blogger"><b style="color:red">[4]</b> Publish this in Blogger.</h2>
+<p>Finally, you have successfully created your first Web Story. Now you're ready to publish it on Blogger.</p>
+<div class="separator" style="clear: both;"><img alt="Preview and publish Google Web Story" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcZ7FGEKvS7bJbEFsbaeFb2b_BCDnj2MaY5vtXuXqf5p_0My6F7YhJZ5kwULEfXwvweVPrDcQ3x5O1r5sztvkyFz6_mP5WiQDkuoiUXCBWqbtmJ_D6tdXQ9LmiUHUxKuHzkoZybn9k-ZnuhnXHwWOJKbJO9meb73eGOVi1hL1h7Li-o1GjKYt7oyXc/s1600/preview-publish-web-story.jpg"/></div>
+<ol class="ol"><li>You can preview the created web story by clicking the preview button.</li><li>Click on the drop-down button to open the container.</li><li>Then, click on the <kbd>Copy story</kbd> button to copy the created web story.</li><li>Now, go to Blogger .<br>
+ [1] => Post section => create a new post => switch to HTML view => remove everything from there => paste the copied code. <br>
+ [2] => Enter the title => choose labels => create Permalink => Add search description => Click on the <kbd>Publish</kbd> button. 
+  </li></ol>
+
+
+<p style="text-align: left;">
+  You can use Google Analytics 4 (GA4) to find out where your readers come from
+  and what they read on your blog.
+</p>
+<p style="text-align: left;">
+  In this article, I will discuss how to check blog traffic on google analytics
+  4. As you know, we provide
+  <b><a href="https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html" target="_blank">3schools Make Story for Blogger</a>&nbsp;</b>with<b>&nbsp;</b>a blogger template. So, you can follow this article to add
+  Google Analytics to your blogger account.
+</p>
+<h2 style="text-align: left;">Find your Google Analytics measurement id</h2>
+<div>
+  <p>To find your Google Analytics measurement id , do the following:</p>
+  <div class="separator" style="clear: both; margin: 0px;"><img alt="How To Add Google Analytics Measurement Id To Blogger" data-original-height="576" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvH3icM3WMUzshr3qjTeqKFX4-Cmunjxq7WVL4AJOUq2GN29M-O_cEINEGde44VLNk29zABDPFFwRvgEWh_dE1c4pfbd4MxTy3z0_gZhyphenhyphenIfuRRqElxJ9AW1Zw8iiisTsdzU9PNqTg5XzS6uA8SVEK_KoMD54q4ckUXzRRmIyUPHosX-yUCBg4Pyh8lMI/s1600/how-to-check-blog-traffic-on-google-analytics-4.png" style="margin: 0px;" /></div>
+  <div>
+    <ol style="text-align: left;">
+      <li>
+        Sign in to your
+        <a href="https://analytics.google.com/" rel="nofollow" target="_blank">Google Analytics account</a>.
+      </li>
+      <li>
+        In <b><span style="color: #ff00fe;">Admin</span></b> section, under
+        Property settings expand <b>Data collection and modification</b>.
+      </li>
+      <li>Click Data streams.</li>
+      <li>
+        Click the name of your data stream.
+        <div class="note">
+          If you don't see any data streams and see "Choose a platform," you
+          must add a data stream first. Go to Add a data stream.
+        </div>
+      </li>
+      <li>Then copy the MEASUREMENT ID that starts with "G-" or "AW-".</li>
+    </ol>
+  </div>
+</div>
+<h2 style="text-align: left;">How to add Google Analytics to Blogger</h2>
+<div>
+  <ol style="text-align: left;">
+    <li>
+      First, sign in to
+      <a href="https://www.blogger.com/" rel="nofollow" target="_blank">Blogger</a>.
+    </li>
+    <li>Select the blog you want to add the Google Analytics code.</li>
+    <li>From the menu, click Settings.</li>
+    <li>Under the "Basic" section, click Google Analytics Measurement.</li>
+    <li>Enter your Analytics Id.</li>
+    <li>Click Save.</li>
+  </ol>
+</div>
+
+
+<p>Are you thinking how to create Google Web Stories in Blogger? Don't worry, <strong>I'm Apu and I have launched my own Web Stories Maker tool for Blogger</strong>. </p>
+<h2>Why you should use my tool? <a id="why-you-should-use-my-tool" href="#why-you-should-use-my-tool">#</a></h2>
+<p>This tool is easier to use than the Makestories.io . I know Makestories.io provides a lot of options to style and customize the web stories than my tool.</p>
+<p>But If you use mobile phone to create Web Stories, then I will fully recommend to use my tool. <b>Because, I can't explain how easy it is to use on a mobile device.</b><!--Okey, take a tool at <a href="/p/make-stories.html">Make Stories for Blogger</a> by 3schools. --></p>
+<div class="separator" style="clear: both;"><img class="lazyload" alt="How to create web stories in Blogger 100% free" width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz5rzUudaoAMsElmMXdh36RvwQcj6ymdDMF0avZIlQgCUyJrlZYSHChHJCzN8_bKwGQFGnmgVtsdYBGxSNj-dNQixaIe7eEdQ0ywyQFflkrWO1Nz3jT5F_LXTdx_Ux0fqfx-Qv8FYs4m4vpmdPgaaEiCnvIS-Ve173mZL37ywOfktJxPGfMwtYyBwG/s720/make-stories-for-blogger.png"/></div>
+<div class="note" id="pnote"><p><b style="color:#ff0000">Note : </b> We have recently launched "<a href="https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html">3schools Make Story 2.0</a>" - we are more easy, more friendly, more professional.</p></div>
+
+
+<h2>Why is my Web Story Maker tool different from others? <a id="why-is-my-web-story-maker-tool-different-from-others" href="#why-is-my-web-story-maker-tool-different-from-others">#</a></h2>
+<ol class="ol"><li>It is easy to use on both devices, especially on mobile devices.</li><li>100% SEO-friendly with valid AMP.</li><li>AdSense ads place in one click.</li><li>Upload images from Google directly without any copyright issues.</li><li>We provide a custom premium template.</li><li id="g_discover">And more....</li></ol>
+<p>I have created only 8 - 9 web stories for demo purpose using my tool and I got <kbd>90k</kbd> total impressions, <kbd>15k</kbd> total clicks from Google discover.</p>
+<div class="separator" style="clear: both;"><img alt=" Analysis Data" border="0" data-original-height="1314" data-original-width="1081" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWusSkp0KfJlpraMzBpk_pIKKx6VHM192ON-y1NFVOXtz48QLT3KattQYv6VRC8nnwuYO5PQ2afZppkU9GKmE4emsYAdFXhEm5qFLTgdv3OhG93I5yH-osftrnvJGk1xy-YOn6O-V519yeLoG9s2SzJELj7s-aEYT63WtVOOZXg_ymRySYauijeqS2Sho/s1600/analysis.png"/></div>
+<br>
+
+
+
+<h2>How to create web stories in Blogger? <a id="how-to-create-web-stories-in-blogger" href="#how-to-create-web-stories-in-blogger">#</a></h2>
+<p>Trust me, it's as easy as cutting a cake. You have to just follow three (3) steps.</p>
+<ol class="ol"><li><a href="/2022/10/how-to-create-a-blog-on-blogger-and-add-a-subdomain.html">Create a new blog in Blogger and add a custom domain or sub-domain.</a></li><li><a href="/2022/10/amp-premium-blogger-template-for-blogger.html">Upload our premium blogger theme.</a></li>
+  <li><a href="/2022/10/how-to-use-3schools-make-stories-for-blogger.html">Now create web stories using my tool.</a></li></ol>
+
+<h2>3schools Make Story VS Makestories.io Free <a id="3schools-make-story-vs-makestories-io-free" href="#3schools-make-story-vs-makestories-io-free">#</a></h2><br>
+
+<table>
+    <tr>
+      <td> Features</td>
+      <td>3schools Make Story</td>
+      <td>Makestories.io Free</td>
+    </tr>
+    <tr>
+      <td>Number of Stories</td>
+      <td>Unlimited</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Run your own ads</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Templates</td>
+      <td>Pro+</td>
+      <td>Basic</td>
+    </tr>
+    <tr>
+      <td>Page Attachments</td>
+      <td>✅</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td>Polls / Quizzes</td>
+      <td>✅</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td>Add Custom Domain</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Tenor gif</td>
+      <td>✅</td>
+      <td>❌</td>
+    </tr>
+  </table>
+
+
+
+
+
+
+
+3schools All tools
+
+a: https://www.3schools.in/p/blogger.html
+a: https://www.3schools.in/p/translate.html
+a: https://www.3schools.in/p/color-picker.html
+a: https://www.3schools.in/p/code-editor.html
+a: https://search.3schools.in/2022/08/blank.html
+a: https://www.3schools.in/2020/12/direct-download-link-generator.html
+
+a: https://www.3schools.in/2022/12/free-about-us-page-generator.html
+a: https://www.3schools.in/2022/12/free-contact-us-page-generator.html
+a: https://www.3schools.in/2023/05/disclaimer-page-generator-blogger.html
+a: https://www.3schools.in/2023/05/free-privacy-policy-generator-app-wordpress-blogger.html
+a: https://www.3schools.in/2021/01/Responsive-Html-Table-Generator-Free-Tool.html
+a: https://www.3schools.in/2021/08/Faq-Schema-Generator-HTML-Microdata-Seo.html
+a: https://www.3schools.in/p/favicon-generator-from-image-blogger.html
+a: https://www.3schools.in/p/favicon-icon-generator-from-text.html
+a: https://www.3schools.in/p/compress-image-online.html
+a: https://www.3schools.in/p/image-ratio-changer-crop-and-resize.html
+a: https://www.3schools.in/p/online-aspect-ratio-calculator.html
+a: https://www.3schools.in/p/blogger.html
+a: https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html
+a: https://www.3schools.in/2021/02/web-stories-for-blogger.html
+a: https://quizgenerator.3schools.in/2021/03/question-with-show-answer-button-quiz.html
+a: https://quizgenerator.3schools.in/2021/08/free-online-mcq-quiz-maker-no-sign-up.html
+a: https://quizgenerator.3schools.in/2021/08/quiz-maker-with-seo-faq-schema.html
+a: https://quizgenerator.3schools.in/2021/03/multiple-choice-quiz-generator-result-score.html
+a: https://quizgenerator.3schools.in/2021/04/password-protected-multiple-choice-quiz.html
+a: https://quizgenerator.3schools.in/2021/12/quiz-maker-Google-Sheet.html
+a: https://quizgenerator.3schools.in/2022/02/multiple-choice-quiz-maker-categories.html
+a: https://quizgenerator.3schools.in/2021/04/multiple-choice-online-mock-test.html
+a: https://quizgenerator.3schools.in/2021/04/ClassMarker-online-quiz-maker-for-teachers.html
+p: Create a Google Web Story in Blogger using the fastest online tool.
+p: 3schools' free online web tools for your personal use.
+p: 3schools Dictionary
+p: 3schools free service instantly translates words, phrases, and sentences between English and over 100 other languages.
+p: Html Color Code Picker
+p: Color code picker from image - Rgb, Hex
+p: Html Code Editor V1
+p: Free html, css live code editor tool with console.
+p: Html Code Editor V2
+p: Online HTML, CSS & JavaScript code editor.
+p: Google Drive Direct Link Generator
+p: Download files from Google drive in one click with direct download links.
+p: Test Website On Multiple Devices - Responsive Checker - test your site on different size mobiles & computer (link : https://www.3schools.in/p/preview.html?url=https://www.example.com). 
+p: 3schools provide free tools to build 'About Us' and 'Contact' pages for blogs.
+p: About Us Page Generator for Bloggers
+p: Bloggers can use 3schools to instantly generate about us page for their websites.
+p: Contact Us Page Generator
+p: 3schools' free service helps bloggers add 'Contact Us' forms to their sites.
+p: Disclaimer Page Generator for Bloggers
+p: Generate a disclaimer page for your Blogger Or WordPress blog
+p: Free Privacy Policy Generator
+p: 3 steps to generate a Privacy Policy page for your blog.
+p: Responsive Table Generator
+p: Now it's easy to create HTML tables without having any coding knowledge.
+p: Google FAQ Schema Generator
+p: Online HTML FAQ Schema Generator for Blogger.
+p: Favicon Generator from Image
+p: Generate favicon icons in all 12 different sizes, including 16x16, 32x32, 48x48 etc.
+p: Favicon Icon Maker from Text
+p: Create Favicon Icon from Text for your Blogger or WordPress blog.
+p: Image Compressor to 20kb
+p: Decrease image size without losing its quality.
+p: Crop and Resize Photos Online
+p: Image Ratio Changer - Crop and Resize Photos Online free.
+p: Online Aspect Ratio Calculator
+p: Calculate aspect ratio of any image or video.
+p: MakeStories for bloggers helps you to create, monetize Google Web Stories fast and easily without having any codding knowledge.
+p: 3schools Make Story 2.0
+p: This tool allows you to create web story, blog post for free and quickly
+p: Documentation
+p: Read how to create Google Web Story in Blogger using our tools.
+p: Roadmap for 3schools Make Story 2.0
+p: Share your suggestions to help us improve this tool.
+p: 3schools Quiz Generator helps you to create stylish quiz for your blog.
+p: Type A - V4
+p: Question with Show Answer Button Quiz Generator for Blogger Pro
+p: Type A - V6
+p: Free online MCQ quiz maker no sign up
+p: Type A - V7
+p: Copy & paste show-hide quiz maker with faq schema
+p: Type B - V2
+p: Multiple Choice HTML Quiz Generator with sounds
+p: Type B - V5
+p: Password Protected Online Multiple Choice Quiz Code Generator with Timer
+p: Type B - V8
+p: 3schools quiz maker - send quiz data to Google Sheet
+p: Type B - V9
+p: Quiz Builder With Categories, Google Sheet, more options
+p: Type E - V4
+p: Multiple Choice Online Mock Test Generator | Best Qiz creator pro for free
+p: Type F - V2
+p: ClassMarker - Free Multiple Choice CSS Quiz Maker
