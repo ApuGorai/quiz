@@ -322,7 +322,7 @@ https://in.pinterest.com/apu_gorai
 <p>
   <b>Apu Story</b> is a special blogger template that was made by the 3schools
   team. This template lets you create different types of content for your blog,
-  like regular blog posts, news articles, and the new Google Web Stories.
+  like regular blog posts, news articles, and the new Google Web Stories. Theme Demo Image :- <img style="margin:0;width:100%;max-width:500px" loading="lazy" alt="3schools premium blogger template" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsefkEfT8g9nUabokpAzjt62OtCk9IDFQaTdwAiQF_Dd_QoUT7irAw_xAHQbVPyP9uOfmDRLQ3OrdiQPM-xrk1YIX-mTUJt-HwcAa4-umUpr7NohQwJynUUJ329iT9CGNMhyphenhyphenM3vli2aIx66jEhbDD8-lZm22iIqhzYi8FtSrYXrw-Dj5MP_WmcFA8IbnRR/s1280/apu-story-premium-blogger-template.webp"/>
 </p>
 <p>
   In this blog post, I'm going to show you all the features that come with this
