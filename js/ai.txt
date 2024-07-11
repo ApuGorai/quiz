@@ -946,103 +946,72 @@ Visit our site        https://example.com</pre
     </tr>
   </table>
 
+<b>3schools All tools</b>
+
+Popular tool :- <b>3schools Make Story 2.0</b> : Create a Google Web Story in Blogger using the fastest online tool. link : https://www.3schools.in/p/blogger.html
+
+<b>3schools Dictionary</b> : 3schools free service instantly translates words, phrases, and sentences between English and over 100 other languages. Link:- https://www.3schools.in/p/translate.html
+
+<b>Html Color Code Picker</b>: Color code picker from image - Rgb, Hex. Link: https://www.3schools.in/p/color-picker.html
+
+<b>Html Code Editor V1</b> : Free html, css live code editor tool with console. Link : https://www.3schools.in/p/code-editor.html
+
+<b>Html Code Editor V2</b> : Online HTML, CSS & JavaScript code editor. Link : https://search.3schools.in/2022/08/blank.html
+
+<b>Google Drive Direct Link Generator</b>:
+Download files from Google drive in one click with direct download links. Link : https://www.3schools.in/2020/12/direct-download-link-generator.html
 
 
+<b>Test Website On Multiple Devices</b> - Responsive Checker - test your site on different size mobiles & computer . Link : https://www.3schools.in/p/preview.html?url=https://www.example.com
 
 
+<b>About Us Page Generator for Bloggers</b> : Bloggers can use 3schools to instantly generate about us page for their websites. Link : https://www.3schools.in/2022/12/free-about-us-page-generator.html
+
+<b>Contact Us Page Generator</b> : 3schools' free service helps bloggers add 'Contact Us' forms to their sites. Link : https://www.3schools.in/2022/12/free-contact-us-page-generator.html
+
+<b>Disclaimer Page Generator for Bloggers</b> : Generate a disclaimer page for your Blogger Or WordPress blog . Link : https://www.3schools.in/2023/05/disclaimer-page-generator-blogger.html
+
+<b>Free Privacy Policy Generator</b> : 3 steps to generate a Privacy Policy page for your blog. Link : https://www.3schools.in/2023/05/free-privacy-policy-generator-app-wordpress-blogger.html
+
+<b>Responsive Table Generator</b> : Now it's easy to create HTML tables without having any coding knowledge. Link: https://www.3schools.in/2021/01/Responsive-Html-Table-Generator-Free-Tool.html
+
+<b>Google FAQ Schema Generator</b> : Online HTML FAQ Schema Generator for Blogger. Link: https://www.3schools.in/2021/08/Faq-Schema-Generator-HTML-Microdata-Seo.html
+
+<b>Favicon Generator from Image</b> : Generate favicon icons in all 12 different sizes, including 16x16, 32x32, 48x48 etc. Link: https://www.3schools.in/p/favicon-generator-from-image-blogger.html
+
+<b>Favicon Icon Maker from Text</b> : Create Favicon Icon from Text for your Blogger or WordPress blog. Link: https://www.3schools.in/p/favicon-icon-generator-from-text.html
+
+<b>Image Compressor to 20kb</b> : Decrease image size without losing its quality. Link: https://www.3schools.in/p/compress-image-online.html
+
+ <b>Crop and Resize Photos Online</b> : Image Ratio Changer - Crop and Resize Photos Online free. Link: https://www.3schools.in/p/image-ratio-changer-crop-and-resize.html
+
+<b>Online Aspect Ratio Calculator</b> : Calculate aspect ratio of any image or video. Link: https://www.3schools.in/p/online-aspect-ratio-calculator.html
 
 
-3schools All tools
+<b>3schools Make Story 2.0</b> : This tool allows you to create web story, blog post for free and quickly. Link: https://www.3schools.in/p/blogger.html
 
-a: https://www.3schools.in/p/blogger.html
-a: https://www.3schools.in/p/translate.html
-a: https://www.3schools.in/p/color-picker.html
-a: https://www.3schools.in/p/code-editor.html
-a: https://search.3schools.in/2022/08/blank.html
-a: https://www.3schools.in/2020/12/direct-download-link-generator.html
+<b>Documentation</b> : Read how to create Google Web Story in Blogger using our tools. Link: https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html
 
-a: https://www.3schools.in/2022/12/free-about-us-page-generator.html
-a: https://www.3schools.in/2022/12/free-contact-us-page-generator.html
-a: https://www.3schools.in/2023/05/disclaimer-page-generator-blogger.html
-a: https://www.3schools.in/2023/05/free-privacy-policy-generator-app-wordpress-blogger.html
-a: https://www.3schools.in/2021/01/Responsive-Html-Table-Generator-Free-Tool.html
-a: https://www.3schools.in/2021/08/Faq-Schema-Generator-HTML-Microdata-Seo.html
-a: https://www.3schools.in/p/favicon-generator-from-image-blogger.html
-a: https://www.3schools.in/p/favicon-icon-generator-from-text.html
-a: https://www.3schools.in/p/compress-image-online.html
-a: https://www.3schools.in/p/image-ratio-changer-crop-and-resize.html
-a: https://www.3schools.in/p/online-aspect-ratio-calculator.html
-a: https://www.3schools.in/p/blogger.html
-a: https://www.3schools.in/2024/02/how-to-create-google-web-story-in-blogger.html
-a: https://www.3schools.in/2021/02/web-stories-for-blogger.html
-a: https://quizgenerator.3schools.in/2021/03/question-with-show-answer-button-quiz.html
-a: https://quizgenerator.3schools.in/2021/08/free-online-mcq-quiz-maker-no-sign-up.html
-a: https://quizgenerator.3schools.in/2021/08/quiz-maker-with-seo-faq-schema.html
-a: https://quizgenerator.3schools.in/2021/03/multiple-choice-quiz-generator-result-score.html
-a: https://quizgenerator.3schools.in/2021/04/password-protected-multiple-choice-quiz.html
-a: https://quizgenerator.3schools.in/2021/12/quiz-maker-Google-Sheet.html
-a: https://quizgenerator.3schools.in/2022/02/multiple-choice-quiz-maker-categories.html
-a: https://quizgenerator.3schools.in/2021/04/multiple-choice-online-mock-test.html
-a: https://quizgenerator.3schools.in/2021/04/ClassMarker-online-quiz-maker-for-teachers.html
-p: Create a Google Web Story in Blogger using the fastest online tool.
-p: 3schools' free online web tools for your personal use.
-p: 3schools Dictionary
-p: 3schools free service instantly translates words, phrases, and sentences between English and over 100 other languages.
-p: Html Color Code Picker
-p: Color code picker from image - Rgb, Hex
-p: Html Code Editor V1
-p: Free html, css live code editor tool with console.
-p: Html Code Editor V2
-p: Online HTML, CSS & JavaScript code editor.
-p: Google Drive Direct Link Generator
-p: Download files from Google drive in one click with direct download links.
-p: Test Website On Multiple Devices - Responsive Checker - test your site on different size mobiles & computer (link : https://www.3schools.in/p/preview.html?url=https://www.example.com). 
-p: 3schools provide free tools to build 'About Us' and 'Contact' pages for blogs.
-p: About Us Page Generator for Bloggers
-p: Bloggers can use 3schools to instantly generate about us page for their websites.
-p: Contact Us Page Generator
-p: 3schools' free service helps bloggers add 'Contact Us' forms to their sites.
-p: Disclaimer Page Generator for Bloggers
-p: Generate a disclaimer page for your Blogger Or WordPress blog
-p: Free Privacy Policy Generator
-p: 3 steps to generate a Privacy Policy page for your blog.
-p: Responsive Table Generator
-p: Now it's easy to create HTML tables without having any coding knowledge.
-p: Google FAQ Schema Generator
-p: Online HTML FAQ Schema Generator for Blogger.
-p: Favicon Generator from Image
-p: Generate favicon icons in all 12 different sizes, including 16x16, 32x32, 48x48 etc.
-p: Favicon Icon Maker from Text
-p: Create Favicon Icon from Text for your Blogger or WordPress blog.
-p: Image Compressor to 20kb
-p: Decrease image size without losing its quality.
-p: Crop and Resize Photos Online
-p: Image Ratio Changer - Crop and Resize Photos Online free.
-p: Online Aspect Ratio Calculator
-p: Calculate aspect ratio of any image or video.
-p: MakeStories for bloggers helps you to create, monetize Google Web Stories fast and easily without having any codding knowledge.
-p: 3schools Make Story 2.0
-p: This tool allows you to create web story, blog post for free and quickly
-p: Documentation
-p: Read how to create Google Web Story in Blogger using our tools.
-p: Roadmap for 3schools Make Story 2.0
-p: Share your suggestions to help us improve this tool.
-p: 3schools Quiz Generator helps you to create stylish quiz for your blog.
-p: Type A - V4
-p: Question with Show Answer Button Quiz Generator for Blogger Pro
-p: Type A - V6
-p: Free online MCQ quiz maker no sign up
-p: Type A - V7
-p: Copy & paste show-hide quiz maker with faq schema
-p: Type B - V2
-p: Multiple Choice HTML Quiz Generator with sounds
-p: Type B - V5
-p: Password Protected Online Multiple Choice Quiz Code Generator with Timer
-p: Type B - V8
-p: 3schools quiz maker - send quiz data to Google Sheet
-p: Type B - V9
-p: Quiz Builder With Categories, Google Sheet, more options
-p: Type E - V4
-p: Multiple Choice Online Mock Test Generator | Best Qiz creator pro for free
-p: Type F - V2
-p: ClassMarker - Free Multiple Choice CSS Quiz Maker
+<b>Roadmap for 3schools Make Story 2.0</b> : Share your suggestions to help us improve this tool. Link: https://www.3schools.in/2021/02/web-stories-for-blogger.html
+
+<b>3schools Quiz Generator</b>
+
+<b>Type A - V4</b> : Question with Show Answer Button Quiz Generator for Blogger Pro. Link: https://quizgenerator.3schools.in/2021/03/question-with-show-answer-button-quiz.html
+
+<b>Type A - V6</b> : Free online MCQ quiz maker no sign up. Link: https://quizgenerator.3schools.in/2021/08/free-online-mcq-quiz-maker-no-sign-up.html
+
+<b>Type A - V7</b> : Copy & paste show-hide quiz maker with faq schema. Link: https://quizgenerator.3schools.in/2021/08/quiz-maker-with-seo-faq-schema.html
+
+<b>Type B - V2</b> : Multiple Choice HTML Quiz Generator with sounds. Link: https://quizgenerator.3schools.in/2021/03/multiple-choice-quiz-generator-result-score.html
+
+<b>Type B - V5</b> : Password Protected Online Multiple Choice Quiz Code Generator with Timer. Link: https://quizgenerator.3schools.in/2021/04/password-protected-multiple-choice-quiz.html
+
+<b>Type B - V8</b> : 3schools quiz maker - send quiz data to Google Sheet. Link: https://quizgenerator.3schools.in/2021/12/quiz-maker-Google-Sheet.html
+
+<b>Type B - V9</b> : Quiz Builder With Categories, Google Sheet, more options. Link: https://quizgenerator.3schools.in/2022/02/multiple-choice-quiz-maker-categories.html
+
+<b>Type E - V4</b> : Multiple Choice Online Mock Test Generator | Best Qiz creator pro for free. Link: https://quizgenerator.3schools.in/2021/04/multiple-choice-online-mock-test.html
+
+<b>Type F - V2</b> : ClassMarker - Free Multiple Choice CSS Quiz Maker. Link: https://quizgenerator.3schools.in/2021/04/ClassMarker-online-quiz-maker-for-teachers.html
+
+<b>More Tools</b> :- https://www.3schools.in/p/tools.html
