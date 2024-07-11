@@ -318,7 +318,6 @@ https://www.facebook.com/apugoraiofficial
 https://twitter.com/gorai_apu
 https://in.pinterest.com/apu_gorai
 
-
 <p>
   <b>Apu Story</b> is a special blogger template that was made by the 3schools
   team. This template lets you create different types of content for your blog,
@@ -334,7 +333,8 @@ Apu Story template download link:- https://drive.google.com/file/d/1So0QSbe7xvpZ
 <p>
   We all know that the regular Blogger editor doesn't let you add things like
   tables or buttons to your blog posts. That's why the 3schools team created a
-  special tool called
+  special tool called. 
+3schools Extensions :- Related Posts , Add Web Story, Category, Button, Marquee, Banner, Next / Previous Post. Demo Image :- <img alt="3schools extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2bqkNu9IruwJiG8ltBY80hk5fhHJVPkDDaBs8A9tzln9HX9x2U9oNVxvex_MLAyUPRG8i7-SMqweQTrrLOXiq0AUkIaBCuQ2IsOCqg_DIamSwDF4F11jWSiQovQGXXOLoctAFqQ4j1TqC-Zx8NMAjCyt5Fhp3s1xNiLmx00mx92bjA0oNxQstz048KRk/s320/extensions.webp" loading="lazy"/>
 AIzaSyBVwNyLwufa4k7qCV0_4HJplDLbvd_c9ls, AIzaSyDgq1a9_QXNxZHy3VeGLZQxC_pzYFiH9Uk, AIzaSyDmME1c4moT0crfG-Ne1Sry2WnZc3Vi81o, AIzaSyAsUg3GiAZmOxwC9QSHagoYdKeHp1AQEyk
 https://esm.run/@google/generative-ai
     
