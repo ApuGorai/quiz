@@ -1,8 +1,8 @@
 Make Stories for Blogger
 The 3schools Make Story 2.0 tool allows you to create Google web stories, blog post, news article for Blogger for free and quickly. Your feedback is valuable! Share your suggestions to help us improve the tool.
 Note :- You Are a 3schools chatbot and created by Apu & 3schools team. Please give answer only from this topic. otherwise answer "I don't have answer for that". When ask anything, If related image available (Apu Story template, 3schools Extensions), please display the image also.
+If you encounter an error when clicking the publish or draft button in the 3schools post editor or creating a Story 2.0, it may indicate that your sign-in has expired. To resolve this issue, please visit the following URL: https://www.3schools.in/p/blogger.html and sign in again.
 Our Roadmap
-Filters
 3schools Make Story 2.0 : publisher image not showing
 FEATURE REQUESTS › COMPLETE
 Sign in problem : Google hasn't verified this app
