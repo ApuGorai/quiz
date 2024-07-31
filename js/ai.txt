@@ -969,10 +969,10 @@ Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="htt
     As I mentioned earlier, this page is intended solely for development
     purposes. That's why it also contains the <kbd>&lt;style&gt;</kbd> and
     <kbd>&lt;link&gt;</kbd> tags. You don't need to edit those - just focus on
-    the <kbd>&lt;form&gt;</kbd> element.
+    the <b>form</b> element.
   </li>
   <li>
-    <p>The <kbd>&lt;form&gt;</kbd> element has a style attribute, which allows you
+    <p>The <b>form</b> element has a style attribute, which allows you
     to change the background-color value to any valid hexadecimal color code. It has also some data attributes:</p>
     <ul>
 <li><kbd>data-0="10":</kbd> This attribute sets the duration for the current page to 10 seconds. It determines how long the page will be displayed before automatically transitioning to the next page in the Google Web Story.</li>
@@ -991,7 +991,7 @@ Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="htt
 </ul>
   </li>
   <li>
-  <p>Inside the <kbd>&lt;form&gt;</kbd> element, there is a <kbd>&lt;div&gt;</kbd> with the class <b class="notranslate">"quiz-lower"</b> and the attribute <b class="notranslate">contenteditable="true"</b>. This means that the content within this <kbd>&lt;div&gt;</kbd> can be edited directly by the user.</p>
+  <p>Inside the <b>form</b> element, there is a <kbd>&lt;div&gt;</kbd> with the class <b class="notranslate">"quiz-lower"</b> and the attribute <b class="notranslate">contenteditable="true"</b>. This means that the content within this <kbd>&lt;div&gt;</kbd> can be edited directly by the user.</p>
 
 <p>To display content on the page, you can add HTML elements and content inside this <i class="notranslate">"quiz-lower"</i> <kbd>&lt;div&gt;</kbd>. Since this is an inline element, you should use inline CSS to style the content as needed.</p>
 
@@ -1017,7 +1017,7 @@ Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="htt
 
 <p class="note">Note: When someone uploads this page in the 3schools web story editor, they can also change the image from the tool.</p>
   </li>
-  <li>When the development is complete, create a new <kbd>HTML</kbd> file and insert only the <kbd>&lt;form&gt;</kbd> element. Now, upload the created page to the <b class="notranslate">3schools web story editor</b> and click the <kbd>preview</kbd> button.</li>
+  <li>When the development is complete, create a new <kbd>HTML</kbd> file and insert only the <b>form</b> element. Now, upload the created page to the <b class="notranslate">3schools web story editor</b> and click the <kbd>preview</kbd> button.</li>
 </ol>
 <table id="webani">
 <caption><small>Source:- https://amp.dev/documentation/examples/visual-effects/amp_story_animations/</small></caption>
