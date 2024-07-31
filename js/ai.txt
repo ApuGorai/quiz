@@ -822,10 +822,6 @@ Visit our site        https://example.com</pre
 <h2 id="publish-on-blogger"><b style="color:red">[4]</b> Publish this in Blogger.</h2>
 <p>Finally, you have successfully created your first Web Story. Now you're ready to publish it on Blogger.</p>
 <div class="separator" style="clear: both;"><img alt="Preview and publish Google Web Story" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcZ7FGEKvS7bJbEFsbaeFb2b_BCDnj2MaY5vtXuXqf5p_0My6F7YhJZ5kwULEfXwvweVPrDcQ3x5O1r5sztvkyFz6_mP5WiQDkuoiUXCBWqbtmJ_D6tdXQ9LmiUHUxKuHzkoZybn9k-ZnuhnXHwWOJKbJO9meb73eGOVi1hL1h7Li-o1GjKYt7oyXc/s1600/preview-publish-web-story.jpg"/></div>
-<ol class="ol"><li>You can preview the created web story by clicking the preview button.</li><li>Click on the drop-down button to open the container.</li><li>Then, click on the <kbd>Copy story</kbd> button to copy the created web story.</li><li>Now, go to Blogger .<br>
- [1] => Post section => create a new post => switch to HTML view => remove everything from there => paste the copied code. <br>
- [2] => Enter the title => choose labels => create Permalink => Add search description => Click on the <kbd>Publish</kbd> button. 
-  </li></ol>
 
 
 <p style="text-align: left;">
@@ -949,6 +945,128 @@ Image of 3schools make Story 2.0 pages:-<img src="https://blogger.googleusercont
 Image of 3schools make Story 2.0 editor:- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNgguDhyphenhyphen51R3IdVG2dcmzfCzD2Kj7eR5catxxD-6mClfLOjGnpa6KMVHA-bhBbnNvni6bo48B6nOUSuAZ9Z7xxj2gb54WIEoqXtMSROFmoZYh-pNJPg3KwfFowry_r0vLT_Ct5LhNoftWPWoLHw0-0TUZ_In9qO8XN8lGcFnkxT1m0m_XbH0VYaJZmsJHH/s1600/3schools-make-story-2-0-editor.webp"/>
 Image of Google Analysis traffic data we got from discover using our tool :-<img alt="Analysis Data"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWusSkp0KfJlpraMzBpk_pIKKx6VHM192ON-y1NFVOXtz48QLT3KattQYv6VRC8nnwuYO5PQ2afZppkU9GKmE4emsYAdFXhEm5qFLTgdv3OhG93I5yH-osftrnvJGk1xy-YOn6O-V519yeLoG9s2SzJELj7s-aEYT63WtVOOZXg_ymRySYauijeqS2Sho/s1600/analysis.png" />
 Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvH3icM3WMUzshr3qjTeqKFX4-Cmunjxq7WVL4AJOUq2GN29M-O_cEINEGde44VLNk29zABDPFFwRvgEWh_dE1c4pfbd4MxTy3z0_gZhyphenhyphenIfuRRqElxJ9AW1Zw8iiisTsdzU9PNqTg5XzS6uA8SVEK_KoMD54q4ckUXzRRmIyUPHosX-yUCBg4Pyh8lMI/s1600/how-to-check-blog-traffic-on-google-analytics-4.png"/>
+
+
+***3schools Make Story 2.0 for developer***
+<p>
+  If you are a developer (html &amp; css) and want to create a custom page for
+  "3schools Make Story 2.0", this article will help you.
+</p>
+<p>
+  Each page is essentially an HTML file that you can upload directly into our
+  <a href="https://www.3schools.in/p/make-story.html" target="_blank">Make Story Editor</a>. We have more than 20 pages for Google Web Story. Following this post, you
+  can create a new one for yourself or others.
+  <a href="https://www.3schools.in/p/webstory-templates.html" target="_blank">See all pages</a>.
+</p>
+<p>
+  First, download the sample <b>HTML file</b> and open it in a code editor like
+  Notepad or Visual Studio Code. Note that a page only contains the form
+  element. Please follow the steps outlined below.
+</p>
+
+<ol class="ol">
+  <li>
+    As I mentioned earlier, this page is intended solely for development
+    purposes. That's why it also contains the <kbd>&lt;style&gt;</kbd> and
+    <kbd>&lt;link&gt;</kbd> tags. You don't need to edit those - just focus on
+    the <kbd>&lt;form&gt;</kbd> element.
+  </li>
+  <li>
+    <p>The <kbd>&lt;form&gt;</kbd> element has a style attribute, which allows you
+    to change the background-color value to any valid hexadecimal color code. It has also some data attributes:</p>
+    <ul>
+<li><kbd>data-0="10":</kbd> This attribute sets the duration for the current page to 10 seconds. It determines how long the page will be displayed before automatically transitioning to the next page in the Google Web Story.</li>
+
+<li><kbd>data-1="", data-2="":</kbd> These attributes are used to add a link to the current page. If you want to include a link, you can set <kbd>data-1</kbd> to the link text (e.g., "Download") and <kbd>data-2</kbd> to the actual link URL (e.g., "https://www.3schools.in/page.html").</li>
+
+<li><kbd>data-3="#244000"</kbd>: This attribute sets the background color of the current page to the hexadecimal color code "#244000". This value matches the background-color set in the form's style attribute.</li>
+
+<li><kbd>data-4="Image"</kbd>: This attribute specifies that the background media for the current page is an image. You can also set this to "Video" if you want to use a video as the background.</li>
+
+<li><kbd>data-5="", data-6=""</kbd>: These attributes are used to display an image or video on the current page. If you want to include a background image or video, you can set <kbd>data-5</kbd> to the image or video link and <kbd>data-6</kbd> to the alternative text for the image.</li>
+
+<li><kbd>data-7="fade-in"</kbd>: This attribute sets the animation type for the background media (image or video) to a "fade-in" effect. You can choose from various animation types, such as "twirl-in", "fly-in-left", "fly-in-bottom", "drop", etc.</li>
+
+<li><kbd>data-8="0", data-9="0"</kbd>: These attributes control the start and end positions or timing of the animation. <kbd>data-8</kbd> sets the duration of the animation, while <kbd>data-9</kbd> sets the delay before the animation starts.</li>
+</ul>
+  </li>
+  <li>
+  <p>Inside the <kbd>&lt;form&gt;</kbd> element, there is a <kbd>&lt;div&gt;</kbd> with the class <b class="notranslate">"quiz-lower"</b> and the attribute <b class="notranslate">contenteditable="true"</b>. This means that the content within this <kbd>&lt;div&gt;</kbd> can be edited directly by the user.</p>
+
+<p>To display content on the page, you can add HTML elements and content inside this <i class="notranslate">"quiz-lower"</i> <kbd>&lt;div&gt;</kbd>. Since this is an inline element, you should use inline CSS to style the content as needed.</p>
+
+<p>For example, you could add a <kbd>&lt;p&gt;</kbd> tag with some text and apply inline styles like this:</p>
+
+<pre class="notranslate"><i class='t-3'>&lt;<i class='n-3'>div </i><i class='a-3'>class</i>=<i class='s-3'>"quiz-lower" </i><i class='a-3'>contenteditable</i>=<i class='s-3'>"true"</i>&gt;</i>
+  <i class='t-3'>&lt;<i class='n-3'>p </i><i class='a-3'>style</i>=<i class='s-3'>"<i class="cp-3">color</i>:<i class="cpv-3"> <i class="ci-3">#</i>ffff00</i>;<i class="cp-3"> font-size</i>:<i class="cpv-3"> 18<i class="cpx-3">px</i></i>;<i class="cp-3"> font-weight</i>:<i class="cpv-3"> bold</i>"</i>&gt;</i>This is some editable content for the page.<i class='t-3'>&lt;<i class='n-3'>/p</i>&gt;</i>
+<i class='t-3'>&lt;<i class='n-3'>/div</i>&gt;</i></pre>
+
+<p class="note">Remember, the content inside this editable <kbd>&lt;div&gt;</kbd> will be displayed as part of the final Google Web Story page. Users can modify this content as needed during the development and editing process.</p>
+    <p>The <kbd>absolute</kbd> class can be applied to any element within the <b class="notranslate">"quiz-lower"</b> div to position that element in an absolute manner, with the element being positioned at the bottom of the div and stretching across the full width. Also can use these attributes <kbd>animate-in="fly-in-bottom"</kbd> <kbd>animate-in-delay="0s"</kbd> <kbd>animate-in-duration="2.5s"</kbd>.</p>
+ <pre class="notranslate"><i class='t-3'>&lt;<i class='n-3'>div </i><i class='a-3'>class</i>=<i class='s-3'>"quiz-lower" </i><i class='a-3'>contenteditable</i>=<i class='s-3'>"true"</i>&gt;</i>
+  <i class='t-3'>&lt;<i class='n-3'>div </i><i class='a-3'>class</i>=<i class='s-3'>"absolute" </i><i class='a-3'>animate-in</i>=<i class='s-3'>"fly-in-bottom" </i><i class='a-3'>animate-in-delay</i>=<i class='s-3'>"0s" </i><i class='a-3'>animate-in-duration</i>=<i class='s-3'>"2.5s"</i> <i class='a-3'>style</i>=<i class='s-3'>"<i class="cp-3">bottom</i>:<i class="cpv-3">50<i class="cpx-3">px</i></i>;<i class="cp-3">left</i>:<i class="cpv-3">40<i class="cpx-3">px</i></i>;<i class="cp-3">background-color</i>:<i class="cpv-3"><i class="ci-3">#</i>ff00ff</i>;<i class="cp-3">padding</i>:<i class="cpv-3">8<i class="cpx-3">px</i></i>;<i class="cp-3">border-radius</i>:<i class="cpv-3">50%</i>;<i class="cp-3">height</i>:<i class="cpv-3">50<i class="cpx-3">px</i></i>;<i class="cp-3">width</i>:<i class="cpv-3">50<i class="cpx-3">px</i></i>"</i>&gt;</i>
+  <i class='t-3'>&lt;<i class='n-3'>/div</i>&gt;</i>
+<i class='t-3'>&lt;<i class='n-3'>/div</i>&gt;</i></pre>
+  
+  </li>
+  <li>
+    <p>Do not use the <kbd>&lt;img&gt;</kbd> tag to add an image on a page. Instead, use the following <kbd>&lt;div&gt;</kbd> element:</p>
+    <pre class="notranslate"><i class='t-3'>&lt;<i class='n-3'>div </i><i class='a-3'>class</i>=<i class='s-3'>"addImg absolute"</i> </i><i class='a-3'>animate-in</i>=<i class='s-3'>"whoosh-in-right" </i><i class='a-3'>animate-in-delay</i>=<i class='s-3'>"0s" </i><i class='a-3'>animate-in-duration</i>=<i class='s-3'>"2s"</i> <i class='a-3'>style</i>=<i class='s-3'>"<i class="cp-3">top</i>:<i class="cpv-3"> 15%</i>;<i class="cp-3"> left</i>:<i class="cpv-3"> unset</i>;<i class="cp-3"> right</i>:<i class="cpv-3"> 2%</i>;<i class="cp-3"> bottom</i>:<i class="cpv-3"> unset</i>;<i class="cp-3"> width</i>:<i class="cpv-3"> 60<i class="cpx-3">px</i></i>;<i class="cp-3"> height</i>:<i class="cpv-3"> 60<i class="cpx-3">px</i></i>;<i class="cp-3"> border-radius</i>:<i class="cpv-3"> 50%</i>;<i class="cp-3"> background-repeat</i>:<i class="cpv-3"> no-repeat</i>;<i class="cp-3"> background-size</i>:<i class="cpv-3"> cover</i>;<i class="cp-3"> background-image</i>:<i class="cpv-3"> url('https</i>:<i class="cpv-3">//app.3schools.in/logo.png')</i>;"</i>&gt;
+<i class='t-3'>&lt;<i class='n-3'>/div</i>&gt;</i></pre>
+    <p>In this way, you can change the image position by changing the property in the <kbd>style</kbd> attribute. You can also change the animation.</p>
+
+<p class="note">Note: When someone uploads this page in the 3schools web story editor, they can also change the image from the tool.</p>
+  </li>
+  <li>When the development is complete, create a new <kbd>HTML</kbd> file and insert only the <kbd>&lt;form&gt;</kbd> element. Now, upload the created page to the <b class="notranslate">3schools web story editor</b> and click the <kbd>preview</kbd> button.</li>
+</ol>
+<table id="webani">
+<caption><small>Source:- https://amp.dev/documentation/examples/visual-effects/amp_story_animations/</small></caption>
+<tr><td><b>Animation</b></td> <td><b>Default duration (ms)</b></td> <td><b>Default delay (ms)</b></td>
+</tr>
+
+
+<tr> <td>drop</td> <td>1600</td> <td>0</td>
+</tr>
+<tr> <td>fade-in</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>fly-in-bottom</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>fly-in-left</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>fly-in-right</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>fly-in-top</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>pulse</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>rotate-in-left</td> <td>700</td> <td>0</td>
+</tr>
+<tr> <td>rotate-in-right</td> <td>700</td> <td>0</td>
+</tr>
+<tr> <td>twirl-in</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>whoosh-in-left</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>whoosh-in-right</td> <td>500</td> <td>0</td>
+</tr>
+<tr> <td>pan-left</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>pan-right</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>pan-down</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>pan-up</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>zoom-in</td> <td>1000</td> <td>0</td>
+</tr>
+<tr> <td>zoom-out</td> <td>1000</td> <td>0</td>
+</tr>
+
+  
+</table>
+
+
+
 
 <b>3schools All tools</b>
 
