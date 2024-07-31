@@ -444,7 +444,7 @@ https://esm.run/@google/generative-ai
 </li>
   <li style="text-align: left;">
   <b>6.</b> World's first comment support in a web story? 3schools make it possible with Facebook comment!
- <a href="https://usa.3schools.in/p/top-10-wild-animals-of-india-with-names.html" target="_blank" rel="nofollow">View Demo</a></li>
+ <a href="https://usa.3schools.in/p/top-10-wild-animals-of-india-with-names.html" target="_blank" rel="nofollow">View Demo</a> . How to add comment in web story? Use the Facebook Comment page from our 3schools template.</li>
   <li style="text-align: left;">
 
   <b>7.</b> Meet <b>3schools MakeStory AI</b>! Just write the topic &amp; select pages.</li>
