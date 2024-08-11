@@ -11,7 +11,7 @@ Template error : Subscribe to : Posts (Atom)
 BUGS › COMPLETE
 How to add Google Analytics (GA4) in Blogger
 FEATURE REQUESTS › COMPLETE
-Upload Premium News Template in Blogger
+Upload Apu Story Template in Blogger
 FEATURE REQUESTS › COMPLETE
 Reply option not showing in post comments
 FEATURE REQUESTS › COMPLETE
@@ -78,7 +78,7 @@ Tuesday, May 21, 2024
 This is not a problem!
 Mahesh Majhi
 Tuesday, May 21, 2024
-Sir where is the download link of : PREMIUM NEWS TEMPLATE .
+Sir where is the download link of : Apu Story TEMPLATE .
 
 Please provide me I am waiting for your reply 🙏🙏🙏
 Reply
@@ -199,16 +199,16 @@ How to add Google Analytics (GA4) in Blogger.
 
 [1] If you create web story using our tool then you may see an input box in our web story editor to add Google Analytics code.
 
-[2] If you are using our "PREMIUM NEWS TEMPLATE" (Free) , you can add GA4 code using the Blogger layout section. Remember - this way you can track only all posts, home page, search etc. But to track web story, you must use the above approach [1]. Read More
+[2] If you are using our "Apu Story TEMPLATE" (Free) , you can add GA4 code using the Blogger layout section. Remember - this way you can track only all posts, home page, search etc. But to track web story, you must use the above approach [1]. Read More
 Reply
 Delete
 Share
 Apu
 Apu
 Wednesday, May 22, 2024
-How to upload Premium News Template in Blogger?
+How to upload Apu Story Template in Blogger?
 
-If you are thinking to upload the PREMIUM NEWS TEMPLATE by clicking the restore button, I shall not recommend it. Because, you may get some amp errors.
+If you are thinking to upload the Apu Story TEMPLATE by clicking the restore button, I shall not recommend it. Because, you may get some amp errors.
 
 1. First open the downloaded XML file in a code editor like vs code, notepad++ or any other code editor.
 
@@ -220,7 +220,7 @@ SOHANLAL KUSHWAHA
 Wednesday, May 22, 2024
 Reply option not showing in post comments?
 
-I am using the "Premium News Template" But in my post, there is not available the Reply button.
+I am using the "Apu Story Template" But in my post, there is not available the Reply button.
 Apu
 Apu
 Wednesday, May 22, 2024
@@ -256,7 +256,7 @@ Please follow the following steps to solve the amp error:
 
 3. Go to Blogger › Settings › Enable search description.
 3schools
-4. Use our "PREMIUM NEWS TEMPLATE" & 3schools Make Story 2.0 to create a web story.
+4. Use our "Apu Story TEMPLATE" & 3schools Make Story 2.0 to create a web story.
 Is your AMP page or Web Story valid?
 Visit this link to check.
 Reply
@@ -418,7 +418,7 @@ https://esm.run/@google/generative-ai
 <h2 style="text-align: left;">3schools Make Story 2.0 Provides</h2>
 <ol class="ol">
 <li style="text-align: left;">
-  <b>1.</b> One premium news template with Google Web Story page.
+  <b>1.</b> Apu Story template with Google Web Story page.
   <a href="https://usa.3schools.in" rel="nofollow" target="_blank">View Demo</a>
 </li>
 <li style="text-align: left;">
@@ -465,30 +465,6 @@ https://esm.run/@google/generative-ai
   Sub-domain =&gt; Upload Our New Template. <a href="https://www.3schools.in/2024/07/apu-story-premium-blogger-template-free.html">Download the template</a>.
 </p>
 
-<!--<details open="">
-  <summary>Important Links 🔗</summary>
- <div style="border:1px solid #452;padding:10px">
-  <div><b>1. </b> <a href="https://drive.google.com/file/d/11dBIfkUTzzyj0U9eB6Oguvk6fF8Mr7kC/view?usp=drive_link" target="_blank" rel="nofollow">Download our amp premium news template.</a></div>
-  <div>
-    <b>2. </b>
-    <a
-      href="https://www.3schools.in/2022/10/amp-premium-blogger-template-for-blogger.html#how-to-upload-this-amp-template-in-blogger"
-      target="_blank"
-      rel="nofollow"
-      >How to upload this template in your Blogger blog.</a
-    >
-  </div>
-  <div>
-    <b>3. </b> After uploading this template, you must change some setting.
-    <a
-      href="https://www.3schools.in/2022/10/amp-premium-blogger-template-for-blogger.html#you-may-get"
-      target="_blank"
-      rel="nofollow"
-      >Read How to change</a
-    >
-  </div>
- </div>
-</details>-->
 <div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
   STEP 2
 </div>
