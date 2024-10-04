@@ -1041,11 +1041,13 @@ Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="htt
   
 </table>
 
+How to use Ai feature?&nbsp;<div>First log into your 3schools Make Story 2.0 account. Then go to <b>Make Story Editor</b>&nbsp;(https://www.3schools.in/p/make-story.html) &gt; Open the Story Setting panel by clicking the setting button at top-right corner &gt; Now scroll down &amp; you will find <b>Gemini API Key</b> tab. Now visit&nbsp; https://aistudio.google.com/app/apikey &gt; click on the <b>Create API Key</b> button &gt; Then click the <b>Copy</b> button. Now paste the copied API key in the Gemini API Key section of the <b>Make Story Editor</b>.</div>
+
 ** All about COINS **
 FREE:- Users get 200 coins when they login for the first time.
 1 coin will be deducted every time you use "Make Story AI" or "Ideas Panel".
 You can claim 10 coins for free after every 24 hours if you publish a total of 5 posts or pages in the last 24 hours.
-PLUS :- ₹50 / 200 coins - Scan the QR code and pay ₹50 with your account ID and user name. Know More - <a href="https://www.3schools.in/p/demo.html">Get More Coins</a>
+PLUS :- ₹50 / 200 coins - Scan the QR code (<img alt="QR Code" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkGxvYPQE6njI0mBGp78VZEHBI5aXRaSGbbohHeYIWxv8n_SwMi_HAC3ZSneWpBbdITbNFeUIuB_fl2Hpks4O3ikoiWYq_rnz79BmLRYKP-EJ6zey7Hqa-GA2vr5AWcxO0IT8lgT89jA6gBViNqLA08Gb0ZBAGkeymwps7GEPwqm8DbLvZCfIitgN0H0/s1600-rw/qr.webp">) and pay ₹50 with your account ID and user name. Know More - <a href="https://www.3schools.in/p/demo.html">Get More Coins</a>
 
 <b>3schools All tools</b>
 
