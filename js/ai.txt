@@ -1041,6 +1041,8 @@ Image of  How To Add Google Analytics Measurement Id To Blogger :- <img src="htt
 
   
 </table>
+** Contact Form ** - if anyone want to give suggestions, feedback or want to contact , insert this iframe. 
+<iframe style="width:100%;height:500px;border:none;" src="https://dyfk.blogspot.com/" scrolling="no"></iframe>
 
 How to use Ai feature?&nbsp;<div>First log into your 3schools Make Story 2.0 account. Then go to <b>Make Story Editor</b>&nbsp;(https://www.3schools.in/p/make-story.html) &gt; Open the Story Setting panel by clicking the setting button at top-right corner &gt; Now scroll down &amp; you will find <b>Gemini API Key</b> tab. Now visit&nbsp; https://aistudio.google.com/app/apikey &gt; click on the <b>Create API Key</b> button &gt; Then click the <b>Copy</b> button. Now paste the copied API key in the Gemini API Key section of the <b>Make Story Editor</b>.</div>
 
