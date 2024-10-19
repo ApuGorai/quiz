@@ -515,12 +515,13 @@ https://esm.run/@google/generative-ai
 <div style="border-top: 1px solid rgba(0, 0, 0, 0.14);border-bottom: 1px solid rgba(0, 0, 0, 0.14); margin: 10px 0px; text-align: center;">
   STEP 3
 </div>
-<p>
+ <p>
   <b>Step 3. </b> Go to our <a href="https://www.3schools.in/p/blogger.html" target="_blank">Web Story Generator Tool</a> => Click the "Sign In With Google" button => Complete the sign in process.
 
  </p>
+<div class="separator" style="clear: both;"><img alt="Sign in" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKKY_VNFf8FLx4i_-ckV4JG5PrITEaBQ9iY_Q6BbV9BCSj4EzG73-1wiPpe72iTHkVMD6xwvVpocczYkAxXHEWt9wYvISq2eQjv-WmiiwL3za89AbDgPREcE-rbbuJiEP5d2RtYcVMvry1pIvPOHSrChATvBotr7jFiQCs4Vj2mbMGUIuBkM5MfJIhEHk/s1600/sign-in.webp"/></div>
 <p>After completing the sign in process, you will see your profile pic with name, your blog list etc.</p>
-<div class="separator" style="clear: both;"><img style="box-shadow:none" alt="Web Story Generator for Blogger" border="0" data-original-height="677" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazjSwEfuwXnMXAckaGTnY46RGDQGVgSgXEWG387LeKFR26T9xm8ubCcErsA_-NNfwWjoVxlKCKqEptjhoU0L-M0zRbk76GPVpq5DD7eh7rNSTid_f0RiU8xI_-76r76n4sVVEDYlgh8h7WPOyr5EnTyuHHg0_g9kIdHLyiCixVgPheSHXeQyXmWUUNy8/s1600/web-story.jpg"/></div>
+<div class="separator" style="clear: both;"><img style="box-shadow:none" alt="Web Story Generator for Blogger" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxzs3p5oorA8QpfLDdtSk1QdPTMYRbLr_I38goJZaeEkXywamYhaLYr28cB18KFyThUCG6XkMCBTGhA09BRabOUbCl-KUucUSuB83vOSl035JILSqnEzLC0m3L19gIVMiDh67ZFqI9K_DpPNSAMqRwf3iJo5N9rrTX2BYvJY83YYq7-dGyFO3E5V1Ze-Q/s1600/profile.webp"/>
 
 
 <p>Now select your blog from the drop-down and click the <b>open template</b> button. Now select the pages (as many as you want) by clicking the plus (+) icon from this page . Then click the <b>process</b> button to open selected pages in our editor.</p>
