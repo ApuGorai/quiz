@@ -16,6 +16,21 @@ body {
   justify-content: flex-start;
   gap: 8px;
 }
+h2, h3, h4, h5, h6 {
+    padding: .6em 0 3px;
+    line-height: 1.25em;
+}
+p.paragraph {
+    line-height: 1.6em;
+    padding: 0.4em 0;
+}
+ul, ol {
+    padding-left: 40px;
+}
+ul li, ol li {
+    padding: 5.5px 0 5.5px 3px;
+    line-height: 1.6em;
+}
 img {
   width: 100%
 }
