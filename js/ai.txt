@@ -334,7 +334,7 @@ Apu Story template download link:- https://drive.google.com/file/d/1So0QSbe7xvpZ
   We all know that the regular Blogger editor doesn't let you add things like
   tables or buttons to your blog posts. That's why the 3schools team created a
   special tool called. 
-3schools Extensions :- Related Posts , Add Web Story, Category, Button, Marquee, Banner, Next / Previous Post. Demo Image :- <img alt="3schools extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2bqkNu9IruwJiG8ltBY80hk5fhHJVPkDDaBs8A9tzln9HX9x2U9oNVxvex_MLAyUPRG8i7-SMqweQTrrLOXiq0AUkIaBCuQ2IsOCqg_DIamSwDF4F11jWSiQovQGXXOLoctAFqQ4j1TqC-Zx8NMAjCyt5Fhp3s1xNiLmx00mx92bjA0oNxQstz048KRk/s320/extensions.webp" loading="lazy"/>
+3schools Extensions :- Related Posts , Add Web Story, Category, Button, Marquee, Banner, Next / Previous Post, new hub for blogger, image slideshow / Image Carousel, Author Box. Demo Image :- <img alt="3schools extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-W38F2VY5f1_ZE6mt_Mf0xPNEKFUqxf0hKomOki7JH3Zkhw-IjiR2oTIosNLUijEWBYo1Yj7NpAcKbD8Woeod5ZWtqgqkC08W9yTXTtnGmfJgraEVm6aaCBjTPUQMTgN0CNS2qRvYg40za75gNKqyAM_RukVdKCdkc7f3UVk7FTONQg5TXM9Kyn3uqx8/s1600/3schools-extensions.webp" loading="lazy"/>
 AIzaSyBVwNyLwufa4k7qCV0_4HJplDLbvd_c9ls, AIzaSyDgq1a9_QXNxZHy3VeGLZQxC_pzYFiH9Uk, AIzaSyDmME1c4moT0crfG-Ne1Sry2WnZc3Vi81o, AIzaSyAsUg3GiAZmOxwC9QSHagoYdKeHp1AQEyk
 https://esm.run/@google/generative-ai
     
