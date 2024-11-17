@@ -403,7 +403,117 @@ https://esm.run/@google/generative-ai
       </p>
     </div>
   </details>
-  
+   <details class="ac">
+    <summary>All About 3schools Extensions!</summary>
+    <div class="aC">
+      <p>
+        <b>3schools Extensions</b> are a collection of tools that enhance the functionality of Blogger. They include features not available in the standard Blogger editor, such as adding related posts, web stories, categories, buttons, Timer, Share Buttons, marquees, banners, next/previous post navigation, image slideshows/carousels, and author boxes. These extensions are designed to be used with the <a href="https://www.3schools.in/p/post.html" target="_blank"><b>3schools Post Editor</b></a>. 
+      </p><div class="separator" style="clear: both;"><img style="margin:0" alt="3schools Extensions List" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7EROMCo2hkHOOqlVgeh5pHpnkxjrS8KjON7v1b0v2NzPCkSG7DyFcZKx4VEHzOYTc-4Ia4IudAzCtwHq5rlUFC2oDGoOgrWdy6mCORdgOvjbwDIqhVp0ndgTW1XFIdgHFy7Z5IPJIS4km-cJzfIa16xagOa3udgnx4tCae2pA69veaQ1VOmvSiCCimWg/s1600/3schools-extensions%20%281%29.webp" loading="lazy"/></div>
+      <!-- Extensions -->
+   <details class="ac">
+    <summary>1.How to Use the Related Posts Extension?</summary>
+    <div class="aC">
+      <p>This extension allows you to display related posts on your blog post. Here's a step-by-step guide on how to use it:</p>
+      <div class="separator" style="clear: both;"><img style="margin:0" alt="Related Posts Extension" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvftURK8gi7IGuTaXk0z_6Cik0CJxiWU4CV8_slDyWIgVe_4L410FYOQnACvLXi9JBv53vh0JIlVqKsjONOWkcdn2BqsP6nXq2lCgnXTYItA8oDcv6x7PYiBzuTIeJJLFFr7BL8J-ua-nTMhiaMjLNWbCrkGQH5nMoAzJuDycDKneDggi_qQzGrvLTZY/s1600/post-extension.webp" loading="lazy"/></div>
+     <ol class="ol">
+<li><kbd>Search for Posts:</kbd> Type a keyword or phrase in the <b>Search Post</b> input field to search for related posts on your blog.</li>
+<li><kbd>Set Post Type</kbd>: Enter a title for the related posts section, such as <b class="notranslate">Also Read</b> or <b class="notranslate">Recommended Posts</b>.</li>
+<li><kbd>Set Number of Posts</kbd>: Use the range slider to set the number of related posts to display. You can choose from 1 to 12 posts.</li>
+<li><kbd>Set Post Style</kbd>: Choose from two post styles: <i class="notranslate">List Style</i> or <i class="notranslate">Block Style</i>. Click on the corresponding button to select the style.</li>
+<li><kbd>Show Thumbnail</kbd>: Check or uncheck the <b class="notranslate">Show Thumbnail</b> checkbox to display or hide post thumbnails.</li>
+<li><kbd>Show Title</kbd>: Check or uncheck the <b class="notranslate">Show Title</b> checkbox to display or hide post titles.</li>
+<li><kbd>Show Description</kbd>: Check or uncheck the <b class="notranslate">Show Description</b> checkbox to display or hide post descriptions. 
+<div class="note">Finally, click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>2. Web Story</summary>
+    <div class="aC">
+      <p>The <b class="notranslate">Web Story</b> extension allows you to embed web stories from your blog into your posts. Here's a step-by-step guide on how to use it:</p>
+      <div class="separator" style="clear: both;"><img style="margin:0" alt="Web Story Extension" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIYa-N1I4a4xSyb4Ql-hik0m8-yG-mInCFVf4EgMaa2th9O0_kiJblhfiiDHBIwFu89_h0YHjJyjTv7XRVr_PbARqUzNQnrN7JQxhw7ioz1LeKb5Oe0JR1OOVVu1RTOQsVCs2ZDuGR0b_yfMhJQBEtoC14FNQ-OuTiYr0x5L0bc1fGoW8olGGeSJV79g/s1600/web-story-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+<li><kbd>Set Web Story Type</kbd>: Enter a title for the web story section, such as "Web Stories", "Trending Web Story".</li>
+<li><kbd>Set Number of Web Stories</kbd>: Use the range slider to set the number of web stories to display. You can choose from 1 to 12 web stories.</li>
+<li><kbd>Fetch Latest or Random Web Stories</kbd>: Click on the <b class="notranslate">Latest Web Story</b> button to fetch the latest web stories or click on the <b class="notranslate">"Random Web Story</b> button to fetch random web stories.</li>
+<li><kbd>Set Web Story Style</kbd>: Choose from two web story styles: <b class="notranslate">List Style</b> or <b class="notranslate">Block Style</b>. Click on the corresponding button to select the style.</li>
+<li><kbd>Show Thumbnail</kbd>: Check or uncheck the <b class="notranslate">Show Thumbnail</b> checkbox to display or hide web story thumbnails.</li>
+<li><kbd>Show Title</kbd>: Check or uncheck the <b class="notranslate">Show Title</b> checkbox to display or hide web story titles.</li>
+<li><kbd>Show Description</kbd>: Check or uncheck the <b class="notranslate">Show Description</b> checkbox to display or hide web story descriptions.
+<div class="note">Finally, click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details> 
+   <details class="ac">
+    <summary>3. Category</summary>
+    <div class="aC">
+      <p>The <b>Category</b> extension allows you to display a list of categories on your blog post.</p>
+      <div class="separator" style="clear: both;"><img style="margin:0" alt="Category Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7qAzX7iOoXHoydzux0UPWS69ujoKsbTRazy6-zo9nSis_oROV_Il5hvYnh1y8wIMUIiBzY7ZD6aencQOALWfK7b99QjoJWrRlKDtVBGOuLT_ob8fICO01rZ2koYy8YuqS0pmqC9HvtTSklO-3hqeNWeY7kEHRNzsG59uSnM5-HYQQDMz-sn6iNwoVMgc/s1600/category-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+<li><kbd>Set Category Title</kbd>: Enter a title for the category section, such as "Trending Now".</li>
+<li><kbd>Enter Category</kbd>: Type a category name in the <i class="notranslate">"Enter category"</i> input field. As you type, suggestions will appear below. Click on a category from the suggestions.</li>
+<li><kbd>Set Number of Categories</kbd>: Use the range slider to set the number of categories you want to display. You can choose from 1 to 400 categories.</li>
+<li><kbd>Fetch Latest or Random Categories</kbd>: Click on the <b class="notranslate">Latest Categories</b> button to fetch the latest categories or click on the <b class="notranslate">Random Categories</b> button to fetch random categories.
+<div class="note"> You can drag & drop the category, delete any added category.  Finally, click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>4. Button</summary>
+    <div class="aC">
+      <p>The Button extension allows you to create custom buttons for your blog post.</p>
+    <div class="separator" style="clear: both;"><img style="margin:0" alt="Button Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq_b7F09Qs2A3geho0FUTiHIKyeI_sn2V9liZWA1Ba88GIltvkQ6StFrtrisjNY-DwcK6CJcK32KgfI1iLX7vZKTpuQke-cRcpJKuuypm5Mzvqdox4zIZBte56SpsYf9iE_-eT4f1AqCOux3kU6HqcXAGcigPSr-TIoR7geR9eIIH4zZzUGaRXSesZ-kc/s1600/button-extension.webp" loading="lazy"/></div>  
+<ol class="ol">
+ <li><kbd>Set Button Text</kbd>: Enter the text you want to display on the button in the "Button Text" input field.</li>
+<li><kbd>Set Button Link</kbd>: Enter the URL you want the button to link to in the "Button Link" input field (Set Link Target, Set Link Rel). </li>
+<li><kbd>Customize Button Style</kbd>: Use the various options to customize the button's style, including font size, font weight, text align, display, text color, background color, padding, margin, border width, border color, and more. Choose an animation effect for the button in the <b class="notranslate">Animation</b> dropdown menu.</li>
+<li><kbd>Choose a Button Style</kbd>: Click on the <b class="notranslate">BUTTON LIST</b> tab to choose from a variety of pre-designed button styles.
+
+<div class="note">Preview your button and click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>5. Timer</summary>
+    <div class="aC">
+     <p>The Timer extension allows you to create a countdown timer for your blog.</p>
+<div class="separator" style="clear: both;"><img style="margin:0" alt="Timer Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLQ0ehN1FzHUREQbGSuQEalMfLYsX3IvQaqyyX9m6DoVuFupS6tiY2VdxV1auJUQ4ZSKXhFGFpSEtTjAwfF67cSVb1BngKomJsG4puAoHi1ktx_yDQ2vQcsJBaYQs9za1-kF0LOoOqqlTNbUGUkjz86M9cWx8m_shAMLMYXp3De0jtE7jwLuPV_LuK9v8/s1600/timer-extension.webp" loading="lazy"/></div>
+      <ol class="ol">
+<li><kbd>Set Title and Message</kbd>: Enter the title and message you want to display on the timer in the "Title & Message" input fields.</li>
+<li><kbd>Set Date or Custom Time</kbd>: Choose a date or custom time for the timer to count down to. You can use the <b class="notranslate">Date</b> input field to select a specific date or the <b class="notranslate">Custom Time</b> input field to enter a custom time in seconds.</li>
+<li><b class="notranslate">Customize the "We're Live!" Message</b>: Enter a custom message to display when the timer reaches zero. Use the text formatting options to customize the appearance of the text like bold, Italic, Link, Underline, Text Color, Background Color.</li>
+<li><kbd>Select a Template</kbd>: Choose a pre-designed template for the timer from the <b class="notranslate">Select a Template</b> section.
+
+<div class="note">Preview the timer and click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>6. Share This</summary>
+    <div class="aC">
+      <p>The <b>Share This</b> extension allows you to create social share buttons for your blog post.</p>
+      <div class="separator" style="clear: both;"><img style="margin:0" alt=" Social Share Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDhKEdfMm8l68XzjlBvm0Nq1bhbAXQIX5KrjLfrQQcV2htqlPVyte_hJLQvQrUByXF0EG-rGAu2Y_XdDhueSvBuAFGVT0Hle1lheWo0qH4j3PJOEaoUBS1n0LBmw2msOlgBhUzgN3Wd2u3oGm_MiAk_2y58qvy2c0pxBLfdvDc9xEHDfRox6efuhdTT0o/s1600/share-this-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+<li><kbd>Select Social Media</kbd>: Choose the social media platforms you want to include in the share buttons from the <b class="notranslate">Select Social Media</b> dropdown menu. You can choose from a variety of platforms, including Facebook, Twitter, WhatsApp, LinkedIn, and more.</li>
+<li><kbd>Set Button Size</kbd>: Use the <b class="notranslate">Button Size</b> slider to set the size of the share buttons in pixels.</li>
+<li><kbd>Set Button Shape</kbd>: Choose the shape of the share buttons from the <b class="notranslate">Button Shape</b> dropdown menu. You can choose from circle, rounded, or square shapes.</li>
+<li><kbd>Add Social Media Button</kbd>: Click the <b class="notranslate">Add Social Media Button</b> button to add the selected social media platforms to the share buttons. You can also delete the added button by clicking the <i class="notranslate">✖</i> button.
+<div class="note">Preview the social share buttons and click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   
+      
+      
+      
+  </div>
+</details>
   
 
 </div>
