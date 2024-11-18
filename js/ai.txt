@@ -508,7 +508,93 @@ https://esm.run/@google/generative-ai
 </ol>
     </div>
   </details>
-   
+   <details class="ac">
+    <summary>9. Next - Previous</summary>
+    <div class="aC">
+      <p>The Next/Previous Post extension allows you to display navigation links to the previous and next posts on your blog post.
+</p>
+   <div class="separator" style="clear: both;"><img style="margin:0" alt="  Next Previous Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJsx3LxNLqliwrSRENYKu2aLjfe2LTUP5m3NscV2oIiNfGmPpkTHdWM4QPMHA0iyjM_S9tgCQj1LUx2aPneuq6exYEM04nIAeUiG3ToxSs92HAgUFWcl3jmmMPemQj4EUhUbpH0QmVkAkuyBLOJshrXsT7J9hRcmwaBJ4zu_GmWwfegGcc1YCyE1JStwM/s1600/next-previous-extension.webp" loading="lazy"/></div>  
+<ol class="ol">
+<li><kbd>Set Previous Text</kbd>: Enter a title for the previous post link, such as <b class="notranslate">Previous Chapter</b>.</li>
+<li><kbd>Set Next Text</kbd>: Enter a title for the next post link, such as <b class="notranslate">Next Chapter</b>.</li>
+<li><kbd>Previous Search</kbd>: Enter the title of the previous post in the <b class="notranslate">Previous Search</b> input field. As you type, suggestions will appear. Click on a post from the suggestions to add as a previous post.</li>
+<li><kbd>Next Search</kbd>: Type the title of the next post in the <b class="notranslate">Next Search</b> input field. As you type, suggestions will appear. Click on a post from the suggestions.
+
+<div class="note">Finally, click on the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>10. Image Carousel</summary>
+    <div class="aC">
+      <p>The Image Slideshow extension allows you to create a slideshow of images on your blog post.</p>
+      <div class="separator" style="clear: both;"><img style="margin:0" alt="Image Carousel Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCaS1U99TqoJR2oVoZnH72dfCIrZK0mKyMYrzlU1CQjFR1MKEJDXgpP-kvFCdMZBnb-Z00wClbcYbtLLkB3U_re9yJHezg-mFaD6CH81M6nAgw8M7hxsuRkMlHtp4toJSL4pTMxXiKDjgb6egQlKdAIq9YoHl_M8tXpdaHC4P5mRcmn5kFNTSpK57zW0o/s1600/image-carousel-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+<li><kbd>Enter Image URL</kbd>: Type the URL of the image you want to add to the slideshow in the <b class="notranslate">Enter image URL</b> input field.</li>
+<li><kbd>Upload Image</kbd>: If you don't have the image URL, you can upload the image by clicking the <b class="notranslate">Upload</b> button.</li>
+<li><kbd>Add Image</kbd>: Click the <b class="notranslate">Add Image</b> button to add the image to the slideshow.</li>
+
+<li><kbd>Delete Image</kbd>: You can delete an image from the slideshow by clicking the <b class="notranslate">Delete</b> icon.
+
+<div class="note">Once you have added all the images, you can insert the slideshow into your blog post by clicking the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>11. Author Box</summary>
+    <div class="aC">
+      <p>The Author Box extension allows you to create a customizable author box for your blog posts.</p>
+    <div class="separator" style="clear: both;"><img style="margin:0" alt="Author Box Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0DS02d7Mgx7MUk0zvtbyp1Uq6pOPvn7OpJeLzzE4fsZ2CjBYRep3aDElEMpVYfc0agXxj6p9EfmpdUW6NDz-BKtccabXzr9teFDWyVfLZIpYO2yGbxxFCtiMwVuqERPW3tjTCLeBskR60gvZdTSU-1sUJrGibw1nvL7wTSMbvcoIm6Ou5JRvxw-5TpEc/s1600/author-box-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+ <li><kbd>Enter Image URL</kbd>: Type the URL of the author's image in the <b class="notranslate">Image URL</b> input field. You can also upload images by clicking the upload button</li>
+ <li><kbd>Select Bio Style</kbd>: Choose a bio style from the dropdown menu.</li>
+ <li><kbd>Enter Author Name</kbd>: Type the author's name in the "Author Name" input field.</li>
+<li><kbd>Enter Author Link</kbd>: Type the author's profile link (Facebook, Instagram, Blogger etc.) in the "Author Link" input field.</li>
+<li><kbd>Enter Short Bio</kbd>: Type a short bio of the author in the "Short Bio" textarea.</li>
+<li><kbd>Add Author Bio</kbd>: Click the  "Add Author Bio" button to add the author bio.
+<div class="note">You can add multiple author bio, edit, delete and select one of them. Finally click the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
+   <details class="ac">
+    <summary>12. News Hub</summary>
+    <div class="aC">
+      <p>The News Hub for Blogger extension allows you to keep your readers updated with the latest and random posts, pages, or web stories. <a href="https://www.3schools.in/p/news-hub.html" target="_blank">Know more</a></p>
+ <div class="separator" style="clear: both;"><img style="margin:0" alt="News Hub Extensions" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOSj2cg5bdPxByUINcUqVRNhM5tCjXEHSCS4sBqaWvYHYy3pCfRDO6wTK-hEIO9_nAr20JT5e5EfrusaB6wRIChDLVOHvFcwoFRNRZmibsyXeU5UFnaL8tiaRqcaay0kq0-ZMUlM8OtJgLlFLZoic7-YRznMlzWW6Mm9huCs7RlDvujfMxO2Hc34fILgc/s1600/news-hub-extension.webp" loading="lazy"/></div>
+<ol class="ol">
+<li><kbd>Enter Your Blog URL</kbd>: Type the URL of your blog in the "Blog URL" input field.
+</li>
+<li><kbd>Choose What to Display</kbd> : Select whether to display posts or pages in the "Post or Page" dropdown menu.</li>
+<li><kbd>Customize the Icon</kbd>: Choose the color of the icon using the "Icon Color" color picker.</li>
+<li>Choose the background color of the icon using the "Icon Background Color" color picker.</li>
+
+<li><kbd>Customize the Header:</kbd>
+
+<p>Choose the color of the header using the "Header Color" color picker.</p>
+<p>Choose the background color of the header using the "Header Background Color" color picker.</p>
+</li>
+<li><kbd>Enter the Title</kbd>: Type the title of the news hub in the "Title" input field.</li>
+
+<li><kbd>Set the Number of Posts</kbd>:
+
+ <p>Choose the maximum number of posts to display in the news hub using the "News Hub Max Posts" range slider.</p>
+ <p>Choose the number of posts to load at a time using the "Posts Per Load" range slider.</p>
+</li>
+
+<li><kbd>Customize the Suggested Posts</kbd>:
+
+ <p>Type the title of the suggested posts section in the "Suggested Posts Title" input field.</p>
+<p>Choose the maximum number of suggested posts to display using the "Suggested Max Posts" range slider.</p>
+<p>Choose the time to display suggested posts from the "Post Display Time (seconds)" range slider.</p>
+<p>Toggle the display of suggested posts using the "Display Suggested Posts" checkbox. If you don't want to show then turn off.</p>
+<div class="note">Finally click the save icon in the top right corner.</div>
+</li>
+</ol>
+    </div>
+  </details>
       
       
       
