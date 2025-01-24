@@ -1246,8 +1246,153 @@ How to use Ai feature?&nbsp;<div>First log into your 3schools Make Story 2.0 acc
 FREE:- Users get 200 coins when they login for the first time. You will earn 200 coins if someone signs up using your referral link. How to get referral link:- Go to <b>Blogger 3schools</b> & complete the Sign In process <b>&gt;</b> you can see your referral link below your profile photo.
 1 coin will be deducted every time you use "Make Story AI" or "Ideas Panel".
 You can claim 10 coins for free after every 24 hours if you publish a total of 5 posts or pages in the last 24 hours.
-PLUS :- ₹50 / 200 coins - Scan the QR code (<img alt="QR Code" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkGxvYPQE6njI0mBGp78VZEHBI5aXRaSGbbohHeYIWxv8n_SwMi_HAC3ZSneWpBbdITbNFeUIuB_fl2Hpks4O3ikoiWYq_rnz79BmLRYKP-EJ6zey7Hqa-GA2vr5AWcxO0IT8lgT89jA6gBViNqLA08Gb0ZBAGkeymwps7GEPwqm8DbLvZCfIitgN0H0/s1600-rw/qr.webp">) and pay ₹50 with your account ID and user name. Know More - <a href="https://www.3schools.in/p/demo.html">Get More Coins</a>
+Try premium features  for 30 days using 500 coins.
+PLUS :- ₹50 / 200 coins - Scan the QR code (<img alt="QR Code" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkGxvYPQE6njI0mBGp78VZEHBI5aXRaSGbbohHeYIWxv8n_SwMi_HAC3ZSneWpBbdITbNFeUIuB_fl2Hpks4O3ikoiWYq_rnz79BmLRYKP-EJ6zey7Hqa-GA2vr5AWcxO0IT8lgT89jA6gBViNqLA08Gb0ZBAGkeymwps7GEPwqm8DbLvZCfIitgN0H0/s1600-rw/qr.webp">) and pay ₹50 with your account ID and user name. Know More - <a href="https://www.3schools.in/p/plus.html">Get More Coins</a>
 
+<div class="accordion">
+  <div class="accordion-item">
+    <input type="checkbox" id="question1">
+    <label for="question1" class="accordion-label">How can I get more coins for free?</label>
+    <div class="accordion-content">
+      <p>
+        You can earn 10 coins every 24 hours by publishing 5 posts or web stories within that time frame. Or refer a friend with your referral link to get 200 coins.
+      </p>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <input type="checkbox" id="question2">
+    <label for="question2" class="accordion-label">What do I get when I log in for the first time?</label>
+    <div class="accordion-content">
+      <p>
+        Users receive 200 coins when they log in for the first time.
+      </p>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <input type="checkbox" id="question3">
+    <label for="question3" class="accordion-label">How are coins deducted?</label>
+    <div class="accordion-content">
+      <p>
+        1 coin will be deducted every time you use the "Make Story AI" or "Ideas Panel" features.
+      </p>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <input type="checkbox" id="question4">
+    <label for="question4" class="accordion-label">Can I earn coins through referrals?</label>
+    <div class="accordion-content">
+      <p>
+        Yes, you will earn 200 coins if someone signs up using your referral link. Referral link is available in your dashboard under the profile photo.
+      </p>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <input type="checkbox" id="question5">
+    <label for="question5" class="accordion-label">What is the cost for premium features?</label>
+    <div class="accordion-content">
+      <p>
+        You can try premium features for 30 days using 500 coins or pay ₹50 to get 200 coins and access premium features for 30 days.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question34">
+    <label for="question34" class="accordion-label">What types of premium features are available?</label>
+    <div class="accordion-content">
+      <p>
+        Our premium features include voice typing, the ability to download edited pages, and the option to draft web stories in the web story editor. In the post editor, you can use helpful extension like a button generator, an image slideshow and more. Premium features are marked with the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M5 16L3 5l5.5 5L12 4l3.5 6L21 5l-2 11zm14 3c0 .6-.4 1-1 1H6c-.6 0-1-.4-1-1v-1h14z"></path></svg> icon, so you can easily identify them.
+      </p>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <input type="checkbox" id="question6">
+    <label for="question6" class="accordion-label">Is there a refund policy?</label>
+    <div class="accordion-content">
+      <p>
+        No, money refunds are not applicable for this service.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question7">
+    <label for="question7" class="accordion-label">Is there customer support available?</label>
+    <div class="accordion-content">
+      <p>
+        Yes, we offer 24/7 customer support to assist you with any issues. Please email us at 3schools.in@gmail.com
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question8">
+    <label for="question8" class="accordion-label">What happens if I don't publish 5 posts in 24 hours?</label>
+    <div class="accordion-content">
+      <p>
+        If you do not publish 5 posts or web stories within 24 hours, you will not be able to claim the 10 free coins.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question11">
+    <label for="question11" class="accordion-label">Are there any limits on how many coins I can earn?</label>
+    <div class="accordion-content">
+      <p>
+        There are no specific limits on how many coins you can earn, but the free coins are capped at 10 every 24 hours through publishing.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question15">
+    <label for="question15" class="accordion-label">Can I transfer my coins to another user?</label>
+    <div class="accordion-content">
+      <p>
+        No, coins are non-transferable and can only be used within your own account.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question16">
+    <label for="question16" class="accordion-label">How do I know how many coins I have?</label>
+    <div class="accordion-content">
+      <p>
+        You can check your coin balance in your account dashboard. Go to <a href="/p/blogger.html">Blogger 3schools</a> <b>&gt;</b> Complete the sing in process <b>&gt;</b> Click the Ideas Panel button Or go to the template page.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question21">
+    <label for="question21" class="accordion-label">How to get premium features using coins?</label>
+    <div class="accordion-content">
+      <p>
+        To get premium features for 30 days, your account must have more than 500 coins. Contact <a href="mailto:3schools.in@gmail.com">3schools.in@gmail.com</a> with your account ID and user name to request premium features. If your account has 500 coins, they will be deducted, and you will receive premium features for 30 days. Please remember that coins are non-refundable.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question23">
+    <label for="question23" class="accordion-label">Can I upgrade to premium features at any time?</label>
+    <div class="accordion-content">
+      <p>
+        Yes, you can upgrade to premium features at any time as long as your account has more than 500 coins. Simply follow the process to request premium features via email to <a href="mailto:3schools.in@gmail.com">3schools.in@gmail.com</a>.
+      </p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <input type="checkbox" id="question31">
+    <label for="question31" class="accordion-label">Will my coins expire?</label>
+    <div class="accordion-content">
+      <p>
+        No, your coins do not expire as long as your account remains active. However, if your account is inactive for an extended period, please check the terms for any potential changes.
+      </p>
+    </div>
+  </div>
+
+
+</div>
 
 
 <b>3schools All tools</b>
