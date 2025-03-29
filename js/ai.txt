@@ -604,6 +604,34 @@ AIzaSyD3-zS9Mro598L9WTx2V--UK3J6bjjbU-Q, AIzaSyAdGpmEn4vxkbCjSuhAA07O1fO73KoYMPw
 
 </div>
 
+<p>Add push notifications to your Blogger blog to convert viewers into subscribers, boost your SEO, and increase the chances of your articles appearing on Google Discover.</p>
+<p><b>Webpushr</b> is a fast-growing tool for sending web push notifications that works on all popular browsers. It offers a free plan for up to 10,000 active users, with pricing based only on the number of unique subscribers receiving notifications.</p>
+<div class="note">Our <a href="/p/blogger.html">3schools MakeStory 2.0</a> platform lets you easily create blog posts, build web stories on Blogger, and send notifications directly from our user-friendly dashboard.</div>
+<div class="separator" style="clear: both;"><img style="margin:0" loading="lazy" alt="Best Web Push Notifications For Blogger"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavkUHIRLIj4yoANbXHMM70yZ5I1DVBELy6wZaSqJ_CiUYiC6HMOeaNdA7yipeAl6mLGMSKb-gBx1AfKjlwkpDMvBeRgG87zA_g2Hlp7RoaaGdBvMMiolrTLBwJ6K40qmLuwSmDJKA3kX0UItTBnBzNqeVu3NKVRNTAbsc80gdtSWZGRtJKQjSbgk1jaQ/s1600/unlock-google-discover-best-web-push-notification-for-blogger.webp"/></div>
+<h2>How to add Webpushr to your Blogger blog?</h2>
+<p>Visit <a href="https://app.webpushr.com/signup" rel="nofollow" target="_blank">Webpushr.com</a>, sign up with your email, and then log in. Then add your blog... <a href="https://www.webpushr.com/docs/push-notifications-for-blogger-sites" rel="nofollow" target="_blank">read more</a></p>
+<p>If you’re using our <a href="/2024/07/apu-story-premium-blogger-template-free.html">Apu Story Blogger template</a>, just paste the copied code in the proper section as shown in the image below; otherwise, you may get an AMP error.</p>
+<div class="separator" style="clear: both;"><img style="margin:0" alt="Add webpushr push notification on Blogger"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5qYhYYicdZ-SwJPi7eMxFElI-hZpWe5KmznAjS5U_1y7v58iMKieED48j5gDGxERLPMnEF68E5yws8jfTrHgcfoFpyiWOxSIr54CswLzKTEHGrhsMVldXu-6JLzxQzTsEwP4v3AkiDkV24XTPnrlIV5kJruMwLtoysDzE9ZN3wxzg-Go5T6BP-78O-ng/s1600/blogger-theme-code.webp"/></div>
+<p>If you’re using our <a href="/p/news-hub.html">News Hub for Blogger</a>, adding Webpushr is even easier. Simply copy the <kbd>key</kbd> from your code and paste it into the <kbd>pushKey</kbd> field.</p>
+
+<h2>How to send notifications using 3schools MakeStory 2.0?</h2>
+<p>We have integrated Webpushr into our 3schools MakeStory 2.0 platform. Now, you can send up to 20 notifications within 6 hours (20 pushes in 6 hours) to your users right from our dashboard.</p>
+<ol class="ol">
+<li>Log in to your <kbd>Webpushr</kbd> account, click the three-dot button at the top-left corner, and navigate to <kbd>Integration</kbd> > <kbd>REST API Keys</kbd>. Copy the <kbd>Key</kbd> and <kbd>Authentication Token</kbd> values. 
+  <div class="separator" style="clear: both;"><img style="margin: 0" alt="Get Webpushr API Key"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRyLFGGUPV_rMVXr5w8-TI4ohPySXpDMk2rbAty0zuon4b9I9CdXYYo6YwgaeiAl4x70XooJu3uM-ZPuL6CVG-fUpX2p29kiGT4JFZuuPhiTIyl_6cJhKgLY7JUuyW5hYy1_7SLVYjgQ7F6xlnfrix9xu4igvydphb0omsgHENK8rNf1fTPsz1KrPcoxU/s1600/getushr-api-key.webp"/></div>
+  </li>
+<li>Sign in to your <a href="/p/blogger.html" target="_blank"><kbd>3schools MakeStory</kbd></a> account and click the <kbd><svg xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 24 24"><path fill="currentColor" d="M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2m6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1z"></path></svg></kbd> icon at the bottom-right corner to access the Webpushr dashboard.</li>
+<li>Enter your <kbd>Webpushr Key</kbd> and <kbd>Authentication Token</kbd>, then click the <kbd>Save API Key</kbd> button. You can add multiple API keys and choose one from the drop-down menu.
+  <div class="separator" style="clear: both;"><img style="margin: 0" alt=" Enter Webpushr API Key & Authentication Token"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWly92qszrol_PJ0AIepaCGsIddteeidJThePSOcpQFdVB996MLxAWSlrpxFQcqk06O5q6q6Eu5GcGoU8mLuJAwVO4EbdTEq-SapOn4z-ewyvRUpkEuYCGA6W3EY4kww6Amo0tP0EpS792lxSAtbLe7JcrE-I4nLH3Pd52BTIXA76EIE3HKKWTDTrJ_A/s1600/enter-api-key-and-authentication-token.webp"/></div>
+  </li>
+<li>In the API section below, view your blog feed and select either Posts or Pages. Click the Send button to send a specific article to your Webpushr subscribers.</li>
+ 
+<li>To create a new notification campaign, click the <kbd>New Campaign</kbd> button, fill in the fields such as notification title, message, link, and image, then click the Send button to deliver the notification.
+  
+<div class="note">Segments allow you to target your subscribers by location, device, behavior, and more. To create a segment, sign in to <kbd>Webpushr</kbd>, click the three-dot button, go to Users > Segments, and create a new segment. Then, copy the segment ID. <a href="https://www.webpushr.com/segmentation" target="_blank" rel="nofollow">Know More About Segments</a></div>
+  In our dashboard :- add a title (for example, "India"), paste the segment ID, and click the <kbd>Add</kbd> button. You can add multiple segments and select them from the drop-down menu.
+ </li>
+</ol>
 
 
 <p>
