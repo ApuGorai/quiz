@@ -664,7 +664,7 @@ AIzaSyD3-zS9Mro598L9WTx2V--UK3J6bjjbU-Q, AIzaSyAdGpmEn4vxkbCjSuhAA07O1fO73KoYMPw
   no upload required!
 </li>
 <li style="text-align: left;">
-  <b>5.</b> Using this version, you can also create web stories with quizzes.
+  <b>5.</b> Using this version, you can also create web stories with quizzes. To add a quiz to your web story, select one of our stylish templates from the 3schools collection. Then, enter the quiz question and answers (a minimum of two answers is required, such as true and false; if there are three answers, provide three, and so on) and select the correct answer.
 </li>
   <li style="text-align: left;">
   <b>6.</b> World's first comment support in a web story? 3schools make it possible with Facebook comment!
